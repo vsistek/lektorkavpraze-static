@@ -20,7 +20,7 @@ function getQuote() {
       prev_id = id;
     }
   };
-  xmlhttp.open("GET", "http://cloud.lektorkavpraze.cz/aplikace/getrandomquote.sh?##QUOTE##", true);
+  xmlhttp.open("GET", "/aplikace/getrandomquote.sh?##QUOTE##", true);
   xmlhttp.send();
 }
 

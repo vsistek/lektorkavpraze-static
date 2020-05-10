@@ -17,7 +17,7 @@ function getTask() {
       document.getElementById('solution').innerText = myArr[1];
     }
   };
-  xmlhttp.open("GET", "http://cloud.lektorkavpraze.cz/aplikace/##APICALL##", true);
+  xmlhttp.open("GET", "/aplikace/##APICALL##", true);
   xmlhttp.send();
 }
 

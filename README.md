@@ -6,6 +6,14 @@ Website is statically generated using custom shell script, see `src/util/build.s
 
 There are some dynamic parts in python3 served as tiny ajax web services (CGI shell scripts), see `src/apps`
 
+## Install
+
+This repository is used on a Debian-based GNU/Linux instance (although it is written pretty portably).
+```
+sudo apt-get install python3-markdown python3-yaml
+```
+
+
 ## Author
 
 Vaclav Sistek &lt;vsistek@fsfe.org&gt;
