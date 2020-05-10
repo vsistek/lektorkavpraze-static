@@ -1,0 +1,27 @@
+questions:
+  - {CZ: Můžete mi říci, EN: Can you tell me}
+  - {CZ: Víte, EN: Do you know}
+
+answers:
+  - {CZ: Řekněte mi, EN: Tell me}
+  - {CZ: Vím, EN: I know}
+  - {CZ: Nevím, EN: I don't know}
+
+
+object clauses:
+  - {CZ: kolik je hodin, EN: what the time is}
+  - {CZ: jak se jmenuje jeho matka, EN: what her mother's name is}
+  - {CZ: odkud jsou, EN: where they are from}
+  - {CZ: kam on jde, EN: where he is going}
+  - {CZ: co ona chce, EN: what she wants}
+  - {CZ: kde to je, EN: where it is}
+  - {CZ: kde je banka, EN: where the bank is}
+  - {CZ: kde je nejbližší restaurace, EN: where the earest restaurant is}
+  - {CZ: kdy přijdeš, EN: when you will come}
+  - {CZ: jestli to ona má, EN: if she has it}
+  - {CZ: jestli přijde v čas, EN: if she will come in time}
+
+
+templates:
+ - ["[questions:CZ], [object clauses:CZ]?", "[questions:EN] [object clauses:EN]?"]
+ - ["[answers:CZ], [object clauses:CZ].", "[answers:EN] [object clauses:EN]."]

@@ -1,0 +1,42 @@
+be1:
+ - {CZ: Já jsem, SP: yo soy}
+ - {CZ: Ty jsi, SP: tú éres}
+ - {CZ: On je, SP: él es}
+ - {CZ: Ona je, SP: élla es}
+ - {CZ: Vy jste (vykání), SP: usted es}
+ - {CZ: My jsme (ženy), SP: nosostras somos}
+ - {CZ: My jsme (muži), SP: nosostros somos}
+ - {CZ: Vy jste (ženy), SP: vosotras sois}
+ - {CZ: Vy jste (muži), SP: vosotros sois}
+ - {CZ: Oni jsou, SP: éllos son}
+ - {CZ: Ony jsou, SP: éllas son}
+ - {CZ: Vy jste (vykání-množné), SP: ustedes son}
+
+be2:
+ - {CZ: Já jsem, SP: yo estoy}
+ - {CZ: Ty jsi, SP: tú estás}
+ - {CZ: On je, SP: él está}
+ - {CZ: Ona je, SP: élla está}
+ - {CZ: Vy jste (vykání), SP: usted está}
+ - {CZ: My jsme (ženy), SP: nosostras estamos}
+ - {CZ: My jsme (muži), SP: nosostros estamos}
+ - {CZ: Vy jste (ženy), SP: vosotras estáis}
+ - {CZ: Vy jste (muži), SP: vosotros estáis}
+ - {CZ: Oni jsou, SP: éllos están}
+ - {CZ: Ony jsou, SP: éllas están}
+ - {CZ: "Vy jste (vykání-množné)", SP: ustedes están}
+
+
+next1:
+    - {CZ: z Prahy, SP: de Praga}
+    - {CZ: ze Španělska, SP: de España}
+
+next2:
+    - {CZ: zde, SP: aquí}
+    - {CZ: doma, SP: en casa}
+
+
+templates:
+ - ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
+ - ["[be2:CZ] [next2:CZ]." ,"[be2:SP] [next2:SP]."]
+

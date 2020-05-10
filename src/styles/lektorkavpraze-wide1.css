@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+}
+
+#header {
+	width: 30%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	text-align: right;
+}
+
+#logo {
+	width: 70%;
+	min-width: 128px;
+}
+
+#menu {
+	padding-right: 30px;
+	padding-top: 20px;
+}
+
+#content {
+	width: 40%;
+	height: 100%;
+	position: relative;
+	left: 30%;
+	top: 0;
+	padding: 3%;
+	padding-top: 14%;
+}
+
+#footer {
+	display: table-cell;
+	width: 30%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+#quote {
+	position: relative;
+	top: 0;
+	padding-bottom: 10%;
+	padding-top: 15%;
+	padding-right: 15%;
+	padding-left: 15%;
+}
+
+#contact {
+	margin-right: 2%;
+	margin-bottom: 2%;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}

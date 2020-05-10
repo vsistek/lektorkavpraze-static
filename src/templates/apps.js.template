@@ -1,0 +1,24 @@
+function toggleSolution() {
+  var x = document.getElementById("solution");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+
+function getTask() {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var myArr = JSON.parse(this.responseText);
+      document.getElementById('task').innerText = myArr[0];
+      document.getElementById('solution').style.display = "none";
+      document.getElementById('solution').innerText = myArr[1];
+    }
+  };
+  xmlhttp.open("GET", "http://cloud.lektorkavpraze.cz/aplikace/##APICALL##", true);
+  xmlhttp.send();
+}
+
+getTask()

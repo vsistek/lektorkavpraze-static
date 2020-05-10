@@ -1,0 +1,43 @@
+#header {
+	text-align: left;
+}
+
+#logo {
+	width: 30%;
+	min-width: 64px;
+	float: left;
+}
+
+#menu {
+	float: right;
+	width: 60%;
+	padding-right: 5%;
+	padding-top: 5%;
+}
+
+#content {
+	padding-left: 13%;
+	padding-right: 10%;
+	position: static;
+	float: left;
+}
+
+#footer {
+	text-align: right;
+}
+
+#quote {
+        padding: 10%;
+	padding-top: 5%;
+	padding-left: 13%;
+	padding-right: 10%;
+	padding-bottom: 0;
+	float: left;
+}
+
+#contact {
+	margin: 5%;
+	display: block;
+	float: right;
+	padding: 5%;
+}

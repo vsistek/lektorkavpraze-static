@@ -1,2 +1,19 @@
 # lektorkavpraze-static
-lektorkavpraze.cz web page
+
+lektorkavpraze.cz web page - presentation of a private teacher in Prague (my wife).
+
+Website is statically generated using custom shell script, see `src/util/build.sh`
+
+There are some dynamic parts in python3 served as tiny ajax web services (CGI shell scripts), see `src/apps`
+
+## Author
+
+Vaclav Sistek <vsistek@fsfe.org>
+
+## Credits
+
+Some python3 scripts and data in `src/apps` are original work or derived from original work of Monika Sistkova <monika.sistkova@gmail.com>
+
+## License
+
+Mozilla Public License 2.0
