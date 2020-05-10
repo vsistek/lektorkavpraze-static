@@ -2,9 +2,11 @@
 export LANG=C.UTF-8
 
 LOCKFILE=/var/www/lektorkavpraze-static/lock/just-deployed
+
 echo "Content-Type: text/plain; charset=utf-8"
 echo
-[ `find "$LOCKFILE" -mmin +5 2>/dev/null` ] && rm $LOCKFILE
+find "$LOCKFILE" -mmin +5 2>/dev/null
+[ $? -ne 0 ] && rm $LOCKFILE
 [ -f LOCKFILE ] && echo "deployed within 5min, try later" && exit 0
 echo mkdir log
 mkdir -p /var/www/lektorkavpraze-static/log
