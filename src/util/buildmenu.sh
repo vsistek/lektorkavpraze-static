@@ -10,7 +10,7 @@ for MD in `ls $SRCROOT/*.md`; do
 
     if [ "$MENUITEM" != "none" ]; then
         LINE="<li><a "
-        [ $NAME == $ACTIVE ] && LINE+="class=\"active\" "
+        [ "$NAME" == "$ACTIVE" ] && LINE+="class=\"active\" "
         LINE+="href=\"/$NAME.html\">$MENUITEM</a></li>"
         echo "        $LINE"
     fi
