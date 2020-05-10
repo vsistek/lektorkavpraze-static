@@ -1,5 +1,5 @@
 [//]: # (##NAME## aplikace)
-[//]: # (##MENUITEM## &#9881; Aplikace)
+[//]: # (##MENUITEM## none)
 [//]: # (##DESCRIPTION## online nástroje pro výuku)
 [//]: # (##QUOTE## none)
 
