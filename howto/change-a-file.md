@@ -33,7 +33,9 @@ git log
 ```shell
 git push
 
-# If you cloned using https (as in this document), bear in mind that you will have to authenticate interactively using your GitHub credentials
+# If you cloned using https (as in this document),
+# bear in mind that you will have to authenticate
+# interactively using your GitHub credentials.
 ```
 6. If your change doesn't take effect, it may be because you pushed something else recently and webhook request to rebuild got blocked by anti-DOS mechanism. Trigger rebuild manually by visiting: `http://pi.lektorkavpraze.cz/aplikace/deploy-dev.sh` 
 7. If you are satisfied with your work, get your change to production (lektorkavpraze.cz itself) by creating a Pull Request on GitHub. You want to merge `master <- dev`. Go to GitHub and follow on-screen instructions: `https://github.com/vsistek/lektorkavpraze-static/compare/master...dev?expand=1`
