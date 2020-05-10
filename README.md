@@ -8,11 +8,11 @@ There are some dynamic parts in python3 served as tiny ajax web services (CGI sh
 
 ## Author
 
-Vaclav Sistek <vsistek@fsfe.org>
+Vaclav Sistek &lt;vsistek@fsfe.org&gt;
 
 ## Credits
 
-Some python3 scripts and data in `src/apps` are original work or derived from original work of Monika Sistkova <monika.sistkova@gmail.com>
+Some python3 scripts and data in `src/apps` are original work or derived from original work of Monika Sistkova &lt;monika.sistkova@gmail.com&gt;
 
 ## License
 
