@@ -7,7 +7,7 @@
 
 Nabízím online nástroje pro výuku:
 
-* [&#9881; Matematika: Procenta](/aplikace/procenta.html)
+* [&#9881; Matematika: Slovní úlohy s procenty](/aplikace/matematika-slovni-ulohy-s-procenty.html)
 {: .appsmenu }
 * [&#9881; Anglické věty](/aplikace/anglicke-vety.html)
 {: .appsmenu }
