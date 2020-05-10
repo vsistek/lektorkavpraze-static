@@ -5,7 +5,7 @@ LOCKFILE=/var/www/lektorkavpraze-static/lock/just-deployed
 
 echo "Content-Type: text/plain; charset=utf-8"
 echo
-[ `find $LOCKFILE -mmin +5 2>/dev/null |wc -l` -ne 0 ] && rm $LOCKFILE
+[ `find $LOCKFILE -mmin +1 2>/dev/null |wc -l` -ne 0 ] && rm $LOCKFILE
 [ -f $LOCKFILE ] && echo "try later" && exit 0
 echo mkdir log
 mkdir -p /var/www/lektorkavpraze-static/log
