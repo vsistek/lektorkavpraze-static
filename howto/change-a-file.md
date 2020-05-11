@@ -48,9 +48,9 @@ git push
 https://github.com/vsistek/lektorkavpraze-static/blob/dev/src/apps/quotes-hra-na-piano.yaml
 ```
 2. Edit the file using the pen icon
-!(images/change-a-file1.png)
+![edit](images/change-a-file1.png)
 3. Scroll down on the same page and commit to `dev` branch
-!(images/change-a-file2.png)
+![commit](images/change-a-file2.png)
 4. Change will get deployed to pi.lektorkavpraze.cz automatically. If your change doesn't take effect, it may be because you pushed something else recently and webhook request to rebuild got blocked by anti-DOS mechanism. Trigger rebuild manually by visiting: `http://pi.lektorkavpraze.cz/aplikace/deploy-dev.sh`
 
 ## Merging change to master branch (deploy to production)
