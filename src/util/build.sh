@@ -32,5 +32,8 @@ ls -l $DOCROOT/aplikace/*.yaml
 cp $SRCROOT/apps/*.sh $DOCROOT/aplikace
 ls -l $DOCROOT/aplikace/*.sh
 chmod +x $DOCROOT/aplikace/*.sh
+cp $SRCROOT/apps/*.cgi $DOCROOT/aplikace
+ls -l $DOCROOT/aplikace/*.cgi
+chmod +x $DOCROOT/aplikace/*.cgi
 cp $SRCROOT/apps/*.py $DOCROOT/aplikace
 ls -l $DOCROOT/aplikace/*.py

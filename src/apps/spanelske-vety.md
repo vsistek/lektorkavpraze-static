@@ -1,6 +1,6 @@
 [//]: # (##NAME## spanelske-vety)
 [//]: # (##DESCRIPTION## Aplikace: Španělské věty)
-[//]: # (##APICALL## genrandomtask.sh?spanelske-vety)
+[//]: # (##APICALL## genrandomtask.cgi?spanelske-vety)
 
 # [&#9881;](/aplikace.html) Španělské věty
 

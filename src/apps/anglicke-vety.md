@@ -1,6 +1,6 @@
 [//]: # (##NAME## anglicke-vety)
 [//]: # (##DESCRIPTION## Aplikace: Anglické věty)
-[//]: # (##APICALL## genrandomtask.sh?anglicke-vety)
+[//]: # (##APICALL## genrandomtask.cgi?anglicke-vety)
 
 # [&#9881;](/aplikace.html) Anglické věty
 
