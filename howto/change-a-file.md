@@ -1,5 +1,7 @@
 # HOWTO Change a File
 
+## Using git CLI
+
 1. Check out or update the repository
 ```shell
 git clone https://github.com/vsistek/lektorkavpraze-static.git
@@ -38,7 +40,23 @@ git push
 # interactively using your GitHub credentials.
 ```
 6. If your change doesn't take effect, it may be because you pushed something else recently and webhook request to rebuild got blocked by anti-DOS mechanism. Trigger rebuild manually by visiting: `http://pi.lektorkavpraze.cz/aplikace/deploy-dev.sh` 
-7. If you are satisfied with your work, get your change to production (lektorkavpraze.cz itself) by creating a Pull Request on GitHub. You want to merge `master <- dev`. Go to GitHub and follow on-screen instructions: `https://github.com/vsistek/lektorkavpraze-static/compare/master...dev?expand=1`
-8. Merge your Pull Request on GitHib.
-9. Webhooks are still work in progress. Manual rebuild of production is needed. Visit: `http://cloud.lektorkavpraze.cz/aplikace/deploy.sh`
-10. Voila, your change will appear in production
+
+## Using GitHub BUI
+
+1. Locate the file you want to change in dev branch (using example `src/apps/quotes-hra-na-piano.yaml`)
+```
+https://github.com/vsistek/lektorkavpraze-static/blob/dev/src/apps/quotes-hra-na-piano.yaml
+```
+2. Edit the file using the pen icon
+!(images/change-a-file1.png)
+3. Scroll down on the same page and commit to `dev` branch
+!(images/change-a-file2.png)
+4. Change will get deployed to pi.lektorkavpraze.cz automatically. If your change doesn't take effect, it may be because you pushed something else recently and webhook request to rebuild got blocked by anti-DOS mechanism. Trigger rebuild manually by visiting: `http://pi.lektorkavpraze.cz/aplikace/deploy-dev.sh`
+
+## Merging change to master branch (deploy to production)
+
+1. If you are satisfied with your work in dev, get your change to production (lektorkavpraze.cz itself) by creating a Pull Request on GitHub. You want to merge `master <- dev`. Go to GitHub and follow on-screen instructions: `https://github.com/vsistek/lektorkavpraze-static/compare/master...dev?expand=1`
+2. Merge your Pull Request on GitHib.
+3. Webhooks are still work in progress. Manual rebuild of production is needed. Visit: `http://cloud.lektorkavpraze.cz/aplikace/deploy.sh`
+4. Voila, your change will appear in production
+
