@@ -11,6 +11,8 @@ There are some dynamic parts in python3 served as tiny ajax web services (CGI sh
 This repository is used on a Debian-based GNU/Linux instance (although it is written pretty portably).
 ```
 sudo apt-get install python3-markdown python3-yaml
+# for github webhook
+sudo apt-get install jq
 ```
 
 
