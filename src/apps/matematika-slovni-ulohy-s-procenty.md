@@ -1,6 +1,6 @@
 [//]: # (##NAME## matematika-slovni-ulohy-s-procenty)
 [//]: # (##DESCRIPTION## Aplikace: Matematika: Slovní úlohy s procenty)
-[//]: # (##APICALL## matematika-slovni-ulohy-s-procenty.sh)
+[//]: # (##APICALL## matematika-slovni-ulohy-s-procenty.cgi)
 
 # [&#9881;](/aplikace.html) Matematika: Slovní úlohy s procenty
 
