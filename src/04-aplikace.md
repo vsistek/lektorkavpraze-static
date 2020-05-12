@@ -7,17 +7,17 @@
 
 Nabízím online nástroje pro výuku:
 
-## Matematika
+### Matematika
 
 * [&#9881; Slovní úlohy s procenty](/aplikace/matematika-slovni-ulohy-s-procenty.html)
 {: .appsmenu }
 
-## Angličtina
+### Angličtina
 
 * [&#9881; Anglické věty](/aplikace/anglicke-vety.html)
 {: .appsmenu }
 
-## Ostatní
+### Ostatní
 
 * [&#9881; Španělské věty](/aplikace/spanelske-vety.html)
 {: .appsmenu }
