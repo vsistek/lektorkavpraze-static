@@ -19,9 +19,9 @@ REF="$(jq -r ".ref" <<< "$POSTJSON")"
 BRANCH="${REF##*/}"
 
 if [ "$BRANCH" == "master" ] && [ "$(hostname)" == "skyholm" ]; then
-    $REPO/util/deploy.sh >/dev/null
+    $REPO/src/util/deploy.sh >/dev/null
 elif [ "$BRANCH" == "dev" ] && [ "$(hostname)" == "duthac.sistkovi.cz" ]; then
-    $REPO/util/deploy-dev.sh >/dev/null
+    $REPO/src/util/deploy-dev.sh >/dev/null
 fi
 
 json_resp 0
