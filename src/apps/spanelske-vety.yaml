@@ -77,7 +77,7 @@ hablar:
 - {CZ: Ona mluví, SP: élla habla}
 - {CZ: Vy mluvíte (vykání), SP: usted habla}
 - {CZ: My mluvíme (ženy), SP: nosostras hablamos}
-- {CZ: My mluvíme (muži), SP: nosostros hablajamos}
+- {CZ: My mluvíme (muži), SP: nosostros hablamos}
 - {CZ: Vy mluvíte (ženy), SP: vosotras habláis}
 - {CZ: Vy mluvíte (muži), SP: vosotros hablaís}
 - {CZ: Oni mluví, SP: éllos hablan}
@@ -179,6 +179,7 @@ gustarnext1:
 - {CZ: tuto knihu, SP: este libro}
 - {CZ: čtení, SP: leer}
 - {CZ: sport, SP: eldeporte}
+- {CZ: hudbu, SP: la músika}
 
 
 templates:
