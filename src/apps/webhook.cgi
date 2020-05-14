@@ -1,6 +1,15 @@
 #!/bin/bash
 
-REPO=/var/www/lektorkavpraze-static
+fail() {
+    echo $1
+    exit 1
+}
+
+source webhook.conf
+[ "$REPO" == "" ]        && fail "REPO undefined"
+[ "$EXPECTEDURL" == "" ] && fail "EXPECTEDURL undefined"
+[ "$LOG" == "" ]         && fail "LOG undefined"
+[ "$LOG" == "" ]         && fail "LOG undefined"
 
 json_resp() {
     echo "Content-type: text/json"
@@ -19,23 +28,17 @@ json_resp() {
 
 POSTJSON=`cat -`
 BUILDCMD="none"
-LOG=$REPO/log/github.log
-echo "---" >> $LOG
-date >> $LOG
-echo "POSTJSON=$POSTJSON" >> $LOG
 
-EXPECTEDURL="https://github.com/vsistek/lektorkavpraze-static.git"
-echo "EXPECTEDURL=$EXPECTEDURL" >> $LOG
+date >> $LOG
+
 REPOURL=`jq -r ".repository.clone_url" <<< $POSTJSON`
-echo "REPOURL=$REPOURL" >> $LOG
+echo "EXPECTEDURL=$EXPECTEDURL / REPOURL=$REPOURL" >> $LOG
 [ "$EXPECTEDURL" == "$REPOURL" ] || json_resp 1
 
 REF=$(jq -r ".ref" <<< "$POSTJSON")
-echo "REF=$REF" >> $LOG
 BRANCH="${REF##*/}"
-echo "BRANCH=$BRANCH" >> $LOG
-HOSTNAME=$(hostname)
-echo "HOSTNAME=$HOSTNAME" >> $LOG
+HOSTNAME=`hostname`
+echo "BRANCH=$BRANCH / HOSTNAME=$HOSTNAME" >> $LOG
 
 [ "$BRANCH" == "master" ] && [ "$HOSTNAME" == "skyholm" ]            && BUILDCMD="deploy"
 [ "$BRANCH" == "dev" ]    && [ "$HOSTNAME" == "duthac.sistkovi.cz" ] && BUILDCMD="deploy-dev"

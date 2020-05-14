@@ -3,13 +3,18 @@ DOCROOT=/var/www/lektorkavpraze-static/htdocs
 MYDIR="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 SRCROOT=${MYDIR%/*}
 
+fail() {
+    echo $1
+    exit 1
+}
+
 mkdir -p $DOCROOT
 
 for MD in `ls $SRCROOT/*.md`; do
     MD=${MD##*/}
     FILE=$DOCROOT/${MD:3:-3}.html
     echo $FILE
-    $MYDIR/buildpage.sh $SRCROOT/$MD > $FILE
+    $MYDIR/buildpage.sh $SRCROOT/$MD > $FILE || fail "page build error for $MD"
 done
 
 mkdir -p $DOCROOT/styles
@@ -28,9 +33,8 @@ for MD in `ls $SRCROOT/apps/*.md`; do
 done
 
 cp $SRCROOT/apps/*.yaml $DOCROOT/aplikace
-ls -l $DOCROOT/aplikace/*.yaml
 cp $SRCROOT/apps/*.cgi $DOCROOT/aplikace
-ls -l $DOCROOT/aplikace/*.cgi
 chmod +x $DOCROOT/aplikace/*.cgi
 cp $SRCROOT/apps/*.py $DOCROOT/aplikace
-ls -l $DOCROOT/aplikace/*.py
+cp $SRCROOT/apps/*.conf $DOCROOT/aplikace
+ls -l $DOCROOT/aplikace/
