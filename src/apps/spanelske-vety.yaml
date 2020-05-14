@@ -39,7 +39,7 @@ vivir:
 - {CZ: Vy žijete (muži), SP: vosotros vivís}
 - {CZ: Oni žijí, SP: éllos viven}
 - {CZ: Ony žijí, SP: éllas viven}
-- {CZ: Vy žijete (vykání,množné), SP: ustedes viven}
+- {CZ: Vy žijete (vykání - množné), SP: ustedes viven}
 
 trabajar:
 - {CZ: Já pracuju, SP: yo trabajo}
@@ -53,7 +53,7 @@ trabajar:
 - {CZ: Vy pracujete (muži), SP: vosotros trabajáis}
 - {CZ: Oni pracují, SP: éllos trabajan}
 - {CZ: Ony pracují, SP: éllas trabajan}
-- {CZ: Vy pracujete (vykání,množné), SP: ustedes trabajan}
+- {CZ: Vy pracujete (vykání - množné), SP: ustedes trabajan}
 
 tener:
 - {CZ: Já mám, SP: yo tengo}
@@ -67,7 +67,7 @@ tener:
 - {CZ: Vy máte (muži), SP: vosotros teneís}
 - {CZ: Oni mají, SP: éllos tienen}
 - {CZ: Ony mají, SP: éllas tienen}
-- {CZ: Vy máte (vykání,množné), SP: ustedes tienen}
+- {CZ: Vy máte (vykání - množné), SP: ustedes tienen}
 
 
 hablar:
@@ -82,7 +82,7 @@ hablar:
 - {CZ: Vy mluvíte (muži), SP: vosotros hablaís}
 - {CZ: Oni mluví, SP: éllos hablan}
 - {CZ: Ony mluví, SP: éllas hablan}
-- {CZ: Vy mluvíte (vykání,množné), SP: ustedes hablan}
+- {CZ: Vy mluvíte (vykání - množné), SP: ustedes hablan}
 
 comer:
 - {CZ: Já jím, SP: yo como}
@@ -96,7 +96,7 @@ comer:
 - {CZ: Vy jíte (muži), SP: vosotros coméis}
 - {CZ: Oni jí, SP: éllos comen}
 - {CZ: Ony jí, SP: éllas comen}
-- {CZ: Vy jíte (vykání,množné), SP: ustedes comen}
+- {CZ: Vy jíte (vykání - množné), SP: ustedes comen}
 
 beber:
 - {CZ: Já piju, SP: yo bebo}
@@ -110,7 +110,7 @@ beber:
 - {CZ: Vy pijete (muži), SP: vosotros bebéis}
 - {CZ: Oni pijou, SP: éllos beben}
 - {CZ: Ony pijou, SP: éllas beben}
-- {CZ: Vy pijou (vykání,množné), SP: ustedes beben}
+- {CZ: Vy pijou (vykání - množné), SP: ustedes beben}
 
 
 next1:
