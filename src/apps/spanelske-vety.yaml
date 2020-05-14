@@ -10,7 +10,7 @@ be1:
  - {CZ: Vy jste (muži), SP: vosotros sois}
  - {CZ: Oni jsou, SP: éllos son}
  - {CZ: Ony jsou, SP: éllas son}
- - {CZ: Vy jste (vykání, množné), SP: ustedes son}
+ - {CZ: Vy jste (vykání - množné), SP: ustedes son}
 
 
 be2:
@@ -25,7 +25,7 @@ be2:
  - {CZ: Vy jste (muži), SP: vosotros estáis}
  - {CZ: Oni jsou, SP: éllos están}
  - {CZ: Ony jsou, SP: éllas están}
- - {CZ: Vy jste (vykání,množné), SP: ustedes están}
+ - {CZ: Vy jste (vykání - množné), SP: ustedes están}
 
 vivir:
 - {CZ: Já žiju, SP: yo vivo}
@@ -176,10 +176,10 @@ gustar1:
 gustarnext1:
 - {CZ: cestování, SP: viajar}
 - {CZ: Španělsko, SP: España}
-- {CZ: ta kniha, SP: el libro}
+- {CZ: tuto knihu, SP: este libro}
 - {CZ: čtení, SP: leer}
 - {CZ: sport, SP: eldeporte}
-- {CZ: jim, SP: les}
+
 
 templates:
  - ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
