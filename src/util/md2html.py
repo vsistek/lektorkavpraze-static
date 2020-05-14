@@ -8,7 +8,7 @@ def main(argv):
         print("Usage: {} data.md".format(argv[0]))
         exit(64)
 
-    with open(argv[1], 'rt') as stream:
+    with open(argv[1], 'rt', encoding="utf-8") as stream:
         html = markdown.markdown(stream.read(), extensions=['attr_list'])
 
     print(html)
