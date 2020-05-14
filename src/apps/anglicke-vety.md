@@ -4,7 +4,7 @@
 
 # [&#9881;](/aplikace.html) Anglické věty
 
-**Jednoduchá aplikace na procvičení základů angličtiny**
+**Aplikace na procvičení základních předmětných vět**
 
 Malý moment...
 {: #task }
