@@ -5,12 +5,13 @@ be1:
  - {CZ: Ona je, SP: élla es}
  - {CZ: Vy jste (vykání), SP: usted es}
  - {CZ: My jsme (ženy), SP: nosostras somos}
- - {CZ: My jsme (muži), SP: nosostros somos}
+ - {CZ: My jsme (muži), SP: nosostras somos}
  - {CZ: Vy jste (ženy), SP: vosotras sois}
  - {CZ: Vy jste (muži), SP: vosotros sois}
  - {CZ: Oni jsou, SP: éllos son}
  - {CZ: Ony jsou, SP: éllas son}
- - {CZ: Vy jste (vykání-množné), SP: ustedes son}
+ - {CZ: Vy jste (vykání, množné), SP: ustedes son}
+
 
 be2:
  - {CZ: Já jsem, SP: yo estoy}
@@ -24,19 +25,169 @@ be2:
  - {CZ: Vy jste (muži), SP: vosotros estáis}
  - {CZ: Oni jsou, SP: éllos están}
  - {CZ: Ony jsou, SP: éllas están}
- - {CZ: "Vy jste (vykání-množné)", SP: ustedes están}
+ - {CZ: Vy jste (vykání,množné), SP: ustedes están}
+
+vivir:
+- {CZ: Já žiju, SP: yo vivo}
+- {CZ: Ty žiješ, SP: tú vives}
+- {CZ: On žije, SP: él vive}
+- {CZ: Ona žije, SP: élla vive}
+- {CZ: Vy žijete (vykání), SP: usted vive}
+- {CZ: My žijeme (ženy), SP: nosostras vivimos}
+- {CZ: My žijeme (muži), SP: nosostros vivimos}
+- {CZ: Vy žijete (ženy), SP: vosotras vivís}
+- {CZ: Vy žijete (muži), SP: vosotros vivís}
+- {CZ: Oni žijí, SP: éllos viven}
+- {CZ: Ony žijí, SP: éllas viven}
+- {CZ: Vy žijete (vykání,množné), SP: ustedes viven}
+
+trabajar:
+- {CZ: Já pracuju, SP: yo trabajo}
+- {CZ: Ty pracuješ, SP: tú trabajas}
+- {CZ: On pracuje, SP: él trabaja}
+- {CZ: Ona pracuje, SP: élla trabaja}
+- {CZ: Vy pracujete (vykání), SP: usted trabaja}
+- {CZ: My pracujeme (ženy), SP: nosostras trabajamos}
+- {CZ: My pracujeme (muži), SP: nosostros trabajamos}
+- {CZ: Vy pracujete (ženy), SP: vosotras trabajáis}
+- {CZ: Vy pracujete (muži), SP: vosotros trabajáis}
+- {CZ: Oni pracují, SP: éllos trabajan}
+- {CZ: Ony pracují, SP: éllas trabajan}
+- {CZ: Vy pracujete (vykání,množné), SP: ustedes trabajan}
+
+tener:
+- {CZ: Já mám, SP: yo tengo}
+- {CZ: Ty máš, SP: tú tienes}
+- {CZ: On má, SP: él tiene}
+- {CZ: Ona má, SP: élla tiene}
+- {CZ: Vy máte (vykání), SP: usted tiene}
+- {CZ: My máme (ženy), SP: nosostras tenemos}
+- {CZ: My máme (muži), SP: nosostros tenemos}
+- {CZ: Vy máte (ženy), SP: vosotras teneís}
+- {CZ: Vy máte (muži), SP: vosotros teneís}
+- {CZ: Oni mají, SP: éllos tienen}
+- {CZ: Ony mají, SP: éllas tienen}
+- {CZ: Vy máte (vykání,množné), SP: ustedes tienen}
+
+
+hablar:
+- {CZ: Já mluvím, SP: yo hablo}
+- {CZ: Ty mluvíš, SP: tú hablas}
+- {CZ: On mluví, SP: él habla}
+- {CZ: Ona mluví, SP: élla habla}
+- {CZ: Vy mluvíte (vykání), SP: usted habla}
+- {CZ: My mluvíme (ženy), SP: nosostras hablamos}
+- {CZ: My mluvíme (muži), SP: nosostros hablajamos}
+- {CZ: Vy mluvíte (ženy), SP: vosotras habláis}
+- {CZ: Vy mluvíte (muži), SP: vosotros hablaís}
+- {CZ: Oni mluví, SP: éllos hablan}
+- {CZ: Ony mluví, SP: éllas hablan}
+- {CZ: Vy mluvíte (vykání,množné), SP: ustedes hablan}
+
+comer:
+- {CZ: Já jím, SP: yo como}
+- {CZ: Ty jíš, SP: tú comes}
+- {CZ: On jí, SP: él come}
+- {CZ: Ona jí, SP: élla come}
+- {CZ: Vy jíte (vykání), SP: usted come}
+- {CZ: My jíme (ženy), SP: nosostras comemos}
+- {CZ: My jíme (muži), SP: nosostros comemos}
+- {CZ: Vy jíte (ženy), SP: vosotras coméis}
+- {CZ: Vy jíte (muži), SP: vosotros coméis}
+- {CZ: Oni jí, SP: éllos comen}
+- {CZ: Ony jí, SP: éllas comen}
+- {CZ: Vy jíte (vykání,množné), SP: ustedes comen}
+
+beber:
+- {CZ: Já piju, SP: yo bebo}
+- {CZ: Ty piješ, SP: tú bebes}
+- {CZ: On pije, SP: él bebe}
+- {CZ: Ona pije, SP: élla bebe}
+- {CZ: Vy pijete (vykání), SP: usted bebe}
+- {CZ: My pijeme (ženy), SP: nosostras bebemos}
+- {CZ: My pijeme (muži), SP: nosostros bebemos}
+- {CZ: Vy pijete (ženy), SP: vosotras bebéis}
+- {CZ: Vy pijete (muži), SP: vosotros bebéis}
+- {CZ: Oni pijou, SP: éllos beben}
+- {CZ: Ony pijou, SP: éllas beben}
+- {CZ: Vy pijou (vykání,množné), SP: ustedes beben}
 
 
 next1:
-    - {CZ: z Prahy, SP: de Praga}
-    - {CZ: ze Španělska, SP: de España}
+- {CZ: z Prahy, SP: de Praga}
+- {CZ: ze Španělska, SP: de España}
+- {CZ: z Německa, SP: de Alemania}
+- {CZ: z České republiky, SP: de la República Checa}
+- {CZ: z Rakouska, SP: de Austria}
+
 
 next2:
-    - {CZ: zde, SP: aquí}
-    - {CZ: doma, SP: en casa}
+- {CZ: zde, SP: aquí}
+- {CZ: doma, SP: en casa}
+- {CZ: ve škole, SP: en la escuela}
+- {CZ: v práci, SP: en el trabajo}
+- {CZ: v obchodě, SP: en la tienda}
 
+hablarnext:
+- {CZ: španělsky, SP: español}
+- {CZ: německy, SP: alemán}
+- {CZ: anglicky, SP: ingles}
+- {CZ: česky, SP: cecho}
+- {CZ: rusky, SP: ruso}
+
+vivirnext:
+- {CZ: v Praze, SP: en Praga}
+- {CZ: ve Španělsku, SP: en España}
+- {CZ: v Německu, SP: en Alemania}
+- {CZ: v České republice, SP: en la República Checa}
+- {CZ: v Rakousku, SP: en Austria}
+- {CZ: tady, SP: aquí}
+
+tenernext:
+- {CZ: psa, SP: un perro}
+- {CZ: kočku, SP: un gato}
+- {CZ: dům, SP: una casa}
+- {CZ: počítač, SP: una computadora}
+- {CZ: knihu, SP: un libro}
+
+comernext:
+- {CZ: jablka, SP: manzanas}
+- {CZ: salát, SP: una ensalada}
+- {CZ: banán, SP: un plátano}
+- {CZ: pomeranč, SP: una naranja}
+- {CZ: brambory, SP: patatas}
+
+bebernext:
+- {CZ: pivo, SP: cerveza}
+- {CZ: vodu, SP: aqua}
+- {CZ: mléko, SP: leche}
+- {CZ: kafe, SP: café}
+- {CZ: čaj, SP: té}
+
+gustar1:
+- {CZ: Mám rád, SP: me gusto}
+- {CZ: Ty máš rád, SP: te gusto}
+- {CZ: On má rád, SP: le gusto}
+- {CZ: Ona má ráda, SP: le gusto}
+- {CZ: My máme rádi, SP: nos gusto}
+- {CZ: Vy máte rádi, SP: os gusto}
+- {CZ: Oni mají rádi, SP: les gusto}
+
+gustarnext1:
+- {CZ: cestování, SP: viajar}
+- {CZ: Španělsko, SP: España}
+- {CZ: el libro, SP: ta kniha}
+- {CZ: čtení, SP: leer}
+- {CZ: sport, SP: eldeporte}
+- {CZ: jim, SP: les}
 
 templates:
  - ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
  - ["[be2:CZ] [next2:CZ]." ,"[be2:SP] [next2:SP]."]
-
+ - ["[vivir:CZ] [vivirnext:CZ]." ,"[vivir:SP] [vivirnext:SP]."]
+ - ["[trabajar:CZ] [vivirnext:CZ]." ,"[trabajar:SP] [vivirnext:SP]."]
+ - ["[hablar:CZ] [hablarnext:CZ]." ,"[hablar:SP] [hablarnext:SP]."]
+ - ["[tener:CZ] [tenernext:CZ]." ,"[tener:SP] [tenernext:SP]."]
+ - ["[comer:CZ] [comernext:CZ]." ,"[comer:SP] [comernext:SP]."]
+ - ["[beber:CZ] [bebernext:CZ]." ,"[beber:SP] [bebernext:SP]."]
+ - ["[gustar1:CZ] [gustarnext1:CZ]." ,"[gustar1:SP] [gustarnext1:SP]."]
