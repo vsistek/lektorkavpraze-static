@@ -5,7 +5,8 @@ fail() {
     exit 1
 }
 
-source webhook.conf
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+source "$DIR/webhook.conf"
 [ "$REPO" == "" ]        && fail "REPO undefined"
 [ "$EXPECTEDURL" == "" ] && fail "EXPECTEDURL undefined"
 [ "$LOG" == "" ]         && fail "LOG undefined"
