@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-DOCROOT=/var/www/lektorkavpraze-static/htdocs
 MYDIR="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 SRCROOT=${MYDIR%/*}
+DOCROOT="${SRCROOT%/*}/htdocs"
 
 fail() {
     echo $1
