@@ -14,7 +14,7 @@ Nabízím online nástroje pro výuku:
 
 ### Angličtina
 
-* [&#9881; Anglické věty](/aplikace/anglicke-vety.html)
+* [&#9881; Předmětné věty](/aplikace/anglictina-predmentne-vety.html)
 {: .appsmenu }
 
 ### Ostatní
