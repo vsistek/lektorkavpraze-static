@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+export LANG=C.UTF-8
 MYDIR="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 SRCROOT=${MYDIR%/*}
 MD=$1
