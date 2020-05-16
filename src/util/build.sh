@@ -11,7 +11,8 @@ fail() {
 mkdir -p $DOCROOT
 
 for MD in `ls $SRCROOT/*.md`; do
-    TMP=${MD##*-}
+    TMP=${MD##*/}
+    TMP=${TMP##${TMP%%-*}-}
     FILE=$DOCROOT/${TMP%.md}.html
     echo $FILE
     $MYDIR/buildpage.sh $MD > $FILE || fail "page build error for $MD"
