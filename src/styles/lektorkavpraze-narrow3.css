@@ -1,3 +1,7 @@
+body {
+	background-image: url("/images/sakura-narrow.gif");
+}
+
 #header {
 	text-align: left;
 }

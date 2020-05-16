@@ -8,9 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="format-detection" content="telephone=no">
   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" media="only screen" href="/styles/lektorkavpraze-common1.css">
-  <link rel="stylesheet" media="only screen and (min-width: 1200px)" href="/styles/lektorkavpraze-wide1.css">
-  <link rel="stylesheet" media="only screen and (max-width: 1199px)" href="/styles/lektorkavpraze-narrow1.css" />
+  <link rel="stylesheet" media="only screen" href="/styles/lektorkavpraze-common3.css">
+  <link rel="stylesheet" media="only screen and (min-width: 1200px)" href="/styles/lektorkavpraze-wide3.css">
+  <link rel="stylesheet" media="only screen and (max-width: 1199px)" href="/styles/lektorkavpraze-narrow3.css" />
   <link href="/images/lektorkavpraze-favicon.png" rel="icon" type="image/png" />
 </head>
 <body>

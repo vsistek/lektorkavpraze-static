@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-DOCROOT=/var/www/lektorkavpraze-static/htdocs
 MYDIR="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 SRCROOT=${MYDIR%/*}
+DOCROOT="${SRCROOT%/*}/htdocs"
 
 fail() {
     echo $1
@@ -11,10 +11,11 @@ fail() {
 mkdir -p $DOCROOT
 
 for MD in `ls $SRCROOT/*.md`; do
-    MD=${MD##*/}
-    FILE=$DOCROOT/${MD:3:-3}.html
+    TMP=${MD##*/}
+    TMP=${TMP##${TMP%%-*}-}
+    FILE=$DOCROOT/${TMP%.md}.html
     echo $FILE
-    $MYDIR/buildpage.sh $SRCROOT/$MD > $FILE || fail "page build error for $MD"
+    $MYDIR/buildpage.sh $MD > $FILE || fail "page build error for $MD"
 done
 
 mkdir -p $DOCROOT/styles
@@ -22,14 +23,15 @@ cp $SRCROOT/styles/*.css $DOCROOT/styles
 ls -l $DOCROOT/styles/*.css
 mkdir -p $DOCROOT/images
 cp $SRCROOT/images/*.png $DOCROOT/images
-ls -l $DOCROOT/images/*.png
+cp $SRCROOT/images/*.gif $DOCROOT/images
+ls -l $DOCROOT/images/
 
 mkdir -p $DOCROOT/aplikace
 for MD in `ls $SRCROOT/apps/*.md`; do
-    MD=${MD##*/}
-    FILE=$DOCROOT/aplikace/${MD:0:-3}.html
+    TMP=${MD##*/}
+    FILE=$DOCROOT/aplikace/${TMP%.md}.html
     echo $FILE
-    $MYDIR/buildapp.sh $SRCROOT/apps/$MD > $FILE
+    $MYDIR/buildapp.sh $MD > $FILE
 done
 
 cp $SRCROOT/apps/*.yaml $DOCROOT/aplikace
