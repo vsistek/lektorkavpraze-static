@@ -23,7 +23,7 @@ cp $SRCROOT/styles/*.css $DOCROOT/styles
 ls -l $DOCROOT/styles/*.css
 mkdir -p $DOCROOT/images
 cp $SRCROOT/images/*.png $DOCROOT/images
-cp $SRCROOT/images/*.webp $DOCROOT/images
+cp $SRCROOT/images/*.gif $DOCROOT/images
 ls -l $DOCROOT/images/
 
 mkdir -p $DOCROOT/aplikace
