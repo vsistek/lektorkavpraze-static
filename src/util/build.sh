@@ -22,7 +22,8 @@ cp $SRCROOT/styles/*.css $DOCROOT/styles
 ls -l $DOCROOT/styles/*.css
 mkdir -p $DOCROOT/images
 cp $SRCROOT/images/*.png $DOCROOT/images
-ls -l $DOCROOT/images/*.png
+cp $SRCROOT/images/*.webp $DOCROOT/images
+ls -l $DOCROOT/images/
 
 mkdir -p $DOCROOT/aplikace
 for MD in `ls $SRCROOT/apps/*.md`; do

@@ -3,7 +3,12 @@ body {
 	font-family: 'Lora', serif;
 	margin: 0 auto;
 	color: #000000;
-	background:  #ffffff;
+	background-color: #ffffff;
+	background-image: url("/images/sakura.webp");
+	background-position: right top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 70%;
 }
 
 b {
@@ -65,7 +70,7 @@ a.active {
 	display: table-cell;
 	font-size: 13px;
 	font-style: italic;
-	color: #323232;
+	color: #000000;
 	text-align: left;
 	cursor: pointer;
 }
