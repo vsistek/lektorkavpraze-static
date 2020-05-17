@@ -305,7 +305,7 @@ gustarnext1:
 - {CZ: ta kniha, SP: el libro}
 - {CZ: čtení, SP: leer}
 - {CZ: sport, SP: el deporte}
-- {CZ: jim, SP: les}
+
 
 templates:
 - ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
