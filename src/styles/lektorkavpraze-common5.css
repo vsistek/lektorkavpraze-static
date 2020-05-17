@@ -4,6 +4,7 @@ body {
 	margin: 0 auto;
 	color: #000000;
 	background-color: #ffffff;
+	background-image: url("/images/sakura-transparent.svg");
 	background-position: right top;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -32,6 +33,8 @@ em {
 #menu {
 	text-align: right;
 	font-size: 20px;
+	background-color: rgba(255,255,255,0.85);
+	border-radius: 25px;
 }
 
 #menu li {
@@ -54,6 +57,7 @@ a.active {
 
 #content {
 	text-align: left;
+	background-color: rgba(255,255,255,0.85);
 }
 
 #photo {
@@ -69,9 +73,10 @@ a.active {
 	display: table-cell;
 	font-size: 13px;
 	font-style: italic;
-	color: #000000;
 	text-align: left;
 	cursor: pointer;
+	background-color: rgba(255,255,255,0.85);
+	border-radius: 25px;
 }
 
 #author {
