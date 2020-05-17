@@ -1,31 +1,48 @@
 be1:
- - {CZ: Já jsem, SP: Yo soy}
- - {CZ: Já nejsem, SP: Yo no soy}
- - {CZ: Ty jsi, SP: Tú éres}
- - {CZ: Ty nejsi, SP: Tú no éres}
- - {CZ: On je, SP: Él es}
- - {CZ: On není, SP: Él no es}
- - {CZ: Ona je, SP: Éllla es}
- - {CZ: Vy jste (vykání), SP: Usted es}
- - {CZ: Vy nejste (vykání), SP: Usted no es}
- - {CZ: My jsme (ženy), SP: Nosotras somos}
- - {CZ: My nejsme (ženy), SP: Nosotras no somos}
- - {CZ: My jsme (muži), SP: Nosotras somos}
- - {CZ: My nejsme (muži), SP: Nosotras no somos}
- - {CZ: Vy jste (ženy), SP: Vosotras sois}
- - {CZ: Vy nejste (ženy), SP: Vosotras no sois}
- - {CZ: Vy jste (muži), SP: Vosotros sois}
- - {CZ: Vy nejste (muži), SP: Vosotros no sois}
- - {CZ: Oni jsou, SP: Éllos son}
- - {CZ: Oni nejsou, SP: Éllos no son}
- - {CZ: Ony jsou, SP: Élllas son}
- - {CZ: Ony nejsou, SP: Éllas no son}
- - {CZ: Vy jste (vykání - množné), SP: Ustedes son}
- - {CZ: Vy nejste (vykání - množné), SP: Ustedes no son}
- - {CZ: Jsem, SP: Soy}
- - {CZ: Nejsem, SP: No soy}
- - {CZ: Jsi, SP:  Éres}
- - {CZ: Nejsi, SP: No éres}
+- {CZ: Já jsem, SP: Yo soy}
+- {CZ: Já nejsem, SP: Yo no soy}
+- {CZ: Ty jsi, SP: Tú éres}
+- {CZ: Ty nejsi, SP: Tú no éres}
+- {CZ: On je, SP: Él es}
+- {CZ: On není, SP: Él no es}
+- {CZ: Ona je, SP: Élla es}
+- {CZ: Vy jste (vykání), SP: Usted es}
+- {CZ: Vy nejste (vykání), SP: Usted no es}
+- {CZ: My jsme (ženy), SP: Nosotras somos}
+- {CZ: My nejsme (ženy), SP: Nosotras no somos}
+- {CZ: My jsme (muži), SP: Nosotras somos}
+- {CZ: My nejsme (muži), SP: Nosotras no somos}
+- {CZ: Vy jste (ženy), SP: Vosotras sois}
+- {CZ: Vy nejste (ženy), SP: Vosotras no sois}
+- {CZ: Vy jste (muži), SP: Vosotros sois}
+- {CZ: Vy nejste (muži), SP: Vosotros no sois}
+- {CZ: Oni jsou, SP: Éllos son}
+- {CZ: Oni nejsou, SP: Éllos no son}
+- {CZ: Ony jsou, SP: Élllas son}
+- {CZ: Ony nejsou, SP: Éllas no son}
+- {CZ: Vy jste (vykání - množné), SP: Ustedes son}
+- {CZ: Vy nejste (vykání - množné), SP: Ustedes no son}
+- {CZ: Jsem, SP: Soy}
+- {CZ: Nejsem, SP: No soy}
+- {CZ: Jsi, SP:  Éres}
+- {CZ: Nejsi, SP: No éres}
+
+be1q:
+- {CZ: Já jsem, SP: Yo soy}
+- {CZ: Ty jsi, SP: Tú éres}
+- {CZ: On je, SP: Él es}
+- {CZ: Ona je, SP: Élla es}
+- {CZ: Vy jste (vykání), SP: Usted es}
+- {CZ: My jsme (ženy), SP: Nosotras somos}
+- {CZ: My jsme (muži), SP: Nosotras somos}
+- {CZ: Vy jste (ženy), SP: Vosotras sois}
+- {CZ: Vy jste (muži), SP: Vosotros sois}
+- {CZ: Oni jsou, SP: Éllos son}
+- {CZ: Ony jsou, SP: Élllas son}
+- {CZ: Vy jste (vykání - množné), SP: Ustedes son}
+- {CZ: Jsem, SP: Soy}
+- {CZ: Jsi, SP:  Éres}
+
 
 
 be2:
@@ -41,22 +58,46 @@ be2:
  - {CZ: Oni jsou, SP: Éllos están}
  - {CZ: Ony jsou, SP: Éllas están}
  - {CZ: Vy jste (vykání - množné), SP: Ustedes están}
-
+ - {CZ: Já nejsem, SP: Yo no estoy}
+ - {CZ: Ty nejsi, SP: Tú no estás}
+ - {CZ: On není, SP: Él no está}
+ - {CZ: Ona není, SP: Élla no está}
+ - {CZ: Vy nejste (vykání), SP: Usted no está}
+ - {CZ: My nejsme (ženy), SP: Nosotras no estamos}
+ - {CZ: My nejsme (muži), SP: Nosotros no estamos}
+ - {CZ: Vy nejste (ženy), SP: Vosotras no estáis}
+ - {CZ: Vy nejste (muži), SP: Vosotros no estáis}
+ - {CZ: Oni nejsou, SP: Éllos no están}
+ - {CZ: Ony nejsou, SP: Éllas no están}
+ - {CZ: Vy nejste (vykání - množné), SP: Ustedes no están}
 
 
 vivir:
 - {CZ: Já žiju, SP: Yo vivo}
+- {CZ: Já nežiju, SP: Yo no vivo}
 - {CZ: Ty žiješ, SP: Tú vives}
+- {CZ: Ty nežiješ, SP: Tú no vives}
 - {CZ: On žije, SP: Él vive}
+- {CZ: On nežije, SP: Él no vive}
 - {CZ: Ona žije, SP: Élla vive}
+- {CZ: Ona nežije, SP: Élla no vive}
+- {CZ: Vy nežijete (vykání), SP: Usted no vive}
 - {CZ: Vy žijete (vykání), SP: Usted vive}
+- {CZ: Vy nežijete (vykání), SP: Usted no vive}
 - {CZ: My žijeme (ženy), SP: Nosotras vivimos}
+- {CZ: My nežijeme (ženy), SP: Nosotras no vivimos}
 - {CZ: My žijeme (muži), SP: Nosotros vivimos}
+- {CZ: My nežijeme (muži), SP: Nosotros no vivimos}
 - {CZ: Vy žijete (ženy), SP: Vosotras vivís}
+- {CZ: Vy nežijete (ženy), SP: Vosotras no vivís}
 - {CZ: Vy žijete (muži), SP: Vosotros vivís}
+- {CZ: Vy nežijete (muži), SP: Vosotros no vivís}
 - {CZ: Oni žijí, SP: Éllos viven}
+- {CZ: Oni nežijí, SP: Éllos no viven}
 - {CZ: Ony žijí, SP: Éllas viven}
+- {CZ: Ony nežijí, SP: Éllas no viven}
 - {CZ: Vy žijete (vykání - množné), SP: Ustedes viven}
+- {CZ: Vy nežijete (vykání - množné), SP: Ustedes no viven}
 
 trabajar:
 - {CZ: Já pracuju, SP: Yo trabajo}
@@ -71,6 +112,18 @@ trabajar:
 - {CZ: Oni pracují, SP: Éllos trabajan}
 - {CZ: Ony pracují, SP: Éllas trabajan}
 - {CZ: Vy pracujete (vykání - množné), SP: ustedes trabajan}
+- {CZ: Já nepracuju, SP: Yo no trabajo}
+- {CZ: Ty nepracuješ, SP: Tú no trabajas}
+- {CZ: On nepracuje, SP: Él no trabaja}
+- {CZ: Ona nepracuje, SP: Élla no trabaja}
+- {CZ: Vy nepracujete (vykání), SP: Usted no trabaja}
+- {CZ: My nepracujeme (ženy), SP: Nosotras no trabajamos}
+- {CZ: My nepracujeme (muži), SP: Nosotros no trabajamos}
+- {CZ: Vy nepracujete (ženy), SP: Vosotras no trabajáis}
+- {CZ: Vy nepracujete (muži), SP: Vosotros no trabajáis}
+- {CZ: Oni nepracují, SP: Éllos no trabajan}
+- {CZ: Ony nepracují, SP: Éllas no trabajan}
+- {CZ: Vy nepracujete (vykání - množné), SP: ustedes no trabajan}
 
 tener:
 - {CZ: Já mám, SP: Yo tengo}
@@ -85,6 +138,18 @@ tener:
 - {CZ: Oni mají, SP: Éllos tienen}
 - {CZ: Ony mají, SP: Éllas tienen}
 - {CZ: Vy máte (vykání - množné), SP: ustedes tienen}
+- {CZ: Já nemám, SP: Yo no tengo}
+- {CZ: Ty nemáš, SP: Tú no tienes}
+- {CZ: On nemá, SP: Él no tiene}
+- {CZ: Ona nemá, SP: Élla no tiene}
+- {CZ: Vy nemáte (vykání), SP: usted no tiene}
+- {CZ: My nemáme (ženy), SP: nosotras no tenemos}
+- {CZ: My nemáme (muži), SP: nosotros no tenemos}
+- {CZ: Vy nemáte (ženy), SP: Vosotras no teneís}
+- {CZ: Vy nemáte (muži), SP: Vosotros no teneís}
+- {CZ: Oni nemají, SP: Éllos no tienen}
+- {CZ: Ony nemají, SP: Éllas no tienen}
+- {CZ: Vy nemáte (vykání - množné), SP: ustedes no tienen}
 
 
 hablar:
@@ -100,6 +165,18 @@ hablar:
 - {CZ: Oni mluví, SP: Éllos hablan}
 - {CZ: Ony mluví, SP: Éllas hablan}
 - {CZ: Vy mluvíte (vykání - množné), SP: ustedes hablan}
+- {CZ: Já nemluvím, SP: Yo no hablo}
+- {CZ: Ty nemluvíš, SP: Tú no hablas}
+- {CZ: On nemluví, SP: Él no habla}
+- {CZ: Ona nemluví, SP: Élla no  habla}
+- {CZ: Vy nemluvíte (vykání), SP: usted no  habla}
+- {CZ: My nemluvíme (ženy), SP: Nosotras no  hablamos}
+- {CZ: My nemluvíme (muži), SP: Nosotros no  hablamos}
+- {CZ: Vy nemluvíte (ženy), SP: Vosotras no  habláis}
+- {CZ: Vy nemluvíte (muži), SP: Vosotros no hablaís}
+- {CZ: Oni nemluví, SP: Éllos no hablan}
+- {CZ: Ony nemluví, SP: Éllas no hablan}
+- {CZ: Vy nemluvíte (vykání - množné), SP: ustedes no hablan}
 
 comer:
 - {CZ: Já jím, SP: Yo como}
@@ -114,6 +191,18 @@ comer:
 - {CZ: Oni jí, SP: Éllos comen}
 - {CZ: Ony jí, SP: Éllas comen}
 - {CZ: Vy jíte (vykání - množné), SP: ustedes comen}
+- {CZ: Já nejím, SP: Yo no como}
+- {CZ: Ty nejíš, SP: Tú no comes}
+- {CZ: On nejí, SP: Él no come}
+- {CZ: Ona nejí, SP: Élla no come}
+- {CZ: Vy nejíte (vykání), SP: usted no come}
+- {CZ: My nejíme (ženy), SP: Nosotras no comemos}
+- {CZ: My nejíme (muži), SP: Nosotros no comemos}
+- {CZ: Vy nejíte (ženy), SP: Vosotras no coméis}
+- {CZ: Vy nejíte (muži), SP: Vosotros no coméis}
+- {CZ: Oni nejí, SP: Éllos no comen}
+- {CZ: Ony nejí, SP: Éllas no comen}
+- {CZ: Vy nejíte (vykání - množné), SP: ustedes no comen}
 
 beber:
 - {CZ: Já piju, SP: Yo bebo}
@@ -128,6 +217,35 @@ beber:
 - {CZ: Oni pijou, SP: Éllos beben}
 - {CZ: Ony pijou, SP: éllas beben}
 - {CZ: Vy pijou (vykání - množné), SP: ustedes beben}
+- {CZ: Já nepiju, SP: Yo no bebo}
+- {CZ: Ty nepiješ, SP: Tú no bebes}
+- {CZ: On nepije, SP: Él no bebe}
+- {CZ: Ona nepije, SP: Élla no bebe}
+- {CZ: Vy nepijete (vykání), SP: Usted no bebe}
+- {CZ: My nepijeme (ženy), SP: Nosotras no bebemos}
+- {CZ: My nepijeme (muži), SP: Nosotros no bebemos}
+- {CZ: Vy nepijete (ženy), SP: Vosotras no bebéis}
+- {CZ: Vy nepijete (muži), SP: Vosotros no bebéis}
+- {CZ: Oni nepijou, SP: Éllos no beben}
+- {CZ: Ony nepijou, SP: éllas no beben}
+- {CZ: Vy nepijou (vykání - množné), SP: Ustedes no beben}
+
+gustar1:
+- {CZ: Mám rád, SP: me gusto}
+- {CZ: Ty máš rád, SP: te gusto}
+- {CZ: On má rád, SP: le gusto}
+- {CZ: Ona má ráda, SP: le gusto}
+- {CZ: My máme rádi, SP: nos gusto}
+- {CZ: Vy máte rádi, SP: os gusto}
+- {CZ: Oni mají rádi, SP: les gusto}
+- {CZ: Já nemám rád(a), SP: me no gusto}
+- {CZ: Ty nemáš rád(a), SP: te no gusto}
+- {CZ: On(ona) nemá rád, SP: le no gusto}
+- {CZ: Ona nemá ráda, SP: le no gusto}
+- {CZ: My nemáme rádi, SP: nos no gusto}
+- {CZ: Vy nemáte rádi, SP: os no gusto}
+- {CZ: Oni nemají rádi, SP: les no gusto}
+
 
 
 next1:
@@ -181,15 +299,6 @@ bebernext:
 - {CZ: kafe, SP: café}
 - {CZ: čaj, SP: té}
 
-gustar1:
-- {CZ: Mám rád, SP: me gusto}
-- {CZ: Ty máš rád, SP: te gusto}
-- {CZ: On má rád, SP: le gusto}
-- {CZ: Ona má ráda, SP: le gusto}
-- {CZ: My máme rádi, SP: nos gusto}
-- {CZ: Vy máte rádi, SP: os gusto}
-- {CZ: Oni mají rádi, SP: les gusto}
-
 gustarnext1:
 - {CZ: cestování, SP: viajar}
 - {CZ: Španělsko, SP: España}
@@ -199,23 +308,26 @@ gustarnext1:
 - {CZ: jim, SP: les}
 
 templates:
- - ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
- - ["[be1:SP] [next1:SP]." ,"[be1:CZ] [next1:CZ]."]
- - ["[be2:CZ] [next2:CZ]." ,"[be2:SP] [next2:SP]."]
- - ["[be2:SP] [next2:SP]." ,"[be2:CZ] [next2:CZ]."]
- - ["[be2:CZ] [next2:CZ]?" , "¿[be2:SP] [next2:SP]?"]
- - ["¿[be2:SP] [next2:SP]?" ,"[be2:CZ] [next2:CZ]?"]
- - ["[vivir:CZ] [vivirnext:CZ]." ,"[vivir:SP] [vivirnext:SP]."]
- - ["[vivir:SP] [vivirnext:SP]." ,"[vivir:CZ] [vivirnext:CZ]."]
- - ["[trabajar:CZ] [vivirnext:CZ]." ,"[trabajar:SP] [vivirnext:SP]."]
- - ["[trabajar:SP] [vivirnext:SP]." ,"[trabajar:CZ] [vivirnext:CZ]."]
- - ["[hablar:CZ] [hablarnext:CZ]." ,"[hablar:SP] [hablarnext:SP]."]
- - ["[hablar:SP] [hablarnext:SP]." ,"[hablar:CZ] [hablarnext:CZ]."]
- - ["[tener:CZ] [tenernext:CZ]." ,"[tener:SP] [tenernext:SP]."]
- - ["[tener:SP] [tenernext:SP]." ,"[tener:CZ] [tenernext:CZ]."]
- - ["[comer:CZ] [comernext:CZ]." ,"[comer:SP] [comernext:SP]."]
- - ["[comer:SP] [comernext:SP]." ,"[comer:CZ] [comernext:CZ]."]
- - ["[beber:CZ] [bebernext:CZ]." ,"[beber:SP] [bebernext:SP]."]
- - ["[beber:SP] [bebernext:SP]." ,"[beber:CZ] [bebernext:CZ]."]
- - ["[gustar1:CZ] [gustarnext1:CZ]." ,"[gustar1:SP] [gustarnext1:SP]."]
- - ["[gustar1:SP] [gustarnext1:SP]." ,"[gustar1:CZ] [gustarnext1:CZ]."]
+- ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
+- ["[be1:SP] [next1:SP]." ,"[be1:CZ] [next1:CZ]."]
+- ["[be1q:CZ] [next1:CZ]?" ,"¿[be1q:SP] [next1:SP]?"]
+- ["¿[be1q:SP] [next1:SP?" ,"[be1q:CZ] [next1:CZ]."]
+- ["[be2:CZ] [next2:CZ]." ,"[be2:SP] [next2:SP]."]
+- ["[be2:SP] [next2:SP]." ,"[be2:CZ] [next2:CZ]."]
+- ["[be2:CZ] [next2:CZ]?" , "¿[be2:SP] [next2:SP]?"]
+- ["¿[be2:SP] [next2:SP]?" ,"[be2:CZ] [next2:CZ]?"]
+- ["[vivir:CZ] [vivirnext:CZ]." ,"[vivir:SP] [vivirnext:SP]."]
+- ["[vivir:SP] [vivirnext:SP]." ,"[vivir:CZ] [vivirnext:CZ]."]
+- ["[trabajar:CZ] [vivirnext:CZ]." ,"[trabajar:SP] [vivirnext:SP]."]
+- ["[trabajar:SP] [vivirnext:SP]." ,"[trabajar:CZ] [vivirnext:CZ]."]
+- ["[hablar:CZ] [hablarnext:CZ]." ,"[hablar:SP] [hablarnext:SP]."]
+- ["[hablar:SP] [hablarnext:SP]." ,"[hablar:CZ] [hablarnext:CZ]."]
+- ["[tener:CZ] [tenernext:CZ]." ,"[tener:SP] [tenernext:SP]."]
+- ["[tener:SP] [tenernext:SP]." ,"[tener:CZ] [tenernext:CZ]."]
+- ["[comer:CZ] [comernext:CZ]." ,"[comer:SP] [comernext:SP]."]
+- ["[comer:SP] [comernext:SP]." ,"[comer:CZ] [comernext:CZ]."]
+- ["[beber:CZ] [bebernext:CZ]." ,"[beber:SP] [bebernext:SP]."]
+- ["[beber:SP] [bebernext:SP]." ,"[beber:CZ] [bebernext:CZ]."]
+- ["[gustar1:CZ] [gustarnext1:CZ]." ,"[gustar1:SP] [gustarnext1:SP]."]
+- ["[gustar1:SP] [gustarnext1:SP]." ,"[gustar1:CZ] [gustarnext1:CZ]."]
+
