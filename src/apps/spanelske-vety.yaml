@@ -18,7 +18,7 @@ be1:
 - {CZ: Vy nejste (muži), SP: Vosotros no sois}
 - {CZ: Oni jsou, SP: Éllos son}
 - {CZ: Oni nejsou, SP: Éllos no son}
-- {CZ: Ony jsou, SP: Élllas son}
+- {CZ: Ony jsou, SP: Éllas son}
 - {CZ: Ony nejsou, SP: Éllas no son}
 - {CZ: Vy jste (vykání - množné), SP: Ustedes son}
 - {CZ: Vy nejste (vykání - množné), SP: Ustedes no son}
@@ -38,7 +38,7 @@ be1q:
 - {CZ: Vy jste (ženy), SP: Vosotras sois}
 - {CZ: Vy jste (muži), SP: Vosotros sois}
 - {CZ: Oni jsou, SP: Éllos son}
-- {CZ: Ony jsou, SP: Élllas son}
+- {CZ: Ony jsou, SP: Éllas son}
 - {CZ: Vy jste (vykání - množné), SP: Ustedes son}
 - {CZ: Jsem, SP: Soy}
 - {CZ: Jsi, SP:  Éres}
@@ -227,7 +227,7 @@ beber:
 - {CZ: Vy nepijete (ženy), SP: Vosotras no bebéis}
 - {CZ: Vy nepijete (muži), SP: Vosotros no bebéis}
 - {CZ: Oni nepijou, SP: Éllos no beben}
-- {CZ: Ony nepijou, SP: éllas no beben}
+- {CZ: Ony nepijou, SP: Éllas no beben}
 - {CZ: Vy nepijou (vykání - množné), SP: Ustedes no beben}
 
 gustar1:
