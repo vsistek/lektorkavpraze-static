@@ -311,7 +311,7 @@ templates:
 - ["[be1:CZ] [next1:CZ]." ,"[be1:SP] [next1:SP]."]
 - ["[be1:SP] [next1:SP]." ,"[be1:CZ] [next1:CZ]."]
 - ["[be1q:CZ] [next1:CZ]?" ,"¿[be1q:SP] [next1:SP]?"]
-- ["¿[be1q:SP] [next1:SP?" ,"[be1q:CZ] [next1:CZ]."]
+- ["¿[be1q:SP] [next1:SP]?" ,"[be1q:CZ] [next1:CZ]."]
 - ["[be2:CZ] [next2:CZ]." ,"[be2:SP] [next2:SP]."]
 - ["[be2:SP] [next2:SP]." ,"[be2:CZ] [next2:CZ]."]
 - ["[be2:CZ] [next2:CZ]?" , "¿[be2:SP] [next2:SP]?"]
