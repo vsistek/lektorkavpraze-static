@@ -6,6 +6,7 @@
 var prev_id = -1
 var id = -1;
 function getQuote() {
+  document.getElementById('quote').style.display = "none";
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -14,6 +15,7 @@ function getQuote() {
       if (id !== prev_id || id === 0) {
         document.getElementById('quotetext').innerText = myArr[1].replace(/&nbsp;/g, String.fromCharCode(160));
         document.getElementById('quoteauthor').innerText = "\n— " + myArr[2];
+        idocument.getElementById('quote').style.display = "table-cell";
       } else {
         getQuote();
       }
