@@ -2,10 +2,6 @@ html {
     height: 100%;
 }
 
-body {
-	background-image: url("/images/sakura.svg");
-}
-
 #header {
 	width: 30%;
 	height: 100%;
@@ -23,8 +19,6 @@ body {
 #menu {
 	padding-right: 30px;
 	padding-top: 20px;
-	background-color: rgba(255,255,255,0.85);
-	border-radius: 25px;
 }
 
 #content {
@@ -34,7 +28,6 @@ body {
 	top: 30%;
 	padding: 3%;
 	padding-top: 0;
-	background-color: rgba(255,255,255,0.85);
 	border-radius: 25px;
 }
 
@@ -54,8 +47,6 @@ body {
 	padding: 5%;
 	padding-bottom: 7%;
 	width: 65%;
-	background-color: rgba(255,255,255,0.85);
-	border-radius: 25px;
 }
 
 #contact {
@@ -65,3 +56,4 @@ body {
 	bottom: 0;
 	right: 0;
 }
+
