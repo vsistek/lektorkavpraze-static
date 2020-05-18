@@ -50,8 +50,9 @@ body {
 	padding-right: 20%;
 	padding-top: 5%;
         padding-bottom: 10%;
-        width: 90%;
+        width: 92%;
 	left: 8%;
+	border-radius: 0;
 }
 
 #contact {
