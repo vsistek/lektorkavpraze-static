@@ -58,7 +58,7 @@ cp ~/Downloads/english.yaml src/apps/anglictina-zakladni-gramatika.yaml
 In `vi`, you can use these commands:
 ```vim
 /anglictina-predmentne-vety
-yyp
+yjjp
 1G
 :/anglictina-predmentne-vety/s/anglictina-predmentne-vety/anglictina-zakladni-gramatika/
 :/Předmětné věty/s/Předmětné věty/Základní gramatika/
