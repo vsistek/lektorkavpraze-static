@@ -292,7 +292,7 @@ comernext:
 
 bebernext:
 - {CZ: pivo, SP: cerveza}
-- {CZ: vodu, SP: aqua}
+- {CZ: vodu, SP: agua}
 - {CZ: mléko, SP: leche}
 - {CZ: kafe, SP: café}
 - {CZ: čaj, SP: té}
