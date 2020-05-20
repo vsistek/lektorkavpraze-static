@@ -1,11 +1,11 @@
 be1:
 - {CZ: Já jsem, SP: Yo soy}
 - {CZ: Já nejsem, SP: Yo no soy}
-- {CZ: Ty jsi, SP: Tú éres}
-- {CZ: Ty nejsi, SP: Tú no éres}
+- {CZ: Ty jsi, SP: Tú eres}
+- {CZ: Ty nejsi, SP: Tú no eres}
 - {CZ: On je, SP: Él es}
 - {CZ: On není, SP: Él no es}
-- {CZ: Ona je, SP: Élla es}
+- {CZ: Ona je, SP: Ella es}
 - {CZ: Vy jste (vykání), SP: Usted es}
 - {CZ: Vy nejste (vykání), SP: Usted no es}
 - {CZ: My jsme (ženy), SP: Nosotras somos}
@@ -16,32 +16,32 @@ be1:
 - {CZ: Vy nejste (ženy), SP: Vosotras no sois}
 - {CZ: Vy jste (muži), SP: Vosotros sois}
 - {CZ: Vy nejste (muži), SP: Vosotros no sois}
-- {CZ: Oni jsou, SP: Éllos son}
-- {CZ: Oni nejsou, SP: Éllos no son}
-- {CZ: Ony jsou, SP: Éllas son}
-- {CZ: Ony nejsou, SP: Éllas no son}
+- {CZ: Oni jsou, SP: Ellos son}
+- {CZ: Oni nejsou, SP: Ellos no son}
+- {CZ: Ony jsou, SP: Ellas son}
+- {CZ: Ony nejsou, SP: Ellas no son}
 - {CZ: Vy jste (vykání - množné), SP: Ustedes son}
 - {CZ: Vy nejste (vykání - množné), SP: Ustedes no son}
 - {CZ: Jsem, SP: Soy}
 - {CZ: Nejsem, SP: No soy}
-- {CZ: Jsi, SP:  Éres}
-- {CZ: Nejsi, SP: No éres}
+- {CZ: Jsi, SP:  Eres}
+- {CZ: Nejsi, SP: No eres}
 
 be1q:
 - {CZ: Já jsem, SP: Yo soy}
-- {CZ: Ty jsi, SP: Tú éres}
+- {CZ: Ty jsi, SP: Tú eres}
 - {CZ: On je, SP: Él es}
-- {CZ: Ona je, SP: Élla es}
+- {CZ: Ona je, SP: Ella es}
 - {CZ: Vy jste (vykání), SP: Usted es}
 - {CZ: My jsme (ženy), SP: Nosotras somos}
 - {CZ: My jsme (muži), SP: Nosotras somos}
 - {CZ: Vy jste (ženy), SP: Vosotras sois}
 - {CZ: Vy jste (muži), SP: Vosotros sois}
-- {CZ: Oni jsou, SP: Éllos son}
-- {CZ: Ony jsou, SP: Éllas son}
+- {CZ: Oni jsou, SP: Ellos son}
+- {CZ: Ony jsou, SP: Ellas son}
 - {CZ: Vy jste (vykání - množné), SP: Ustedes son}
 - {CZ: Jsem, SP: Soy}
-- {CZ: Jsi, SP:  Éres}
+- {CZ: Jsi, SP:  Eres}
 
 
 
@@ -49,26 +49,25 @@ be2:
  - {CZ: Já jsem, SP: Yo estoy}
  - {CZ: Ty jsi, SP: Tú estás}
  - {CZ: On je, SP: Él está}
- - {CZ: Ona je, SP: Élla está}
+ - {CZ: Ona je, SP: Ella está}
  - {CZ: Vy jste (vykání), SP: Usted está}
  - {CZ: My jsme (ženy), SP: Nosotras estamos}
  - {CZ: My jsme (muži), SP: Nosotros estamos}
  - {CZ: Vy jste (ženy), SP: Vosotras estáis}
  - {CZ: Vy jste (muži), SP: Vosotros estáis}
- - {CZ: Oni jsou, SP: Éllos están}
- - {CZ: Ony jsou, SP: Éllas están}
+ - {CZ: Oni jsou, SP: Ellos están}
+ - {CZ: Ony jsou, SP: Ellas están}
  - {CZ: Vy jste (vykání - množné), SP: Ustedes están}
  - {CZ: Já nejsem, SP: Yo no estoy}
  - {CZ: Ty nejsi, SP: Tú no estás}
  - {CZ: On není, SP: Él no está}
- - {CZ: Ona není, SP: Élla no está}
+ - {CZ: Ona není, SP: Ella no está}
  - {CZ: Vy nejste (vykání), SP: Usted no está}
  - {CZ: My nejsme (ženy), SP: Nosotras no estamos}
  - {CZ: My nejsme (muži), SP: Nosotros no estamos}
  - {CZ: Vy nejste (ženy), SP: Vosotras no estáis}
  - {CZ: Vy nejste (muži), SP: Vosotros no estáis}
- - {CZ: Oni nejsou, SP: Éllos no están}
- - {CZ: Ony nejsou, SP: Éllas no están}
+ - {CZ: Oni nejsou, SP: Ellos no están}
  - {CZ: Vy nejste (vykání - množné), SP: Ustedes no están}
 
 
@@ -79,8 +78,8 @@ vivir:
 - {CZ: Ty nežiješ, SP: Tú no vives}
 - {CZ: On žije, SP: Él vive}
 - {CZ: On nežije, SP: Él no vive}
-- {CZ: Ona žije, SP: Élla vive}
-- {CZ: Ona nežije, SP: Élla no vive}
+- {CZ: Ona žije, SP: Ella vive}
+- {CZ: Ona nežije, SP: Ella no vive}
 - {CZ: Vy nežijete (vykání), SP: Usted no vive}
 - {CZ: Vy žijete (vykání), SP: Usted vive}
 - {CZ: Vy nežijete (vykání), SP: Usted no vive}
@@ -92,10 +91,10 @@ vivir:
 - {CZ: Vy nežijete (ženy), SP: Vosotras no vivís}
 - {CZ: Vy žijete (muži), SP: Vosotros vivís}
 - {CZ: Vy nežijete (muži), SP: Vosotros no vivís}
-- {CZ: Oni žijí, SP: Éllos viven}
-- {CZ: Oni nežijí, SP: Éllos no viven}
-- {CZ: Ony žijí, SP: Éllas viven}
-- {CZ: Ony nežijí, SP: Éllas no viven}
+- {CZ: Oni žijí, SP: Ellos viven}
+- {CZ: Oni nežijí, SP: Ellos no viven}
+- {CZ: Ony žijí, SP: Ellas viven}
+- {CZ: Ony nežijí, SP: Ellas no viven}
 - {CZ: Vy žijete (vykání - množné), SP: Ustedes viven}
 - {CZ: Vy nežijete (vykání - množné), SP: Ustedes no viven}
 
@@ -103,52 +102,52 @@ trabajar:
 - {CZ: Já pracuju, SP: Yo trabajo}
 - {CZ: Ty pracuješ, SP: Tú trabajas}
 - {CZ: On pracuje, SP: Él trabaja}
-- {CZ: Ona pracuje, SP: Élla trabaja}
+- {CZ: Ona pracuje, SP: Ella trabaja}
 - {CZ: Vy pracujete (vykání), SP: Usted trabaja}
 - {CZ: My pracujeme (ženy), SP: Nosotras trabajamos}
 - {CZ: My pracujeme (muži), SP: Nosotros trabajamos}
 - {CZ: Vy pracujete (ženy), SP: Vosotras trabajáis}
 - {CZ: Vy pracujete (muži), SP: Vosotros trabajáis}
-- {CZ: Oni pracují, SP: Éllos trabajan}
-- {CZ: Ony pracují, SP: Éllas trabajan}
+- {CZ: Oni pracují, SP: Ellos trabajan}
+- {CZ: Ony pracují, SP: Ellas trabajan}
 - {CZ: Vy pracujete (vykání - množné), SP: ustedes trabajan}
 - {CZ: Já nepracuju, SP: Yo no trabajo}
 - {CZ: Ty nepracuješ, SP: Tú no trabajas}
 - {CZ: On nepracuje, SP: Él no trabaja}
-- {CZ: Ona nepracuje, SP: Élla no trabaja}
+- {CZ: Ona nepracuje, SP: Ella no trabaja}
 - {CZ: Vy nepracujete (vykání), SP: Usted no trabaja}
 - {CZ: My nepracujeme (ženy), SP: Nosotras no trabajamos}
 - {CZ: My nepracujeme (muži), SP: Nosotros no trabajamos}
 - {CZ: Vy nepracujete (ženy), SP: Vosotras no trabajáis}
 - {CZ: Vy nepracujete (muži), SP: Vosotros no trabajáis}
-- {CZ: Oni nepracují, SP: Éllos no trabajan}
-- {CZ: Ony nepracují, SP: Éllas no trabajan}
+- {CZ: Oni nepracují, SP: Ellos no trabajan}
+- {CZ: Ony nepracují, SP: Ellas no trabajan}
 - {CZ: Vy nepracujete (vykání - množné), SP: ustedes no trabajan}
 
 tener:
 - {CZ: Já mám, SP: Yo tengo}
 - {CZ: Ty máš, SP: Tú tienes}
 - {CZ: On má, SP: Él tiene}
-- {CZ: Ona má, SP: Élla tiene}
+- {CZ: Ona má, SP: Ella tiene}
 - {CZ: Vy máte (vykání), SP: usted tiene}
 - {CZ: My máme (ženy), SP: nosotras tenemos}
 - {CZ: My máme (muži), SP: nosotros tenemos}
 - {CZ: Vy máte (ženy), SP: Vosotras teneís}
 - {CZ: Vy máte (muži), SP: Vosotros teneís}
-- {CZ: Oni mají, SP: Éllos tienen}
-- {CZ: Ony mají, SP: Éllas tienen}
+- {CZ: Oni mají, SP: Ellos tienen}
+- {CZ: Ony mají, SP: Ellas tienen}
 - {CZ: Vy máte (vykání - množné), SP: ustedes tienen}
 - {CZ: Já nemám, SP: Yo no tengo}
 - {CZ: Ty nemáš, SP: Tú no tienes}
 - {CZ: On nemá, SP: Él no tiene}
-- {CZ: Ona nemá, SP: Élla no tiene}
+- {CZ: Ona nemá, SP: Ella no tiene}
 - {CZ: Vy nemáte (vykání), SP: usted no tiene}
 - {CZ: My nemáme (ženy), SP: nosotras no tenemos}
 - {CZ: My nemáme (muži), SP: nosotros no tenemos}
 - {CZ: Vy nemáte (ženy), SP: Vosotras no teneís}
 - {CZ: Vy nemáte (muži), SP: Vosotros no teneís}
-- {CZ: Oni nemají, SP: Éllos no tienen}
-- {CZ: Ony nemají, SP: Éllas no tienen}
+- {CZ: Oni nemají, SP: Ellos no tienen}
+- {CZ: Ony nemají, SP: Ellas no tienen}
 - {CZ: Vy nemáte (vykání - množné), SP: ustedes no tienen}
 
 
@@ -156,95 +155,94 @@ hablar:
 - {CZ: Já mluvím, SP: Yo hablo}
 - {CZ: Ty mluvíš, SP: Tú hablas}
 - {CZ: On mluví, SP: Él habla}
-- {CZ: Ona mluví, SP: Élla habla}
+- {CZ: Ona mluví, SP: Ella habla}
 - {CZ: Vy mluvíte (vykání), SP: usted habla}
 - {CZ: My mluvíme (ženy), SP: Nosotras hablamos}
 - {CZ: My mluvíme (muži), SP: Nosotros hablamos}
 - {CZ: Vy mluvíte (ženy), SP: Vosotras habláis}
 - {CZ: Vy mluvíte (muži), SP: Vosotros hablaís}
-- {CZ: Oni mluví, SP: Éllos hablan}
-- {CZ: Ony mluví, SP: Éllas hablan}
+- {CZ: Oni mluví, SP: Ellos hablan}
+- {CZ: Ony mluví, SP: Ellas hablan}
 - {CZ: Vy mluvíte (vykání - množné), SP: ustedes hablan}
 - {CZ: Já nemluvím, SP: Yo no hablo}
 - {CZ: Ty nemluvíš, SP: Tú no hablas}
 - {CZ: On nemluví, SP: Él no habla}
-- {CZ: Ona nemluví, SP: Élla no  habla}
+- {CZ: Ona nemluví, SP: Ella no  habla}
 - {CZ: Vy nemluvíte (vykání), SP: usted no  habla}
 - {CZ: My nemluvíme (ženy), SP: Nosotras no  hablamos}
 - {CZ: My nemluvíme (muži), SP: Nosotros no  hablamos}
 - {CZ: Vy nemluvíte (ženy), SP: Vosotras no  habláis}
 - {CZ: Vy nemluvíte (muži), SP: Vosotros no hablaís}
-- {CZ: Oni nemluví, SP: Éllos no hablan}
-- {CZ: Ony nemluví, SP: Éllas no hablan}
+- {CZ: Oni nemluví, SP: Ellos no hablan}
+- {CZ: Ony nemluví, SP: Ellas no hablan}
 - {CZ: Vy nemluvíte (vykání - množné), SP: ustedes no hablan}
 
 comer:
 - {CZ: Já jím, SP: Yo como}
 - {CZ: Ty jíš, SP: Tú comes}
 - {CZ: On jí, SP: Él come}
-- {CZ: Ona jí, SP: Élla come}
+- {CZ: Ona jí, SP: Ella come}
 - {CZ: Vy jíte (vykání), SP: usted come}
 - {CZ: My jíme (ženy), SP: Nosotras comemos}
 - {CZ: My jíme (muži), SP: Nosotros comemos}
 - {CZ: Vy jíte (ženy), SP: Vosotras coméis}
 - {CZ: Vy jíte (muži), SP: Vosotros coméis}
-- {CZ: Oni jí, SP: Éllos comen}
-- {CZ: Ony jí, SP: Éllas comen}
+- {CZ: Oni jí, SP: Ellos comen}
+- {CZ: Ony jí, SP: Ellas comen}
 - {CZ: Vy jíte (vykání - množné), SP: ustedes comen}
 - {CZ: Já nejím, SP: Yo no como}
 - {CZ: Ty nejíš, SP: Tú no comes}
 - {CZ: On nejí, SP: Él no come}
-- {CZ: Ona nejí, SP: Élla no come}
+- {CZ: Ona nejí, SP: Ella no come}
 - {CZ: Vy nejíte (vykání), SP: usted no come}
 - {CZ: My nejíme (ženy), SP: Nosotras no comemos}
 - {CZ: My nejíme (muži), SP: Nosotros no comemos}
 - {CZ: Vy nejíte (ženy), SP: Vosotras no coméis}
 - {CZ: Vy nejíte (muži), SP: Vosotros no coméis}
-- {CZ: Oni nejí, SP: Éllos no comen}
-- {CZ: Ony nejí, SP: Éllas no comen}
+- {CZ: Oni nejí, SP: Ellos no comen}
+- {CZ: Ony nejí, SP: Ellas no comen}
 - {CZ: Vy nejíte (vykání - množné), SP: ustedes no comen}
 
 beber:
 - {CZ: Já piju, SP: Yo bebo}
 - {CZ: Ty piješ, SP: Tú bebes}
 - {CZ: On pije, SP: Él bebe}
-- {CZ: Ona pije, SP: Élla bebe}
+- {CZ: Ona pije, SP: Ella bebe}
 - {CZ: Vy pijete (vykání), SP: usted bebe}
 - {CZ: My pijeme (ženy), SP: Nosotras bebemos}
 - {CZ: My pijeme (muži), SP: Nosotros bebemos}
 - {CZ: Vy pijete (ženy), SP: Vosotras bebéis}
 - {CZ: Vy pijete (muži), SP: Vosotros bebéis}
-- {CZ: Oni pijou, SP: Éllos beben}
-- {CZ: Ony pijou, SP: éllas beben}
+- {CZ: Oni pijou, SP: Ellos beben}
+- {CZ: Ony pijou, SP: Ellas beben}
 - {CZ: Vy pijou (vykání - množné), SP: ustedes beben}
 - {CZ: Já nepiju, SP: Yo no bebo}
 - {CZ: Ty nepiješ, SP: Tú no bebes}
 - {CZ: On nepije, SP: Él no bebe}
-- {CZ: Ona nepije, SP: Élla no bebe}
+- {CZ: Ona nepije, SP: Ella no bebe}
 - {CZ: Vy nepijete (vykání), SP: Usted no bebe}
 - {CZ: My nepijeme (ženy), SP: Nosotras no bebemos}
 - {CZ: My nepijeme (muži), SP: Nosotros no bebemos}
 - {CZ: Vy nepijete (ženy), SP: Vosotras no bebéis}
 - {CZ: Vy nepijete (muži), SP: Vosotros no bebéis}
-- {CZ: Oni nepijou, SP: Éllos no beben}
-- {CZ: Ony nepijou, SP: Éllas no beben}
+- {CZ: Oni nepijou, SP: Ellos no beben}
+- {CZ: Ony nepijou, SP: Ellas no beben}
 - {CZ: Vy nepijou (vykání - množné), SP: Ustedes no beben}
 
 gustar1:
-- {CZ: Mám rád, SP: me gusto}
-- {CZ: Ty máš rád, SP: te gusto}
-- {CZ: On má rád, SP: le gusto}
-- {CZ: Ona má ráda, SP: le gusto}
-- {CZ: My máme rádi, SP: nos gusto}
-- {CZ: Vy máte rádi, SP: os gusto}
-- {CZ: Oni mají rádi, SP: les gusto}
-- {CZ: Já nemám rád(a), SP: me no gusto}
-- {CZ: Ty nemáš rád(a), SP: te no gusto}
-- {CZ: On(ona) nemá rád, SP: le no gusto}
-- {CZ: Ona nemá ráda, SP: le no gusto}
-- {CZ: My nemáme rádi, SP: nos no gusto}
-- {CZ: Vy nemáte rádi, SP: os no gusto}
-- {CZ: Oni nemají rádi, SP: les no gusto}
+- {CZ: Mám rád, SP: me gusta}
+- {CZ: Ty máš rád, SP: te gusta}
+- {CZ: On má rád, SP: le gusta}
+- {CZ: Ona má ráda, SP: le gusta}
+- {CZ: My máme rádi, SP: nos gusta}
+- {CZ: Vy máte rádi, SP: os gusta}
+- {CZ: Oni mají rádi, SP: les gusta}
+- {CZ: Já nemám rád(a), SP: no me gusta}
+- {CZ: On(ona) nemá rád, SP: no le gusta}
+- {CZ: Ona nemá ráda, SP: no le gusta}
+- {CZ: My nemáme rádi, SP: no nos gusta}
+- {CZ: Vy nemáte rádi, SP: no os gusta}
+- {CZ: Oni nemají rádi, SP: no les gusta}
 
 
 
@@ -267,7 +265,7 @@ hablarnext:
 - {CZ: španělsky, SP: español}
 - {CZ: německy, SP: alemán}
 - {CZ: anglicky, SP: ingles}
-- {CZ: česky, SP: cecho}
+- {CZ: česky, SP: checo}
 - {CZ: rusky, SP: ruso}
 
 vivirnext:
@@ -294,7 +292,7 @@ comernext:
 
 bebernext:
 - {CZ: pivo, SP: cerveza}
-- {CZ: vodu, SP: aqua}
+- {CZ: vodu, SP: agua}
 - {CZ: mléko, SP: leche}
 - {CZ: kafe, SP: café}
 - {CZ: čaj, SP: té}
@@ -302,7 +300,7 @@ bebernext:
 gustarnext1:
 - {CZ: cestování, SP: viajar}
 - {CZ: Španělsko, SP: España}
-- {CZ: ta kniha, SP: el libro}
+- {CZ: Německo, SP: Alemania}
 - {CZ: čtení, SP: leer}
 - {CZ: sport, SP: el deporte}
 
