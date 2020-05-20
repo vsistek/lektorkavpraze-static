@@ -104,7 +104,7 @@ templates:
 - ["Who [beq:EN]?", "Kdo [beq:CZ]?"]
 - ["Kdo [beq:CZ]?", "Who [beq:EN]?"]
 - ["Jak se [howareyou:CZ]?","How [howareyou:EN]?"]
-- ["How are [howareyou:EN]?","Jak se [howareyou:EN]?"]
+- ["How are [howareyou:EN]?","Jak se [howareyou:CZ]?"]
 - ["Jaké je [pronounsing:CZ] jméno?","What is [pronounsing:EN] name?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
