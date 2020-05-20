@@ -11,7 +11,7 @@ git checkout dev
 # If you had the repository cloned already, pull latest changes
 git pull
 ```
-2. Start by copying a Markdown (`.md`) file from a similar existing app
+2. Start by copying a Markdown ('.md') file from a similar existing app
 ```shell
 cp src/apps/anglictina-predmentne-vety.md src/apps/anglictina-zakladni-gramatika.md
 ```
@@ -40,7 +40,7 @@ In `vi`, you can use these commands:
 :%s/anglictina-predmentne-vety/anglictina-zakladni-gramatika/g
 :%s/Předmětné věty/Základní gramatika/g
 ```
-4. In this case, we are using `genrandomtask.py` and its helper cgi script. It expects one parameter, which is appended by `.yaml` and used as data for `genrandomtask.py`. This is defined as ##APICALL## symbol for templating, see the `.md` file above. So we need `anglictina-zakladni-gramatika.yaml` file.
+4. In this case, we are using `genrandomtask.py` and its helper cgi script. It expects one parameter, which is appended by '.yaml' and used as data for `genrandomtask.py`. This is defined as ##APICALL## symbol for templating, see the '.md' file above. So we need `anglictina-zakladni-gramatika.yaml` file.
 ```shell
 cp ~/Downloads/english.yaml src/apps/anglictina-zakladni-gramatika.yaml
 ```
@@ -69,5 +69,5 @@ git status
 git add src/04-aplikace.md src/apps/anglictina-zakladni-gramatika.md src/apps/anglictina-zakladni-gramatika.yaml
 git commit -m "anglictina-zakladni-gramatika app
 git push
-7. Stat's it. Your app gets deployed to staging. To promote it to production, create a merge request for 'master' branch.
 ```
+7. That's it. Your app gets deployed to staging: [http://pi.lektorkavpraze.cz/aplikace.html]. To promote it to production, create a merge request for 'master' branch.
