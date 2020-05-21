@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 	color: #000000;
 	background-color: #ffffff;
-	background-image: url("/images/sakura-transparent.svg");
+	background-image: url("/images/sakura-transparent-moon.svg");
 	background-position: right top;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -53,6 +53,14 @@ a:hover {
 
 a.active {
 	color: #ff0000;
+}
+
+#switch {
+	opacity: 0.5;
+	border: 0;
+	width: 80px;
+	height: auto;
+	cursor: ew-resize;
 }
 
 #content {
