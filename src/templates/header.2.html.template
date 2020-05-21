@@ -1,4 +1,7 @@
       </ul>
     </div>
+    <div id="magicswitch" onclick="toggleTheme()">
+      <img id="switch" src="/images/magicswitch.svg" alt="theme: (day) / (night)" />
+    </div>
   </div>
   <div id="content">

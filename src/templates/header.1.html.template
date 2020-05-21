@@ -8,10 +8,40 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="format-detection" content="telephone=no">
   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" media="only screen" href="/styles/lektorkavpraze-common5.css">
-  <link rel="stylesheet" media="only screen and (min-width: 1200px)" href="/styles/lektorkavpraze-wide5.css">
-  <link rel="stylesheet" media="only screen and (max-width: 1199px)" href="/styles/lektorkavpraze-narrow5.css" />
+  <link rel="stylesheet" media="only screen" href="/styles/lektorkavpraze-common6.css">
+  <link rel="stylesheet" media="only screen and (min-width: 1200px)" href="/styles/lektorkavpraze-wide6.css">
+  <link rel="stylesheet" media="only screen and (max-width: 1199px)" href="/styles/lektorkavpraze-narrow6.css" />
   <link href="/images/lektorkavpraze-favicon.png" rel="icon" type="image/png" />
+  <script>
+    function toggleTheme() {
+      // document.cookie = "light";
+      if (document.cookie.includes("dark")) {
+        var css = document.styleSheets[4];
+        if (css) {
+          css.disabled = true;
+        }
+        document.cookie = "theme=light; path=/;";
+      } else {
+        var css = document.styleSheets[4];
+        if (css) {
+          css.disabled = false;
+        } else {
+          var headID = document.getElementsByTagName("head")[0];
+          var cssNode = document.createElement('link');
+          cssNode.type = 'text/css';
+          cssNode.rel = 'stylesheet';
+          cssNode.href = '/styles/lektorkavpraze-dark.css';
+          cssNode.media = 'screen';
+          headID.appendChild(cssNode);
+        }
+        document.cookie = "theme=dark; path=/;";
+      }
+    }
+    if (document.cookie.includes("dark")) {
+      document.cookie = "theme=light; path=/;";
+      toggleTheme()
+    }
+  </script>
 </head>
 <body>
   <div id="header">

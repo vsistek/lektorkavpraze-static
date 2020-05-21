@@ -21,6 +21,12 @@ html {
 	padding-top: 20px;
 }
 
+#magicswitch {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
 #content {
 	width: 40%;
 	position: absolute;

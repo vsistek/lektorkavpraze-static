@@ -29,6 +29,16 @@ body {
 	border-bottom-right-radius: 0;
 }
 
+#magicswitch {
+	position: absolute;
+	top: 5px;
+	right: 22%;
+}
+
+#switch {
+	width: 50px;
+}
+
 #content {
 	position: static;
 	float: left;
