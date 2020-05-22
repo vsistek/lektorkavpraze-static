@@ -7,6 +7,13 @@ var prev_id = -1
 var id = -1;
 function getQuote() {
   document.getElementById('quote').style.opacity = 0.5;
+  document.getElementById('quote').addEventListener("mouseover", function() {
+    document.getElementById('quote').style.backgroundImage = "url('/images/spin.svg')";
+  }, false);
+  document.getElementById('quote').addEventListener("mouseout", function() {
+    document.getElementById('quote').style.backgroundImage = "none";
+  }, false);
+  document.getElementById('quote').style.backgroundImage = "url('/images/spin.svg')";
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -16,6 +23,13 @@ function getQuote() {
         document.getElementById('quotetext').innerText = myArr[1].replace(/&nbsp;/g, String.fromCharCode(160));
         document.getElementById('quoteauthor').innerText = "\n— " + myArr[2];
         document.getElementById('quote').style.opacity = 1;
+        document.getElementById('quote').addEventListener("mouseover", function() {
+          document.getElementById('quote').style.backgroundImage = "url('/images/refresh.svg')";
+        }, false);
+        document.getElementById('quote').addEventListener("mouseout", function() {
+          document.getElementById('quote').style.backgroundImage = "none";
+        }, false);
+	      document.getElementById('quote').style.backgroundImage = "none";
       } else {
         getQuote();
       }
