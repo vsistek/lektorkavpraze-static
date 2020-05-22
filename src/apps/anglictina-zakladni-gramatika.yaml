@@ -89,6 +89,43 @@ have:
 - {CZ: počítač, EN: a computer}
 - {CZ: knihu, EN: a book}
 
+townsub:
+- {CZ: hotel, EN: a hotel}
+- {CZ: restaurace, EN: a restaurant}
+- {CZ: lékárna, EN: a pharmacy}
+- {CZ: pošta, EN: a post office}
+- {CZ: nemocnice, EN: a hospital}
+
+prep2:
+- {CZ: vedle, EN: near}
+
+prep3:
+- {CZ: naproti, EN: opposite}
+
+prep7:
+- {CZ: před, EN: in front of}
+- {CZ: za, EN: behind}
+
+town2:
+- {CZ: banky, EN: the bank}
+- {CZ: supermarketu, EN: the supermarket}
+- {CZ: parku, EN: the park}
+- {CZ: školy, EN: the school}
+- {CZ: kostela, EN: the church}
+
+town3:
+- {CZ: bance, EN: the bank}
+- {CZ: supermarketu, EN: the supermarket}
+- {CZ: parku, EN: the park}
+- {CZ: škole, EN: the school}
+- {CZ: kostelu, EN: the church}
+
+town7:
+- {CZ: bankou, EN: the bank}
+- {CZ: supermarketem, EN: the supermarket}
+- {CZ: parkem, EN: the park}
+- {CZ: školou, EN: the school}
+- {CZ: kostelem, EN: the church}
 
 
 templates:
@@ -112,3 +149,9 @@ templates:
 - ["[persons:CZ] má [have:CZ].","[persons:EN] [has (got) [have:EN]."]
 - ["[persons:EN] [hasn't (got) [have:EN].","[persons:CZ] nemá [have:CZ]."]
 - ["[persons:CZ] nemá [have:CZ].","[persons:EN] [hasn't (got) [have:EN]."]
+- ["There is [townsub:EN] [prep2:EN] [town2:EN].", "[prep2:CZ] [town2:CZ] je [townsub:CZ]."]
+- ["[prep2:CZ] [town2:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep2:EN] [town2:EN]."]
+- ["There is [townsub:EN] [prep3:EN] [town3:EN].", "[prep3:CZ] [town3:CZ] je [townsub:CZ]."]
+- ["[prep3:CZ] [town3:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep3:EN] [town3:EN]."]
+- ["There is [townsub:EN] [prep7:EN] [town7:EN].", "[prep7:CZ] [town7:CZ] je [townsub:CZ]."]
+- ["[prep7:CZ] [town7:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep7:EN] [town7:EN]."]
