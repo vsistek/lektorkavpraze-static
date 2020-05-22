@@ -65,6 +65,10 @@ body {
 	border-radius: 0;
 }
 
+#quote:hover {
+	background-position: center;
+}
+
 #contact {
 	margin: 0;
 	display: block;
