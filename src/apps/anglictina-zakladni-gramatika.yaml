@@ -148,7 +148,7 @@ templates:
 - ["[persons:EN] [has (got) [have:EN].","[persons:CZ] má [have:CZ]."]
 - ["[persons:CZ] má [have:CZ].","[persons:EN] [has (got) [have:EN]."]
 - ["[persons:EN] [hasn't (got) [have:EN].","[persons:CZ] nemá [have:CZ]."]
-- ["[persons:CZ] nemá [have:CZ].","[persons:EN] [hasn't (got) [have:EN]."]
+- ["[persons:CZ] nemá [have:CZ].","[persons:EN] [hasn't got [have:EN]."]
 - ["There is [townsub:EN] [prep2:EN] [town2:EN].", "[prep2:CZ] [town2:CZ] je [townsub:CZ]."]
 - ["[prep2:CZ] [town2:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep2:EN] [town2:EN]."]
 - ["There is [townsub:EN] [prep3:EN] [town3:EN].", "[prep3:CZ] [town3:CZ] je [townsub:CZ]."]
