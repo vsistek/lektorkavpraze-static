@@ -7,8 +7,12 @@ MD=$1
        NAME=`cat $MD | awk 'match($0,/##NAME## .*/) { print substr($0,RSTART+9,RLENGTH-10)}'`
 DESCRIPTION=`cat $MD | awk 'match($0,/##DESCRIPTION## .*/) { print substr($0,RSTART+16,RLENGTH-17)}'`
     APICALL=`cat $MD | awk 'match($0,/##APICALL## .*/) { print substr($0,RSTART+12,RLENGTH-13)}'`
+      STAMP=`date +%s`
 
-cat $SRCROOT/templates/header.1.html.template | sed "s/##DESCRIPTION##/$DESCRIPTION/"
+cat $SRCROOT/templates/header.1.html.template | \
+    sed "s/##DESCRIPTION##/$DESCRIPTION/" | \
+    sed "s/##STAMP##/$STAMP/"
+
 $MYDIR/buildmenu.sh aplikace
 cat $SRCROOT/templates/header.2.html.template
 $MYDIR/md2html.py $MD
