@@ -17,7 +17,7 @@ function getQuote() {
         document.getElementById('quotetext').innerText = myArr[1].replace(/&nbsp;/g, String.fromCharCode(160));
         document.getElementById('quoteauthor').innerText = "\n— " + myArr[2];
         document.getElementById('quote').style.opacity = 1;
-	document.getElementById('quote').style.backgroundImage = "url('/images/refresh.svg')";
+	document.getElementById('quote:hover').style.backgroundImage = "none";
       } else {
         getQuote();
       }
