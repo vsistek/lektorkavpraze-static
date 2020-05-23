@@ -10,9 +10,6 @@ function getQuote() {
   document.getElementById('quote').addEventListener("mouseover", function() {
     document.getElementById('quote').style.backgroundImage = "url('/images/spin.svg')";
   }, false);
-  document.getElementById('quote').addEventListener("mouseout", function() {
-    document.getElementById('quote').style.backgroundImage = "none";
-  }, false);
   document.getElementById('quote').style.backgroundImage = "url('/images/spin.svg')";
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
@@ -29,7 +26,7 @@ function getQuote() {
         document.getElementById('quote').addEventListener("mouseout", function() {
           document.getElementById('quote').style.backgroundImage = "none";
         }, false);
-	      document.getElementById('quote').style.backgroundImage = "none";
+        document.getElementById('quote').style.backgroundImage = "none";
       } else {
         getQuote();
       }

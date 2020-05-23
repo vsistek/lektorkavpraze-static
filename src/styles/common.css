@@ -86,6 +86,9 @@ a.active {
 	background-color: rgba(255,255,255,0.85);
 	border-radius: 25px;
 	background-image: none;
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	background-size: 50px;
 }
 
 #quote:hover {
