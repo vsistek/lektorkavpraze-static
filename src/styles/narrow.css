@@ -63,6 +63,7 @@ body {
         width: 92%;
 	left: 8%;
 	border-radius: 0;
+	background-position: center;
 }
 
 #quote:hover {
