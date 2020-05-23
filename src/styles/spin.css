@@ -1,0 +1,9 @@
+#quote {
+	cursor: wait;
+	background-image: url("/images/spin.svg");
+}
+
+#quote:hover {
+	background-image: url("/images/spin.svg");
+	cursor: wait;
+}
