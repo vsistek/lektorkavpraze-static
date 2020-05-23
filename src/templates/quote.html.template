@@ -6,7 +6,7 @@
 var prev_id = -1
 var id = -1;
 function getQuote() {
-  document.getElementById('quote').style.opacity = 0.5;
+  document.getElementById('quote').style.opacity = 0.7;
   loadstyle("/styles/spin.css?stamp=##STAMP##");
 
   var xmlhttp = new XMLHttpRequest();
