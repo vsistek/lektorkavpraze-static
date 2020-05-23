@@ -18,5 +18,7 @@ $MYDIR/buildmenu.sh $NAME
 cat $SRCROOT/templates/header.2.html.template
 $MYDIR/md2html.py $MD
 cat $SRCROOT/templates/footer.1.html.template
-[ $QUOTE == "none" ] || cat $SRCROOT/templates/quote.html.template | sed "s/##QUOTE##/$QUOTE/"
+[ $QUOTE == "none" ] || cat $SRCROOT/templates/quote.html.template | \
+                        sed "s/##QUOTE##/$QUOTE/" | \
+                        sed "s/##STAMP##/$STAMP/"
 cat $SRCROOT/templates/footer.2.html.template
