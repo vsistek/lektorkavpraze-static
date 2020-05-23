@@ -6,7 +6,7 @@
       type="rotate"
       from="0 0 0"
       to="-360 0 0" 
-      dur="0.5s"
+      dur="1s"
       begin="0s"
       repeatCount="indefinite"
       />
