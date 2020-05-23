@@ -4,8 +4,6 @@
 ```shell
 git clone https://github.com/vsistek/lektorkavpraze-static.git
 cd lektorkavpraze-static
-# Switch to dev branch
-git checkout dev
 # If you had the repository cloned already, pull latest changes
 git pull
 ```
@@ -30,23 +28,6 @@ vi ../04-aplikace.md
 4. Commit and push
 ```shell
 git status
-On branch dev
-Your branch is up to date with 'origin/dev'.
-
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	renamed:    anglicke-vety.md -> anglictina-predmentne-vety.md
-	renamed:    anglicke-vety.yaml -> anglictina-predmentne-vety.yaml
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	modified:   ../04-aplikace.md
-	modified:   anglictina-predmentne-vety.md
-
-# Note that renames done using 'git mv' are aleady staged
 git add ../04-aplikace.md anglictina-predmentne-vety.md
 git commit -m "anglicke-vety -> anglictina-predmentne-vety"
 git push

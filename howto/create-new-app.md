@@ -6,8 +6,6 @@ This guide documents how to create a new app within lektorkavpraze-static framew
 ```shell
 git clone https://github.com/vsistek/lektorkavpraze-static.git
 cd lektorkavpraze-static
-# Switch to dev branch (changes should be first tested in dev / pi.lektorkavpraze.cz)
-git checkout dev
 # If you had the repository cloned already, pull latest changes
 git pull
 ```
@@ -63,11 +61,11 @@ yjjp
 :/anglictina-predmentne-vety/s/anglictina-predmentne-vety/anglictina-zakladni-gramatika/
 :/Předmětné věty/s/Předmětné věty/Základní gramatika/
 ```
-6. Commit and push your changes to git
+6. Commit and push your changes to GitHub
 ```shell
 git status
 git add src/04-aplikace.md src/apps/anglictina-zakladni-gramatika.md src/apps/anglictina-zakladni-gramatika.yaml
 git commit -m "anglictina-zakladni-gramatika app
 git push
 ```
-7. That's it. Your app gets deployed to staging: [http://pi.lektorkavpraze.cz/aplikace.html]. To promote it to production, create a merge request for 'master' branch.
+7. That's it. Your app gets deployed to: [http://www.lektorkavpraze.cz/aplikace.html].
