@@ -13,33 +13,34 @@
   <link rel="stylesheet" media="only screen and (max-width: 1199px)" href="/styles/narrow.css?stamp=##STAMP##" />
   <link href="/images/lektorkavpraze-favicon.png" rel="icon" type="image/png" />
   <script>
+    function loadstyle(filename) {
+      var fileref=document.createElement("link")
+      fileref.setAttribute("rel", "stylesheet")
+      fileref.setAttribute("type", "text/css")
+      fileref.setAttribute("href", filename)
+      if (typeof fileref!="undefined")
+        document.getElementsByTagName("head")[0].appendChild(fileref)
+    }
+
+    function removestyle(filename) {
+      var allsuspects=document.getElementsByTagName("link")
+      for (var i=allsuspects.length; i>=0; i--){
+      if (allsuspects[i] && allsuspects[i].getAttribute("href")!=null && allsuspects[i].getAttribute("href").indexOf(filename)!=-1)
+        allsuspects[i].parentNode.removeChild(allsuspects[i])
+      }
+    }
+
     function toggleTheme() {
-      // document.cookie = "light";
       if (document.cookie.includes("dark")) {
-        var css = document.styleSheets[4];
-        if (css) {
-          css.disabled = true;
-        }
+        removestyle("/styles/dark.css?stamp=##STAMP##")
         document.cookie = "theme=light; path=/;";
       } else {
-        var css = document.styleSheets[4];
-        if (css) {
-          css.disabled = false;
-        } else {
-          var headID = document.getElementsByTagName("head")[0];
-          var cssNode = document.createElement('link');
-          cssNode.type = 'text/css';
-          cssNode.rel = 'stylesheet';
-          cssNode.href = '/styles/dark.css?stamp=##STAMP##';
-          cssNode.media = 'screen';
-          headID.appendChild(cssNode);
-        }
+        loadstyle("/styles/dark.css?stamp=##STAMP##")
         document.cookie = "theme=dark; path=/;";
       }
     }
     if (document.cookie.includes("dark")) {
-      document.cookie = "theme=light; path=/;";
-      toggleTheme()
+      loadstyle("/styles/dark.css?stamp=##STAMP##")
     }
   </script>
 </head>
