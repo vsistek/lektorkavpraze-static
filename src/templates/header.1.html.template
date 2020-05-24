@@ -11,7 +11,7 @@
   <link rel="stylesheet" media="only screen" href="/styles/common.css?stamp=##STAMP##">
   <link rel="stylesheet" media="only screen and (min-width: 1200px)" href="/styles/wide.css?stamp=##STAMP##">
   <link rel="stylesheet" media="only screen and (max-width: 1199px)" href="/styles/narrow.css?stamp=##STAMP##" />
-  <link href="/images/lektorkavpraze-favicon.png" rel="icon" type="image/png" />
+  <link href="/images/favicon.svg" rel="icon" type="image/svg+xml" />
   <script>
     function loadstyle(filename) {
       var fileref=document.createElement("link")
