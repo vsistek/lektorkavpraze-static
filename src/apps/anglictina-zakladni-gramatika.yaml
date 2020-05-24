@@ -96,6 +96,11 @@ townsub:
 - {CZ: pošta, EN: a post office}
 - {CZ: nemocnice, EN: a hospital}
 
+roomsub:
+- {CZ: židle, EN: a chair}
+- {CZ: postel, EN: a bed}
+- {CZ: šatní skříň, EN: wardrobe}
+
 prep2:
 - {CZ: vedle, EN: near}
 
@@ -105,6 +110,22 @@ prep3:
 prep7:
 - {CZ: před, EN: in front of}
 - {CZ: za, EN: behind}
+
+room2:
+- {CZ: stolu, EN: the table}
+- {CZ: knihovny, EN: the bookcase}
+- {CZ: piana, EN: the piano}
+
+room3:
+- {CZ: stole, EN: the table}
+- {CZ: knihovně, EN: the bookcase}
+- {CZ: pianu, EN: the piano}
+
+room7:
+ - {CZ: stolem, EN: the table}
+ - {CZ: knihovnou, EN: the bookcase}
+ - {CZ: pianem, EN: the piano}
+
 
 town2:
 - {CZ: banky, EN: the bank}
@@ -128,6 +149,7 @@ town7:
 - {CZ: kostelem, EN: the church}
 
 
+
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
 - ["[be:EN] [benext:EN].","[be:CZ] [benext:CZ]."]
@@ -141,7 +163,7 @@ templates:
 - ["Who [beq:EN]?", "Kdo [beq:CZ]?"]
 - ["Kdo [beq:CZ]?", "Who [beq:EN]?"]
 - ["Jak se [howareyou:CZ]?","How [howareyou:EN]?"]
-- ["How are [howareyou:EN]?","Jak se [howareyou:CZ]?"]
+- ["How are [howareyou:EN]?","Jak se [howareyou:EN]?"]
 - ["Jaké je [pronounsing:CZ] jméno?","What is [pronounsing:EN] name?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
@@ -155,3 +177,9 @@ templates:
 - ["[prep3:CZ] [town3:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep3:EN] [town3:EN]."]
 - ["There is [townsub:EN] [prep7:EN] [town7:EN].", "[prep7:CZ] [town7:CZ] je [townsub:CZ]."]
 - ["[prep7:CZ] [town7:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep7:EN] [town7:EN]."]
+- ["There is [roomsub:EN] [prep2:EN] [room2:EN].", "[prep2:CZ] [room2:CZ] je [roomsub:CZ]."]
+- ["[prep2:CZ] [room2:CZ] je [roomsub:CZ].", "There is [roomsub:EN] [prep2:EN] [room2:EN]."]
+- ["There is [roomsub:EN] [prep3:EN] [room3:EN].", "[prep3:CZ] [room3:CZ] je [roomsub:CZ]."]
+- ["[prep3:CZ] [room3:CZ] je [roomsub:CZ].", "There is [roomsub:EN] [prep3:EN] [room3:EN]."]
+- ["There is [roomsub:EN] [prep7:EN] [room7:EN].", "[prep7:CZ] [room7:CZ] je [roomsub:CZ]."]
+- ["[prep7:CZ] [room7:CZ] je [roomsub:CZ].", "There is [roomsub:EN] [prep7:EN] [room7:EN]."]
