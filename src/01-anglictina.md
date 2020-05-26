@@ -5,6 +5,8 @@
 
 # Angličtina
 
+![ilustrační foto](/images/lektorkavpraze-anglictina.jpg){: #illustration }
+
 **Potřebujete se rozmluvit, ujasnit si gramatiku, připravit se na pohovor nebo se domluvit v zahraničí na cestách? Ráda Vám pomohu.**
 
 Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toho, že je nezbytné věnovat stejnou pozornost všem aspektům jazyka.

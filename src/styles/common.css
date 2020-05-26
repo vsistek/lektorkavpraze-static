@@ -70,11 +70,24 @@ a.active {
 
 #photo {
 	float: left;
-	height: 128px;
-	width: 128px;
+	height: 22%;
+	width: 22%;
+	min-height: 128px;
+	min-width: 128px;
 	padding-top: 1%;
 	padding-right: 3%;
 	padding-bottom: 3%;
+}
+
+#illustration {
+        float: right;
+        height: 33%;
+        width: 33%;
+	min-height: 256px;
+	min-width: 256px;
+        padding-top: 1%;
+        padding-left: 3%;
+        padding-bottom: 3%;
 }
 
 #quote {

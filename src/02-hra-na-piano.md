@@ -5,6 +5,8 @@
 
 # Hra na piano
 
+![ilustrační foto](/images/lektorkavpraze-hra-na-piano.jpg){: #illustration }
+
 **Splňte si svůj sen a naučte se hrát na piano.**
 
 **Základem mého přístupu k výuce je velký důraz na radost ze hry.** To ovšem neznamená, že podceňuji technickou stránku a potřebu domácího cvičení. Důležité ovšem je, aby studenty hra bavila, domácí cvičení a lekce pro ně nebyly stresující.

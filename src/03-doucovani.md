@@ -5,6 +5,8 @@
 
 # Doučování
 
+![ilustrační foto](/images/lektorkavpraze-doucovani.jpg){: #illustration }
+
 **Špatné známky? Přijímací zkoušky? Maturita? Reparát? Spolu to zvládneme!**
 
 Doučování dětí základních a středních škol se věnuji již více než 10 let a pomohla jsem již mnoha žákům a studentům.
