@@ -5,13 +5,13 @@
 
 # Doučování
 
-![ilustrační foto](/images/lektorkavpraze-doucovani.jpg){: #illustration }
-
 **Špatné známky? Přijímací zkoušky? Maturita? Reparát? Spolu to zvládneme!**
 
-Doučování dětí základních a středních škol se věnuji již více než 10 let a pomohla jsem již mnoha žákům a studentům.
+Doučování dětí základních a&nbsp;středních škol se věnuji již více než 10 let a&nbsp;pomohla jsem již mnoha žákům a&nbsp;studentům.
 
-Doučuji **matematiku, češtinu, angličtinu** a dle dohody i ostatní předměty.
+![ilustrační foto](/images/lektorkavpraze-doucovani.jpg){: #illustration }
+
+Doučuji **matematiku, češtinu, angličtinu** a&nbsp;dle dohody i&nbsp;ostatní předměty.
 
 _V současné krizové době nabízím doučování po Skypu (či podobné aplikaci) za **180Kč/30min**._
 
