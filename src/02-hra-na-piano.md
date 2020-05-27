@@ -17,6 +17,6 @@ Na piano hraji již od dětství a moje úroveň hry je ekvivalentní s&nbsp;abs
 
 Po zvládnutí základů je možné přidat do repertoáru i&nbsp;skladby či písně dle Vašeho výběru.
 
-Cena jedné lekce trvající **300 Kč/45min.**
+Cena jedné standardní lekce je **300 Kč/45min.**
 
 Cena pro dvojice je **200 Kč/45min. za osobu.**
