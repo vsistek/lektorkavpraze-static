@@ -70,10 +70,8 @@ a.active {
 
 #photo {
 	float: right;
-	height: 22%;
-	width: 22%;
-	min-height: 128px;
-	min-width: 128px;
+	width: 8em;
+	max-width: 33%;
 	padding-top: 1em;
 	padding-left: 1em;
 	padding-bottom: 1em;

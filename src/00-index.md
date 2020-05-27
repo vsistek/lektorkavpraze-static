@@ -5,7 +5,7 @@
 
 # Mgr. Monika Šístková
 
-![(O_o)](/images/lektorkavpraze-photo.png){: #photo }
+![(O_o)](/images/photo.jpg){: #photo }
 
 Individuální výuce a&nbsp;doučování se věnuji více než 10 let.  
 
