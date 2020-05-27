@@ -74,20 +74,17 @@ a.active {
 	width: 22%;
 	min-height: 128px;
 	min-width: 128px;
-	padding-top: 1%;
-	padding-left: 3%;
-	padding-bottom: 3%;
+	padding-top: 1em;
+	padding-left: 1.5em;
+	padding-bottom: 2em;
 }
 
 #illustration {
         float: left;
-        height: 33%;
-        width: 33%;
-	min-height: 256px;
-	min-width: 256px;
-        padding-top: 1%;
-        padding-right: 3%;
-        padding-bottom: 3%;
+        width: 50%;
+        padding-top: 1em;
+        padding-right: 1.5em;
+        padding-bottom: 2em;
 }
 
 #quote {

@@ -9,9 +9,9 @@
 
 Doučování dětí základních a&nbsp;středních škol se věnuji již více než 10 let a&nbsp;pomohla jsem již mnoha žákům a&nbsp;studentům.
 
-![ilustrační foto](/images/lektorkavpraze-doucovani.jpg){: #illustration }
-
 Doučuji **matematiku, češtinu, angličtinu** a&nbsp;dle dohody i&nbsp;ostatní předměty.
+
+![ilustrační foto](/images/lektorkavpraze-doucovani.jpg){: #illustration }
 
 _V současné krizové době nabízím doučování po Skypu (či podobné aplikaci) za **180Kč/30min**._
 

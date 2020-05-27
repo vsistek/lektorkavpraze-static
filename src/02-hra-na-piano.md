@@ -11,9 +11,9 @@
 
 Výuce hry na piano se věnuji již 10 let a&nbsp;učím jak děti, tak dospělé, pokročilé i&nbsp;začátečníky. **Nikdy není pozdě začít, důležitá je především motivace.**
 
-![ilustrační foto](/images/lektorkavpraze-hra-na-piano.jpg){: #illustration }
-
 Na piano hraji již od dětství a moje úroveň hry je ekvivalentní s&nbsp;absolvováním ZUŠ. Výuka probíhá na digitálním pianu Casio CDP-120 s&nbsp;kladívkovou mechanikou a&nbsp;88 klávesami. Doporučuji mít k&nbsp;domácímu cvičení klávesy s&nbsp;alespoň 61 klávesami a&nbsp;rozlišováním dynamiky.
+
+![ilustrační foto](/images/lektorkavpraze-hra-na-piano.jpg){: #illustration }
 
 Po zvládnutí základů je možné přidat do repertoáru i&nbsp;skladby či písně dle Vašeho výběru.
 
