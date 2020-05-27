@@ -8,9 +8,10 @@
 ![(O_o)](/images/lektorkavpraze-photo.png){: #photo }
 
 Individuální výuce a&nbsp;doučování se věnuji více než 10 let.  
-Mám zkušenosti s&nbsp;výukou všech věkových kategorií, malých i&nbsp;větších skupin. Stále se vzdělávám ve všech nabízených předmětech i&nbsp;v&nbsp;přístupech k&nbsp;výuce.
 
-![foto pokoje](/images/lektorkavpraze-room.jpg){: #illustration }
+![foto pokoje](/images/room.jpg){: #illustration }
+
+Mám zkušenosti s&nbsp;výukou všech věkových kategorií, malých i&nbsp;větších skupin. Stále se vzdělávám ve všech nabízených předmětech i&nbsp;v&nbsp;přístupech k&nbsp;výuce.
 
 Studovala jsem na FHS Univerzity Karlovy.  
 Zde jsem načerpala potřebný všeobecný přehled, znalosti psychologie, angličtiny či teorie umění a&nbsp;základy logiky.

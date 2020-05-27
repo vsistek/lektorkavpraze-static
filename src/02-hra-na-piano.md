@@ -9,7 +9,7 @@
 
 **Základem mého přístupu k výuce je velký důraz na radost ze hry.** To ovšem neznamená, že podceňuji technickou stránku a&nbsp;potřebu domácího cvičení. Důležité ovšem je, aby studenty hra bavila, domácí cvičení a&nbsp;lekce pro ně nebyly stresující.
 
-![ilustrační foto](/images/lektorkavpraze-hra-na-piano.jpg){: #illustration }
+![ilustrační foto](/images/hra-na-piano.jpg){: #illustration }
 
 Výuce hry na piano se věnuji již 10 let a&nbsp;učím jak děti, tak dospělé, pokročilé i&nbsp;začátečníky. **Nikdy není pozdě začít, důležitá je především motivace.**
 
