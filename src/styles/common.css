@@ -81,7 +81,8 @@ a.active {
 
 #illustration {
         float: left;
-        width: 33%;
+        width: 10em;
+	max-width: 50%;
         padding-top: 0.5em;
         padding-right: 1em;
         padding-bottom: 1em;
