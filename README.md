@@ -26,4 +26,5 @@ Some python3 scripts and data in `src/apps` are original work or derived from or
 
 ## License
 
-Mozilla Public License 2.0
+Apache License 2.0 for software source code
+CC BY-NC for artworks and data
