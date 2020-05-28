@@ -25,13 +25,10 @@ Example in Apache 2 format:
 </Directory>
 ```
 
-## Author
+## Authors
 
 Vaclav Sistek &lt;vsistek@fsfe.org&gt;
-
-## Credits
-
-Some python3 scripts and data in `src/apps` are original work or derived from original work of Monika Sistkova &lt;monika.sistkova@gmail.com&gt;
+Monika Sistkova &lt;monika.sistkova@gmail.com&gt;
 
 ## License
 
