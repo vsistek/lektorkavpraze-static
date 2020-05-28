@@ -4,7 +4,7 @@ lektorkavpraze.cz web page - presentation of a private teacher in Prague (my wif
 
 Website is statically generated using custom shell script, see `src/util/build.sh`
 
-There are some dynamic parts in python3 served as tiny ajax web services (CGI shell scripts), see `src/apps`
+There are some dynamic backend parts in python3 served through CGI shell scripts, see `src/apps`
 
 ## Install
 
@@ -15,6 +15,15 @@ sudo apt-get install python3-markdown python3-yaml
 sudo apt-get install jq
 ```
 
+To make dynamic backend parts working, CGI execution has to be allowed for `.cgi` files in `htdocs/aplikace`.
+
+Example in Apache 2 format:
+```
+<Directory /var/www/lektorkavpraze-static/htdocs/aplikace>
+    Options +ExecCGI -Indexes
+    AddHandler cgi-script .cgi
+</Directory>
+```
 
 ## Author
 
