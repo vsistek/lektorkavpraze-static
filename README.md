@@ -27,8 +27,8 @@ Example in Apache 2 format:
 
 ## Authors
 
-Vaclav Sistek &lt;vsistek@fsfe.org&gt;
-Monika Sistkova &lt;monika.sistkova@gmail.com&gt;
+- Vaclav Sistek &lt;vsistek@fsfe.org&gt;
+- Monika Sistkova &lt;monika.sistkova@gmail.com&gt;
 
 ## License
 
