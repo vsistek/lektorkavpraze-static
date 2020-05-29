@@ -27,6 +27,13 @@ html {
 	left: 10px;
 }
 
+#copyright {
+        position: absolute;
+        left: calc(100% - 15em);
+        bottom: 10px;
+	width: 15em;
+}
+
 #content {
 	width: 40%;
 	position: absolute;

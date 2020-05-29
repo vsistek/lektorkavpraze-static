@@ -82,3 +82,7 @@ body {
         padding: 1%;
         box-shadow: none;
 }
+
+#copyright {
+	display: none;
+}
