@@ -35,13 +35,54 @@ have:
 - {CZ: vy máte, EN: you have(formal or more people)}
 - {CZ: oni mají, EN: they have}
 
+live:
+- {CZ: Já žiju, EN: I live}
+- {CZ: Já nežiju, EN: I don't live}
+- {CZ: Ty žiješ, EN: You live (informal)}
+- {CZ: Ty nežiješ, EN: You don't live (informal)}
+- {CZ: On žije, EN: He lives}
+- {CZ: On nežije, EN: He doesn't live}
+- {CZ: Ona žije, EN: She lives}
+- {CZ: Ona nežije, EN: She doesn't live}
+- {CZ: My žijeme, EN: We live}
+- {CZ: My nežijeme, EN: We don't live}
+- {CZ: Vy žijete (množné), EN: You live (more people)}
+- {CZ: Vy nežijete (množné), EN: You don't live (more people)}
+- {CZ: Vy žijete (vykání), EN: You live (formal)}
+- {CZ: Vy nežijete (vykání), EN: You don't live (formal)}
+- {CZ: Oni žijí, EN: They live}
+- {CZ: Oni nežijí, EN: They don't live}
+
+liveq:
+- {CZ: žiju, EN: Do I live}
+- {CZ: žiješ, EN: Do you live (informal)}
+- {CZ: žije (on), EN: Does he live}
+- {CZ: žije (ona), EN: Does she live}
+- {CZ: žijeme, EN: Do we live}
+- {CZ: žijete (množné), EN: Do you live (more people)}
+- {CZ: žijete (vykání), EN: Do you live (formal)}
+- {CZ: žijí, EN: Do they live}
 
 persons:
 - {CZ: moje máma, EN: my mother}
 - {CZ: tvůj táta, EN: your father}
 - {CZ: jeho učitel, EN: his teacher}
 - {CZ: její bratr, EN: her brother}
-- {CZ: naše sestra, EN: our sister}
+
+
+livenext:
+- {CZ: v Praze, EN: in Prague}
+- {CZ: v České republice, EN: in the Czech Republic}
+- {CZ: v Německu, EN: in Germany}
+- {CZ: v Anglii, EN: in England}
+- {CZ: tady, EN: here}
+- {CZ: na Slovensku, EN: in Slovakia}
+- {CZ: ve Francii, EN: in France}
+- {CZ: v Maďarsku, EN: in Hungary}
+- {CZ: ve Španělsku, EN: in Spain}
+- {CZ: v Itálii, EN: in Italy}
+- {CZ: v Polsku, EN: in Poland}
+- {CZ: v Chorvatsku, EN: in Croatia}
 
 
 howareyou:
@@ -76,7 +117,6 @@ from:
 - {CZ: z Francie, EN: from France}
 - {CZ: z Maďarska, EN: from Hungary}
 
-
 have:
 - {CZ: auto, EN: a car}
 - {CZ: dům, EN: a house}
@@ -99,7 +139,7 @@ townsub:
 roomsub:
 - {CZ: židle, EN: a chair}
 - {CZ: postel, EN: a bed}
-- {CZ: šatní skříň, EN: wardrobe}
+- {CZ: šatní skříň, EN: a wardrobe}
 
 prep2:
 - {CZ: vedle, EN: near}
@@ -117,7 +157,7 @@ room2:
 - {CZ: piana, EN: the piano}
 
 room3:
-- {CZ: stolu, EN: the table}
+- {CZ: stole, EN: the table}
 - {CZ: knihovně, EN: the bookcase}
 - {CZ: pianu, EN: the piano}
 
@@ -183,3 +223,15 @@ templates:
 - ["[prep3:CZ] [room3:CZ] je [roomsub:CZ].", "There is [roomsub:EN] [prep3:EN] [room3:EN]."]
 - ["There is [roomsub:EN] [prep7:EN] [room7:EN].", "[prep7:CZ] [room7:CZ] je [roomsub:CZ]."]
 - ["[prep7:CZ] [room7:CZ] je [roomsub:CZ].", "There is [roomsub:EN] [prep7:EN] [room7:EN]."]
+- ["[live:CZ] [livenext:CZ].", "[live:EN] [livenext:EN]."]
+- ["[live:EN] [livenext:EN].", "[live:CZ] [livenext:CZ]."]
+- ["[persons:CZ] žije [livenext:CZ].", "[persons:EN] lives [livenext:EN]."]
+- ["[persons:EN] lives [livenext:EN].", "[persons:CZ] žije [livenext:CZ]."]
+- ["[persons:CZ] nežije [livenext:CZ].", "[persons:EN] doesn't live [livenext:EN]."]
+- ["[persons:EN] doesn't live [livenext:EN].", "[persons:CZ] nežije [livenext:CZ]."]
+- ["[liveq:CZ] [livenext:CZ]?", "[liveq:EN] [livenext:EN]?"]
+- ["[liveq:EN] [livenext:EN]?", "[liveq:CZ] [livenext:CZ]?"]
+- ["[liveq:CZ] [livenext:CZ]?", "[liveq:EN] [livenext:EN]?"]
+- ["[liveq:EN] [livenext:EN]?", "[liveq:CZ] [livenext:CZ]?"]
+- ["Žije [persons:CZ] [livenext:CZ]?", "Does [persons:EN] live [livenext:EN]?"]
+- ["Does [persons:EN] live [livenext:EN]?","Žije [persons:CZ] [livenext:CZ]?"]
