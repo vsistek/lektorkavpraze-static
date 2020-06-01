@@ -7,14 +7,42 @@ be:
 - {CZ: on není, EN: he isn't}
 - {CZ: ona je, EN: she is}
 - {CZ: ona není, EN: she isn't}
-- {CZ: je to, EN: it is}
+- {CZ: to je, EN: it is}
 - {CZ: to není, EN: it isn't}
-- {CZ: my jsme, EN: we aren't}
+- {CZ: my jsme, EN: we are}
 - {CZ: my nejsme, EN: we aren't}
 - {CZ: vy jste, EN: you are (formal or more people)}
 - {CZ: vy nejste, EN: you aren't (formal or more people)}
 - {CZ: oni jsou, EN: they are}
 - {CZ: oni nejsou, EN: they aren't}
+
+bepast:
+- {CZ: Byl/a jsem, EN: I was}
+- {CZ: Nebyl/a jsem, EN: I wasn't}
+- {CZ: ty jsi byl/a, EN: You were}
+- {CZ: ty jsi nebyl/a, EN: you weren't}
+- {CZ: on byl, EN: he was}
+- {CZ: on nebyl, EN: he wasn't}
+- {CZ: ona byla, EN: she was}
+- {CZ: ona nebyla, EN: she wasn't}
+- {CZ: bylo to, EN: it was}
+- {CZ: nebylo to, EN: it wasn't}
+- {CZ: my jsme nebyli, EN: we were}
+- {CZ: my jsme byli, EN: we weren't}
+- {CZ: vy jste byli, EN: you were (formal or more people)}
+- {CZ: vy jste nebyli, EN: you weren't (formal or more people)}
+- {CZ: oni byli, EN: they were}
+- {CZ: oni nebyli, EN: they weren't}
+
+beqpast:
+- {CZ: byl/a jsem, EN: was I}
+- {CZ: byl/a jsi, EN: were you (informal)}
+- {CZ: byl, EN: was he}
+- {CZ: byla, EN: was she}
+- {CZ: bylo to, EN: was it}
+- {CZ: byli jsme, EN: were we}
+- {CZ: byli jste, EN: were you (formal or more people)}
+- {CZ: byli, EN: were they}
 
 beq:
 - {CZ: jsem, EN: am I}
@@ -89,15 +117,15 @@ howareyou:
 - {CZ: mám, EN: am I}
 - {CZ: máš, EN: are you (informal)}
 - {CZ: má (on), EN: is he}
-- {CZ: má(ona), EN: is she}
+- {CZ: má (ona), EN: is she}
 - {CZ: máme, EN: are we}
 - {CZ: máte, EN: are you (formal or more people)}
 - {CZ: mají, EN: are they}
 
 benext:
-- {CZ: z Prahy, EN: from Prague}
-- {CZ: ze Španělska, EN: from Spain}
-- {CZ: z Německa, EN: from Germany}
+- {CZ: v Praze, EN: in Prague}
+- {CZ: ve Španělsku, EN: in Spain}
+- {CZ: v Německu, EN: in Germany}
 - {CZ: doma, EN: at home}
 - {CZ: v práci, EN: at work}
 
@@ -235,3 +263,7 @@ templates:
 - ["[liveq:EN] [livenext:EN]?", "[liveq:CZ] [livenext:CZ]?"]
 - ["Žije [persons:CZ] [livenext:CZ]?", "Does [persons:EN] live [livenext:EN]?"]
 - ["Does [persons:EN] live [livenext:EN]?","Žije [persons:CZ] [livenext:CZ]?"]
+- ["[bepast:CZ] [benext:CZ].","[bepast:EN] [benext:EN]."]
+- ["[bepast:EN] [benext:EN].","[bepast:CZ] [benext:CZ]."]
+- ["[beqpast:EN] [benext:EN]?","[beqpast:CZ] [benext:CZ]?"]
+- ["[beqpast:CZ] [benext:CZ]?","[beqpast:EN] [benext:EN]?"]
