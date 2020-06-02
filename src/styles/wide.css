@@ -12,13 +12,15 @@ html {
 }
 
 #logo {
-	width: 70%;
-	min-width: 128px;
+	width: 85%;
+	min-width: 150px;
+	float: right;
 }
 
 #menu {
 	padding-right: 30px;
 	padding-top: 20px;
+	float: right;
 }
 
 #magicswitch {
@@ -69,4 +71,3 @@ html {
 	bottom: 0;
 	right: 0;
 }
-

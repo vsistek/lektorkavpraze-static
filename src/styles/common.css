@@ -24,12 +24,6 @@ em {
 	font-style: normal;
 }
 
-#logo {
-	border: 0;
-	max-width: 512px;
-	height:auto;
-}
-
 #menu {
 	text-align: right;
 	font-size: 20px;
@@ -161,4 +155,30 @@ a.active {
 #solution {
         font-size: 24px;
         display: none;
+}
+
+#hour, #min, #neghour, #negmin {
+	fill: #f00;
+}
+#sec, #negsec {
+	stroke-width: 0.2px;
+	opacity: 0.5;
+	stroke: #000;
+	fill: #000;
+}
+
+#seccenter {
+	fill: #000;
+}
+
+.number {
+	fill: #f00;
+}
+
+.second {
+	fill: #000;
+}
+
+#ms-shape {
+	fill: #000;
 }

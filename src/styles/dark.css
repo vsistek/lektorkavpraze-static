@@ -34,5 +34,30 @@ a.active {
 }
 
 #quote {
-       background-color: rgba(0,0,0,0.75);
+        background-color: rgba(0,0,0,0.75);
+}
+
+#hour, #min, #neghour, #negmin {
+        fill: #f00;
+}
+
+#sec, #negsec {
+        stroke: #fff;
+        fill: #fff;
+}
+
+#seccenter {
+        fill: #fff;
+}
+
+.number {
+        fill: #f00;
+}
+
+.second {
+        fill: #fff;
+}
+
+#ms-shape {
+        fill: #fff;
 }
