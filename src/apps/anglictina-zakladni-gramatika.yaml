@@ -63,6 +63,15 @@ have:
 - {CZ: vy máte, EN: you have(formal or more people)}
 - {CZ: oni mají, EN: they have}
 
+had:
+- {CZ: já jsem měl/a, EN: I had}
+- {CZ: ty jsi měl/a, EN: you had}
+- {CZ: on měl, EN: he had}
+- {CZ: ona měla, EN: she had}
+- {CZ: my jsme měli, EN: we had}
+- {CZ: vy jste měli, EN: you had(formal or more people)}
+- {CZ: oni měli, EN: they had}
+
 live:
 - {CZ: Já žiju, EN: I live}
 - {CZ: Já nežiju, EN: I don't live}
@@ -145,7 +154,7 @@ from:
 - {CZ: z Francie, EN: from France}
 - {CZ: z Maďarska, EN: from Hungary}
 
-have:
+havenext:
 - {CZ: auto, EN: a car}
 - {CZ: dům, EN: a house}
 - {CZ: psa, EN: a dog}
@@ -235,10 +244,10 @@ templates:
 - ["Jaké je [pronounsing:CZ] jméno?","What is [pronounsing:EN] name?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
-- ["[persons:EN] [has (got) [have:EN].","[persons:CZ] má [have:CZ]."]
-- ["[persons:CZ] má [have:CZ].","[persons:EN] [has (got) [have:EN]."]
-- ["[persons:EN] [hasn't got [have:EN].","[persons:CZ] nemá [have:CZ]."]
-- ["[persons:CZ] nemá [have:CZ].","[persons:EN] [hasn't got [have:EN]."]
+- ["[persons:EN] [has (got) [havenext:EN].","[persons:CZ] má [havenext:CZ]."]
+- ["[persons:CZ] má [havenext:CZ].","[personsnext:EN] [has (got) [havenext:EN]."]
+- ["[persons:EN] [hasn't got [havenext:EN].","[persons:CZ] nemá [havenext:CZ]."]
+- ["[persons:CZ] nemá [havenext:CZ].","[persons:EN] [hasn't got [havenext:EN]."]
 - ["There is [townsub:EN] [prep2:EN] [town2:EN].", "[prep2:CZ] [town2:CZ] je [townsub:CZ]."]
 - ["[prep2:CZ] [town2:CZ] je [townsub:CZ].", "There is [townsub:EN] [prep2:EN] [town2:EN]."]
 - ["There is [townsub:EN] [prep3:EN] [town3:EN].", "[prep3:CZ] [town3:CZ] je [townsub:CZ]."]
@@ -267,3 +276,6 @@ templates:
 - ["[bepast:EN] [benext:EN].","[bepast:CZ] [benext:CZ]."]
 - ["[beqpast:EN] [benext:EN]?","[beqpast:CZ] [benext:CZ]?"]
 - ["[beqpast:CZ] [benext:CZ]?","[beqpast:EN] [benext:EN]?"]
+- ["[had:CZ] [havenext:CZ].","[had:EN] [havenext:EN]."]
+- ["[had:EN] [havenext:EN].","[had:CZ] [havenext:CZ]."]
+
