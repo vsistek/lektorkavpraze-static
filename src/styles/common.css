@@ -157,10 +157,10 @@ a.active {
         display: none;
 }
 
-#hour, #min, #neghour, #negmin {
+#hour, #min {
 	fill: #f00;
 }
-#sec, #negsec {
+#sec {
 	stroke-width: 0.2px;
 	opacity: 0.5;
 	stroke: #000;

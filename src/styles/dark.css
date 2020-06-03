@@ -37,11 +37,7 @@ a.active {
         background-color: rgba(0,0,0,0.75);
 }
 
-#hour, #min, #neghour, #negmin {
-        fill: #f00;
-}
-
-#sec, #negsec {
+#sec {
         stroke: #fff;
         fill: #fff;
 }
