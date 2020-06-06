@@ -5,7 +5,9 @@
 # [&#9881;](/aplikace.html) Angličtina
 ## Základní gramatika
 
-**Aplikace na procvičení základů anglické gramatiky**
+**Aplikace na procvičení základů anglické gramatiky.
+Slova v závorce upřesňují, zda se jedná o tykání(informal) či tykání(formal)
+a nejsou součástí překladu jako takového.**
 
 Malý moment...
 {: #task }
