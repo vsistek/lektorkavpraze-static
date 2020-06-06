@@ -1,11 +1,11 @@
-[//]: # (##NAME## anglictina-predmentne-vety)
-[//]: # (##DESCRIPTION## Aplikace: Angličtina: Předmětné věty)
-[//]: # (##APICALL## genrandomtask.cgi?anglictina-predmentne-vety)
+[//]: # (##NAME## anglictina-predpritomny-minuly-cas)
+[//]: # (##DESCRIPTION## Aplikace: Angličtina: Předpřítomný vs. minulý čas)
+[//]: # (##APICALL## genrandomtask.cgi?anglictina-zakladni-gramatika)
 
 # [&#9881;](/aplikace.html) Angličtina
-## Předmětné věty
+## Předpřítomný a minulý čas
 
-**Aplikace na procvičení základních předmětných vět**
+**Aplikace na procvičení předpřítomného času prostého (present perfect) a minulého času prostého (past simple)**
 
 Malý moment...
 {: #task }
