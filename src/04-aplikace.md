@@ -18,6 +18,8 @@ Nabízím online nástroje pro výuku:
 {: .appsmenu }
 * [&#9881; Předmětné věty](/aplikace/anglictina-predmentne-vety.html)
 {: .appsmenu }
+* [&#9881; Předpřítomný čas prostý vs. minulý čas prostý](/aplikace/anglictina-predpritomny-minuly-prosty-cas.html)
+{: .appsmenu }
 
 ### Ostatní
 
