@@ -17,6 +17,7 @@ be:
 - {CZ: oni nejsou, EN: they aren't}
 
 bepast:
+- {CZ: Byl/a jsem, EN: I was}
 - {CZ: Nebyl/a jsem, EN: I wasn't}
 - {CZ: ty jsi byl/a, EN: You were}
 - {CZ: ty jsi nebyl/a, EN: you weren't}
@@ -103,7 +104,7 @@ bepastplace:
 - {CZ: oni tam byli, EN: they were there}
 - {CZ: oni tam nebyli, EN: they weren't there}
 
-bepastnext:
+pastnext:
 - {CZ: včera, EN: yesterday}
 - {CZ: v pondělí, EN: on Monday}
 - {CZ: v roce 2005, EN: in 2005}
@@ -114,6 +115,25 @@ bepastnext:
 - {CZ: před dvěma hodinami, EN: two hours ago}
 - {CZ: před lety, EN: years ago}
 - {CZ: dávno, EN: a long time ago}
+
+pastir:
+- {CZ: Viděla jsem ho, EN: I saw him}
+- {CZ: Koupil si to, EN: You bought it}
+- {CZ: Prodal to auto, EN: He sold the car}
+- {CZ: Potkala ho, EN: She met him}
+- {CZ: Zjistili jsme to, EN: We found out}
+
+
+pastnext:
+- {CZ: včera, EN: yesterday}
+- {CZ: v pondělí, EN: on Monday}
+- {CZ: v roce 2005, EN: in 2005}
+- {CZ: v lednu, EN: in January}
+- {CZ: v půl osmé, EN: at half past eight}
+- {CZ: před rokem, EN: an hour ago}
+- {CZ: před pěti měsíci, EN: five months ago}
+- {CZ: před dvěma hodinami, EN: two hours ago}
+- {CZ: před lety, EN: years ago}
 
 
 live:
@@ -135,7 +155,6 @@ live:
 - {CZ: Oni nežijí, EN: They don't live}
 
 liveq:
-- {CZ: žiju, EN: Do I live}
 - {CZ: žiješ, EN: Do you live (informal)}
 - {CZ: žije (on), EN: Does he live}
 - {CZ: žije (ona), EN: Does she live}
@@ -143,6 +162,33 @@ liveq:
 - {CZ: žijete (množné), EN: Do you live (more people)}
 - {CZ: žijete (vykání), EN: Do you live (formal)}
 - {CZ: žijí, EN: Do they live}
+
+work:
+- {CZ: Já pracuju, EN: I work}
+- {CZ: Já nepracuju, EN: I don't work}
+- {CZ: Ty pracuješ, EN: You work (informal)}
+- {CZ: Ty nepracuješ, EN: You don't work (informal)}
+- {CZ: On pracuje, EN: He works}
+- {CZ: On nepracuje, EN: He doesn't work}
+- {CZ: Ona pracuje, EN: She works}
+- {CZ: Ona nepracuje, EN: She doesn't work}
+- {CZ: My pracujeme, EN: We work}
+- {CZ: My nepracujeme, EN: We don't work}
+- {CZ: Vy pracujete (množné), EN: You work (more people)}
+- {CZ: Vy nepracujete (množné), EN: You don't work (more people)}
+- {CZ: Vy pracujete (vykání), EN: You work (formal)}
+- {CZ: Vy nepracujete (vykání), EN: You don't work (formal)}
+- {CZ: Oni pracují, EN: They work}
+- {CZ: Oni nepracují, EN: They don't work}
+
+workq:
+- {CZ: pracuješ, EN: Do you work (informal)}
+- {CZ: pracuje (on), EN: Does he work}
+- {CZ: pracuje (ona), EN: Does she work}
+- {CZ: pracujeme, EN: Do we work}
+- {CZ: pracujete (množné), EN: Do you work (more people)}
+- {CZ: pracujete (vykání), EN: Do you work (formal)}
+- {CZ: pracují, EN: Do they work}
 
 persons:
 - {CZ: moje máma, EN: my mother}
@@ -154,7 +200,6 @@ persons:
 - {CZ: jejich kamarád, EN: their friend}
 - {CZ: Robert, EN: Robert}
 - {CZ: Sandra, EN: Sandra}
-
 
 
 livenext:
@@ -305,7 +350,7 @@ templates:
 - ["Who [beq:EN]?", "Kdo [beq:CZ]?"]
 - ["Kdo [beq:CZ]?", "Who [beq:EN]?"]
 - ["Jak se [howareyou:CZ]?","How [howareyou:EN]?"]
-- ["How [howareyou:EN]?","Jak se [howareyou:CZ]?"]
+- ["How are [howareyou:EN]?","Jak se [howareyou:EN]?"]
 - ["Jaké je [pronounsing:CZ] jméno?","What is [pronounsing:EN] name?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
 - ["What is [pronounsing:EN] name?","Jaké je [pronounsing:CZ] jméno?"]
@@ -343,12 +388,27 @@ templates:
 - ["[beqpast:CZ] [benext:CZ]?","[beqpast:EN] [benext:EN]?"]
 - ["[had:CZ] [havenext:CZ].","[had:EN] [havenext:EN]."]
 - ["[had:EN] [havenext:EN].","[had:CZ] [havenext:CZ]."]
-- ["[bepastplace:CZ] [bepastnext:CZ].","[bepastplace:EN] [bepastnext:EN]."]
-- ["[bepastplace:EN] [bepastnext:EN].","[bepastplace:CZ] [bepastnext:CZ]."]
+- ["[bepastplace:CZ] [pastnext:CZ].","[bepastplace:EN] [pastnext:EN]."]
+- ["[bepastplace:EN] [pastnext:EN].","[bepastplace:CZ] [pastnext:CZ]."]
 - ["[persons:CZ] [can1:CZ].","[persons:EN] [can1:EN]."]
 - ["[persons:EN] [can1:EN].","[persons:CZ] [can1:CZ]."]
 - ["Může [persons:CZ] [cannext:CZ]?","Can [persons:EN] [cannext:EN]?"]
 - ["Can [persons:EN] [cannext:EN]?","Může [persons:CZ] [cannext:CZ]?"]
+- ["[pastir:CZ]  [pastnext:CZ].","[pastir:EN] [pastnext:EN]."]
+- ["[pastir:EN]  [pastnext:EN].","[pastir:CZ] [pastnext:CZ]."]
+- [" Pracuje .","Může [persons:CZ] [cannext:CZ]?"]
+- ["[work:CZ] [worknext:CZ].", "[work:EN] [worknext:EN]."]
+- ["[work:EN] [worknext:EN].", "[work:CZ] [worknext:CZ]."]
+- ["[persons:CZ] pracuje [worknext:CZ].", "[persons:EN] works [worknext:EN]."]
+- ["[persons:EN] works [worknext:EN].", "[persons:CZ] pracuje [worknext:CZ]."]
+- ["[persons:CZ] nepracuje [worknext:CZ].", "[persons:EN] doesn't work [worknext:EN]."]
+- ["[persons:EN] doesn't work [worknext:EN].", "[persons:CZ] nepracuje [worknext:CZ]."]
+- ["[workq:CZ] [worknext:CZ]?", "[workq:EN] [worknext:EN]?"]
+- ["[workq:EN] [worknext:EN]?", "[workq:CZ] [worknext:CZ]?"]
+- ["[workq:CZ] [worknext:CZ]?", "[workq:EN] [worknext:EN]?"]
+- ["[workq:EN] [worknext:EN]?", "[workq:CZ] [worknext:CZ]?"]
+- ["pracuje [persons:CZ] [worknext:CZ]?", "Does [persons:EN] work [worknext:EN]?"]
+- ["Does [persons:EN] work [worknext:EN]?","pracuje [persons:CZ] [worknext:CZ]?"]
 
 
 
