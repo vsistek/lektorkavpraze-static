@@ -9,6 +9,7 @@
 
 Slova v závorce upřesňují, zda se jedná o tykání (informal) či tykání (formal)
 a nejsou součástí překladu jako takového.
+*****************************************************************************
 
 Malý moment...
 {: #task }
