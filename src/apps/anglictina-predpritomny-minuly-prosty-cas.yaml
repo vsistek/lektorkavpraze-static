@@ -5,14 +5,12 @@ beperfect1a:
 - {CZ: ona je tady, EN: she has been here}
 - {CZ: to je tady, EN: it has been here}
 - {CZ: my jsme tady, EN: we have been here}
-- {CZ: vy jste tady, EN: you have been here (formal or more people)}
 - {CZ: oni jsou tady, EN: they have been here}
 - {CZ: já jsem tam, EN: I have been there}
 - {CZ: ty jsi tam, EN: You have been there}
 - {CZ: on je tam, EN: he has been there}
 - {CZ: ona je tam, EN: she has been there}
 - {CZ: my jsme tam, EN: we have been there}
-- {CZ: vy jste tam, EN: you have been there (formal or more people)}
 - {CZ: oni jsou tam, EN: they have been there}
 
 beperfect1n:
@@ -22,14 +20,12 @@ beperfect1n:
 - {CZ: ona tady není, EN: she hasn't here}
 - {CZ: to tady není, EN: it hasn't been here}
 - {CZ: my tady nejsme, EN: we haven't been here}
-- {CZ: vy tady nejste, EN: you haven't been here(formal or more people)}
 - {CZ: oni tady nejsou, EN: they haven't been here}
 - {CZ: já tam nejsem, EN: I haven't been there}
 - {CZ: ty tam nejsi, EN: you haven't been there}
 - {CZ: on tam není, EN: he hasn't been there}
 - {CZ: ona tam není, EN: she hasn't there}
 - {CZ: my tam nejsme, EN: we haven't been there}
-- {CZ: vy tam nejste, EN: you haven't been there (formal or more people)}
 - {CZ: oni tam nejsou, EN: they haven't been there}
 
 bepastplace:
@@ -45,8 +41,6 @@ bepastplace:
 - {CZ: nebylo to tady, EN: it wasn't here}
 - {CZ: my jsme tady byli, EN: we were here}
 - {CZ: my jsme tady nebyli, EN: we weren't here}
-- {CZ: vy jste tady byli, EN: you were here(formal or more people)}
-- {CZ: vy jste tady nebyli, EN: you weren't here (formal or more people)}
 - {CZ: oni tady byli, EN: they were here}
 - {CZ: oni tady nebyli tady, EN: they weren't here}
 - {CZ: Byl/a jsem tam, EN: I was here}
@@ -59,8 +53,6 @@ bepastplace:
 - {CZ: ona tam nebyla, EN: she wasn't there}
 - {CZ: my jsme tam byli, EN: we were there}
 - {CZ: my jsme tam nebyli, EN: we weren't there}
-- {CZ: vy jste tam byli, EN: you were there (formal or more people)}
-- {CZ: vy jste tam nebyli, EN: you weren't there (formal or more people)}
 - {CZ: oni tam byli, EN: they were there}
 - {CZ: oni tam nebyli, EN: they weren't there}
 
@@ -143,3 +135,4 @@ templates:
 - ["[perfectir:EN] [perfectirnext:EN].","[perfectir:CZ] [perfectirnext:CZ]."]
 - ["[perfectalone:CZ].","[perfectalone:EN]."]
 - ["[perfectalone:EN].","[perfectalone:CZ]."]
+
