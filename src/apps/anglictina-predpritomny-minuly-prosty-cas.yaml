@@ -103,7 +103,7 @@ pastnext:
 - {CZ: v roce 2005, EN: in 2005}
 - {CZ: v lednu, EN: in January}
 - {CZ: v půl osmé, EN: at half past eight}
-- {CZ: před rokem, EN: an hour ago}
+- {CZ: před rokem, EN: a year ago}
 - {CZ: před pěti měsíci, EN: five months ago}
 - {CZ: před dvěma hodinami, EN: two hours ago}
 - {CZ: před lety, EN: years ago}
@@ -127,10 +127,10 @@ perfectalone:
 - {CZ: Konečně! Dodělali jsme domácí úkol, EN: Finally! We have finished the homework}
 - {CZ: Právě jsem odeslal ten email, EN: I have just sent that email}
 - {CZ: Už jsem tam byla, EN: I have already been there}
-- {CZ: Moji rodiče nedávno postavili nový dům, EN: My parents built a new house recently}
-- {CZ: Přišel. Je tady. EN: He has come. He is here}
-- {CZ: Tohle jsem nikdy nebyla. Je tady. EN: I have never drunk it before}
-- {CZ: She has left. She is not here. EN}
+- {CZ: Moji rodiče nedávno postavili nový dům, EN: My parents have built a new house recently}
+- {CZ: Přišel. Je tady, EN: He has come. He is here}
+- {CZ: Tohle jsem nikdy nepila, EN: I have never drunk it before}
+- {CZ: Odešla, EN: She has left}
 
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
@@ -143,4 +143,3 @@ templates:
 - ["[perfectir:EN] [perfectirnext:EN].","[perfectir:CZ] [perfectirnext:CZ]."]
 - ["[perfectalone:CZ].","[perfectalone:EN]."]
 - ["[perfectalone:EN].","[perfectalone:CZ]."]
-
