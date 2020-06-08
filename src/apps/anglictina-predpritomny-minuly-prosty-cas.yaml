@@ -1,6 +1,5 @@
 beperfect1a:
 - {CZ: já jsem tady, EN: I have been here}
-- {CZ: ty jsi tady, EN: You have been here}
 - {CZ: on je tady, EN: he has been here}
 - {CZ: ona je tady, EN: she has been here}
 - {CZ: to je tady, EN: it has been here}
@@ -22,7 +21,6 @@ beperfect1n:
 - {CZ: my tady nejsme, EN: we haven't been here}
 - {CZ: oni tady nejsou, EN: they haven't been here}
 - {CZ: já tam nejsem, EN: I haven't been there}
-- {CZ: ty tam nejsi, EN: you haven't been there}
 - {CZ: on tam není, EN: he hasn't been there}
 - {CZ: ona tam není, EN: she hasn't there}
 - {CZ: my tam nejsme, EN: we haven't been there}
@@ -31,8 +29,6 @@ beperfect1n:
 bepastplace:
 - {CZ: byl/a jsem tady, EN: I was here}
 - {CZ: nebyl/a jsem tady, EN: I wasn't here}
-- {CZ: ty jsi byl/a tady, EN: you were here}
-- {CZ: ty jsi tady nebyl/a, EN: you weren't here}
 - {CZ: on byl tady, EN: he was here}
 - {CZ: on tady nebyl, EN: he wasn't here}
 - {CZ: ona byla tady, EN: she was here}
@@ -57,18 +53,18 @@ bepastplace:
 - {CZ: oni tam nebyli, EN: they weren't there}
 
 pastir:
-- {CZ: Viděla jsem ho, EN: I saw him}
-- {CZ: Koupil si to, EN: You bought it}
+- {CZ: Viděl/a jsem ho, EN: I saw him}
+- {CZ: Koupil/a sis to, EN: You bought it}
 - {CZ: Prodal to auto, EN: He sold the car}
 - {CZ: Potkala ho, EN: She met him}
 - {CZ: Šli jsme tam, EN: We went there}
-- {CZ: Našla jsem klíče, EN: I  found the keys}
+- {CZ: Našel jsem klíče, EN: He found the keys}
 - {CZ: Byla jsem tam, EN: I was there}
 - {CZ: Dodělali jsme domácí úkol, EN: We finished the homework}
 - {CZ: Poslal dopis, EN: he sent a letter}
 - {CZ: Moji rodiče postavili nový dům, EN: My parents built a new house}
 - {CZ: Přišel, EN: He came}
-- {CZ: Poslední pivo jsem pil, EN:I drank my last beer}
+- {CZ: Poslední pivo jsem pil/a, EN:I drank my last beer}
 - {CZ: Odešla, EN: She left}
 
 perfectir:
@@ -115,13 +111,13 @@ perfectnext1:
 
 
 perfectalone:
-- {CZ: Ještě jsem nenašla klíče, EN: I haven't found the keys yet}
+- {CZ: Ještě nenašla klíče, EN: She hasn't found the keys yet}
 - {CZ: Konečně! Dodělali jsme domácí úkol, EN: Finally! We have finished the homework}
-- {CZ: Právě jsem odeslal ten email, EN: I have just sent that email}
-- {CZ: Už jsem tam byla, EN: I have already been there}
+- {CZ: Právě jsme odeslali ten email, EN: We have just sent that email}
+- {CZ: Už jsem tam byl/a, EN: I have already been there}
 - {CZ: Moji rodiče nedávno postavili nový dům, EN: My parents have built a new house recently}
 - {CZ: Přišel. Je tady, EN: He has come. He is here}
-- {CZ: Tohle jsem nikdy nepila, EN: I have never drunk it before}
+- {CZ: Tohle jsem nikdy nepil/a, EN: I have never drunk it before}
 - {CZ: Odešla, EN: She has left}
 
 templates:
