@@ -5,12 +5,14 @@ beperfect1a:
 - {CZ: ona je tady, EN: she has been here}
 - {CZ: to je tady, EN: it has been here}
 - {CZ: my jsme tady, EN: we have been here}
+- {CZ: vy jste tady, EN: you have been here (formal or more people)}
 - {CZ: oni jsou tady, EN: they have been here}
 - {CZ: já jsem tam, EN: I have been there}
 - {CZ: ty jsi tam, EN: You have been there}
 - {CZ: on je tam, EN: he has been there}
 - {CZ: ona je tam, EN: she has been there}
 - {CZ: my jsme tam, EN: we have been there}
+- {CZ: vy jste tam, EN: you have been there (formal or more people)}
 - {CZ: oni jsou tam, EN: they have been there}
 
 beperfect1n:
@@ -43,6 +45,8 @@ bepastplace:
 - {CZ: nebylo to tady, EN: it wasn't here}
 - {CZ: my jsme tady byli, EN: we were here}
 - {CZ: my jsme tady nebyli, EN: we weren't here}
+- {CZ: vy jste tady byli, EN: you were here(formal or more people)}
+- {CZ: vy jste tady nebyli, EN: you weren't here (formal or more people)}
 - {CZ: oni tady byli, EN: they were here}
 - {CZ: oni tady nebyli tady, EN: they weren't here}
 - {CZ: Byl/a jsem tam, EN: I was here}
@@ -55,6 +59,8 @@ bepastplace:
 - {CZ: ona tam nebyla, EN: she wasn't there}
 - {CZ: my jsme tam byli, EN: we were there}
 - {CZ: my jsme tam nebyli, EN: we weren't there}
+- {CZ: vy jste tam byli, EN: you were there (formal or more people)}
+- {CZ: vy jste tam nebyli, EN: you weren't there (formal or more people)}
 - {CZ: oni tam byli, EN: they were there}
 - {CZ: oni tam nebyli, EN: they weren't there}
 
@@ -68,13 +74,15 @@ pastir:
 - {CZ: Byla jsem tam, EN: I was there}
 - {CZ: Dodělali jsme domácí úkol, EN: We finished the homework}
 - {CZ: Poslal dopis, EN: he sent a letter}
-
+- {CZ: Moji rodiče postavili nový dům, EN: My parents built a new house}
+- {CZ: Přišel, EN: He came}
+- {CZ: Poslední pivo jsem pil, EN:I drank my last beer}
+- {CZ: Odešla, EN: She left}
 
 perfectir:
 - {CZ: Znám ji, EN: I have known her}
 - {CZ: Máme toto auto, EN: We have had this car}
 - {CZ: Neviděla je, EN: She hasn't seen them}
-- {CZ: Vy jste o tom věděli, EN: You have known about it}
 
 
 
@@ -119,7 +127,10 @@ perfectalone:
 - {CZ: Konečně! Dodělali jsme domácí úkol, EN: Finally! We have finished the homework}
 - {CZ: Právě jsem odeslal ten email, EN: I have just sent that email}
 - {CZ: Už jsem tam byla, EN: I have already been there}
-
+- {CZ: Moji rodiče nedávno postavili nový dům, EN: My parents built a new house recently}
+- {CZ: Přišel. Je tady. EN: He has come. He is here}
+- {CZ: Tohle jsem nikdy nebyla. Je tady. EN: I have never drunk it before}
+- {CZ: She has left. She is not here. EN}
 
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
@@ -132,3 +143,4 @@ templates:
 - ["[perfectir:EN] [perfectirnext:EN].","[perfectir:CZ] [perfectirnext:CZ]."]
 - ["[perfectalone:CZ].","[perfectalone:EN]."]
 - ["[perfectalone:EN].","[perfectalone:CZ]."]
+
