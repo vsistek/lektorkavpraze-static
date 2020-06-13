@@ -70,13 +70,24 @@ pastir:
 - {CZ: Přišel, EN: He came}
 - {CZ: Poslední pivo jsem pil, EN:I drank my last beer}
 - {CZ: Odešla, EN: She left}
-- {CZ: We heard about it, EN: Slyšeli jsme o tom}
+- {CZ: Slyšeli jsme o tom, EN: We heard about it}
 
 perfectir:
 - {CZ: Znám ji, EN: I have known her}
 - {CZ: Máme toto auto, EN: We have had this car}
 - {CZ: Neviděla je, EN: She hasn't seen them}
 - {CZ: Neslyšela o tom, EN: She hasn't heard about it}
+
+seen:
+- {CZ: they haven't seen him, EN: Neviděli ho}
+- {CZ: we haven't seen her, EN: Neviděli jsme ji}
+- {CZ: she hasn't seen you, EN: Neviděla tě}
+
+
+seennext:
+- {CZ: since college, EN: od vysoké školy}
+- {CZ: since high school, EN: od střední školy}
+- {CZ: since Christmas, EN: od Vánoc}
 
 
 perfectirnext:
@@ -91,6 +102,7 @@ perfectirnext:
 - {CZ: od února, EN: since February}
 - {CZ: od roku 2009, EN: since 2009}
 - {CZ: od roku 2019, EN: since 2019}
+
 
 pastnext:
 - {CZ: včera, EN: yesterday}
@@ -117,12 +129,12 @@ perfectnext1:
 - {CZ: od minulé středy, EN: since last Wednesday}
 - {CZ: od roku 2005, EN: since 2005}
 - {CZ: od ledna, EN: since January}
-- {CZ: od půl deváté, EN: since half past eight}
+- {CZ: od půl osmé, EN: since half past eight}
 - {CZ: dlouho, EN: for a long time}
 
 
 perfectalone:
-- {CZ: Ještě nenašla klíče, EN: She hasn't found the keys yet}
+- {CZ: Ještě jsem nenašla klíče, EN: I haven't found the keys yet}
 - {CZ: Konečně! Dodělali jsme domácí úkol, EN: Finally! We have finished the homework}
 - {CZ: Právě jsem odeslal ten email, EN: I have just sent that email}
 - {CZ: Už jsem tam byla, EN: I have already been there}
@@ -144,5 +156,7 @@ templates:
 - ["[perfectir:EN] [perfectirnext:EN].","[perfectir:CZ] [perfectirnext:CZ]."]
 - ["[perfectalone:CZ].","[perfectalone:EN]."]
 - ["[perfectalone:EN].","[perfectalone:CZ]."]
+- ["[seen:CZ] [seennext:CZ].","[seen:EN] [seennext:EN]."]
+- ["[seen:EN] [seennext:EN].","[seen:CZ] [seennext:CZ]."]
 
 
