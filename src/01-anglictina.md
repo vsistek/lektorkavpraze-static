@@ -17,4 +17,6 @@ Cena jedné standardní individuální lekce je **290 Kč/45min.**
 
 Cena výuky pro dvojice je **200 Kč/45min za osobu**.
 
+Cena pro skupiny je stanovena dohodou.
+
 
