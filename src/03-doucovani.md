@@ -17,4 +17,4 @@ Cena výuky pro dvojice je **200 Kč/45min. za osobu**.
 
 Cena jedné individuální lekce je **290 Kč/45min.**
 
-K výuce používám sdílenou obrazovku, online testy či výukové hry.
+Cena pro skupiny je stanovena dohodou.
