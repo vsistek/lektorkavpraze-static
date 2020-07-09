@@ -109,7 +109,7 @@ pastnext:
 - {CZ: v pondělí, EN: on Monday}
 - {CZ: v roce 2005, EN: in 2005}
 - {CZ: v lednu, EN: in January}
-- {CZ: v půl osmé, EN: at half past eight}
+- {CZ: v půl osmé, EN: at half past seven}
 - {CZ: před rokem, EN: an hour ago}
 - {CZ: před pěti měsíci, EN: five months ago}
 - {CZ: před dvěma hodinami, EN: two hours ago}
@@ -291,7 +291,7 @@ room2:
 - {CZ: piana, EN: the piano}
 
 room3:
-- {CZ: stole, EN: the table}
+- {CZ: stolu, EN: the table}
 - {CZ: knihovně, EN: the bookcase}
 - {CZ: pianu, EN: the piano}
 
