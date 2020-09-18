@@ -145,7 +145,8 @@ perfectalone:
 - {CZ: Robert o tom ještě neslyšel, EN: Robert hasn't heard about it yet}
 - {CZ: On o tom slyšel předtím, EN: he has heard about it before}
 
-
+both:
+- {CZ: "Ještě jsem nenašla klíče, co jsme ztratila včera", EN: I haven't found the keys I lost yesterday}
 
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
@@ -162,3 +163,5 @@ templates:
 - ["[seen:EN] [seennext:EN].","[seen:CZ] [seennext:CZ]."]
 - ["[perfectpast:EN].","[perfectpast:CZ]."]
 - ["[perfectpast:CZ].","[perfectpast:EN]."]
+- ["[both:CZ].","[both:EN]."]
+- ["[both:EN].","[both:CZ]."]
