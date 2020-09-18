@@ -145,6 +145,13 @@ perfectalone:
 - {CZ: Robert o tom ještě neslyšel, EN: Robert hasn't heard about it yet}
 - {CZ: On o tom slyšel předtím, EN: he has heard about it before}
 
+perfectpast:
+ {CZ: Miluji tě od prvního okamžiku, co jsem tě viděla , EN: I have loved you since the first moment I saw you}
+ {CZ: Od té doby, co jsem tady začala pracovat, jsem potkala spoustu zajímavých lidí. EN: I have met many interesting people since I started working here}
+ {CZ: A: Jak dlouho tady jsi? B: Přišel jsem včera EN: A: How long have you been here? B: I came yesterday}
+
+ 
+
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
 - ["[beperfect1a:EN] [perfectnext1:EN].","[beperfect1a:CZ] [perfectnext1:CZ]."]
@@ -158,5 +165,5 @@ templates:
 - ["[perfectalone:EN].","[perfectalone:CZ]."]
 - ["[seen:CZ] [seennext:CZ].","[seen:EN] [seennext:EN]."]
 - ["[seen:EN] [seennext:EN].","[seen:CZ] [seennext:CZ]."]
-
+- ["[perfectpast:EN].","[perfectpast:CZ]."]
 
