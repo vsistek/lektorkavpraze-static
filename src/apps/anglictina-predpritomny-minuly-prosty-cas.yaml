@@ -149,7 +149,8 @@ both:
 - {CZ: "Ještě jsem nenašla klíče, co jsem ztratila včera", EN: I haven't found the keys I lost yesterday}
 - {CZ: "Neudělala jsem nic od té doby, co jsem přečetla tvůj email", EN: I haven't done anything since I read your email}
 - {CZ: "Už prodala počítač, který koupila před 10 lety", EN: She has already sold the computer she bought ten years ago}
-
+ -{CZ: "Ještě jsem ti neposlal ten odkaz, který jsi chtěl", EN: I haven't sent you the link you wanted}
+ -{CZ: " Už jsi viděl ten film,o kterém jsem ti včera říkala?", EN: "Have you seen the movie I told you about yesterday?"}
 
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
