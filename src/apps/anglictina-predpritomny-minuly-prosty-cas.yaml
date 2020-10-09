@@ -152,6 +152,8 @@ both:
 - {CZ: "Ještě jsem ti neposlal ten odkaz, který jsi chtěl", EN: I haven't sent you the link you wanted}
 - {CZ: "Hodně se změnilo od té doby, co jsme se viděli naposledy", EN: A lot has changed since we last saw each other}
 
+questions:
+- {CZ: Už jsi viděl ten film, EN: Have you already seen that movie}
  
 
 templates:
@@ -171,3 +173,5 @@ templates:
 - ["[perfectpast:CZ].","[perfectpast:EN]."]
 - ["[both:CZ].","[both:EN]."]
 - ["[both:EN].","[both:CZ]."]
+- ["[questions:EN]?","[questions:CZ]?"]
+- ["[questions:CZ]?","[questions:EN]?"]
