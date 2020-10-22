@@ -19,6 +19,6 @@ Po zvládnutí základů je možné přidat do repertoáru i&nbsp;skladby či p�
 
 **Výuka může přobíhat u mě i online.**
 
-Cena jedné standardní lekce je **300 Kč/45min.**
+Cena jedné standardní lekce je **320 Kč/45min.**
 
 Cena pro dvojice je **200 Kč/45min. za osobu.**
