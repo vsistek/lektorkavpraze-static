@@ -17,7 +17,7 @@ Na piano hraji již od dětství a moje úroveň hry je ekvivalentní s&nbsp;abs
 
 Po zvládnutí základů je možné přidat do repertoáru i&nbsp;skladby či písně dle Vašeho výběru.
 
-**Výuka může přobíhat u mě i online.**
+**Výuka může probíhat u mě i online.**
 
 Cena jedné standardní lekce je **320 Kč/45min.**
 
