@@ -145,6 +145,11 @@ perfectalone:
 - {CZ: Robert o tom ještě neslyšel, EN: Robert hasn't heard about it yet}
 - {CZ: On o tom slyšel předtím, EN: he has heard about it before}
 
+twopasts:
+- {CZ: "Když jsem byla mladší,hrála jsem tenis", EN: I played tennis when I was younger}
+- {CZ: Vstal a vyčistil si zuby, EN: He got up and brushed his teeth}
+- {CZ: "Byla v šoku,když jsem jí o tom řekla" EN: She was in shock when I told her about it.}
+
 both:
 - {CZ: "Ještě jsem nenašla klíče, co jsem ztratila včera", EN: I haven't found the keys I lost yesterday}
 - {CZ: "Neudělala jsem nic od té doby, co jsem přečetla tvůj email", EN: I haven't done anything since I read your email}
@@ -183,3 +188,5 @@ templates:
 - ["[both:EN].","[both:CZ]."]
 - ["[questions:EN]?","[questions:CZ]?"]
 - ["[questions:CZ]?","[questions:EN]?"]
+- ["[twopasts:EN]?","[twopasts:CZ]?"]
+- ["[twopasts:CZ]?","[twopasts:EN]?"]
