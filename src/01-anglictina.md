@@ -13,9 +13,9 @@ Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z&nbs
 
 V rámci studia na FHS UK jsem obdržela certifikát na úrovni C1 zaměřený na akademickou angličtinu. Studovala jsem na zahraniční univerzitě v&nbsp;angličtině, pracovala v&nbsp;Irsku a&nbsp;ve Velké Británii.
 
-Cena jedné standardní individuální lekce je **300 Kč/45min.**
+Cena jedné standardní individuální lekce je **320 Kč/45min.**
 
-Cena výuky pro dvojice je **200 Kč/45min za osobu**.
+Cena výuky pro dvojice je **210 Kč/45min za osobu**.
 
 Cena pro skupiny je stanovena dohodou.
 
