@@ -14,7 +14,7 @@ Mám zkušenosti s&nbsp;výukou všech věkových kategorií, malých i&nbsp;vě
 ![foto pokoje](/images/room.jpg){: #illustration }
 
 Studovala jsem na FHS Univerzity Karlovy.  
-Zde jsem načerpala potřebný všeobecný přehled, znalosti psychologie, angličtiny či teorie umění a&nbsp;základy logiky.
+Zde jsem načerpala potřebný všeobecný přehled, znalosti psychologie, angličtiny či teorie umění a&nbsp;a také základy logiky jako vědní disciplíny.
 
 Sama jsem několikrát absolvovala individuální výuku i&nbsp;jako studentka.
 
