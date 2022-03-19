@@ -13,7 +13,7 @@ Doučování dětí základních a&nbsp;středních škol se věnuji již více 
 
 Doučuji **matematiku, češtinu, angličtinu** a&nbsp;dle dohody i&nbsp;ostatní předměty.
 
-Cena jedné individuální lekce je **320 Kč/45min.**
+Cena jedné individuální lekce je **330 Kč/45min.**
 
 Cena výuky pro dvojice je **210 Kč/45min. za osobu**.
 
