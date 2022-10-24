@@ -336,6 +336,12 @@ cannext:
 - {CZ: uvařit oběd, EN: cook lunch}
 - {CZ: jít domů, EN: go home}
 
+phrases: 
+- {CZ: Není zač, EN: You are welcome}
+- {CZ: Nevadí, EN: Never mind}
+
+
+
 
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
@@ -409,6 +415,7 @@ templates:
 - ["[workq:EN] [worknext:EN]?", "[workq:CZ] [worknext:CZ]?"]
 - ["pracuje [persons:CZ] [worknext:CZ]?", "Does [persons:EN] work [worknext:EN]?"]
 - ["Does [persons:EN] work [worknext:EN]?","pracuje [persons:CZ] [worknext:CZ]?"]
+- ["[phrases:CZ].","[phrases:EN]."]
 
 
 
