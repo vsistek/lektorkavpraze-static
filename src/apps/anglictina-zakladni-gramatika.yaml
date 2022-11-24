@@ -339,8 +339,12 @@ cannext:
 phrases: 
 - {CZ: Není zač, EN: You are welcome}
 - {CZ: Nevadí, EN: Never mind}
+- {CZ: Rád Vás poznávám, EN: Nice to meet you}
 
-
+pcaf:
+- {CZ: Jdu domů, EN: I am going home}
+- {CZ: Moje sestra píše email, EN: My sister is writing an email}
+- {CZ: Jeho rodiče se dívají na televizi, EN: His parents are watching TV}
 
 
 templates:
@@ -416,6 +420,7 @@ templates:
 - ["pracuje [persons:CZ] [worknext:CZ]?", "Does [persons:EN] work [worknext:EN]?"]
 - ["Does [persons:EN] work [worknext:EN]?","pracuje [persons:CZ] [worknext:CZ]?"]
 - ["[phrases:CZ].","[phrases:EN]."]
+- ["[pcaf:CZ].","[pcaf:EN]."]
 
 
 
