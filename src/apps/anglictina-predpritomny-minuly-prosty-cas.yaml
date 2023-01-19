@@ -147,7 +147,8 @@ perfectalone:
 twopasts:
 - {CZ: "Když jsem byla mladší,hrála jsem tenis", EN: I played tennis when I was younger}
 - {CZ: Vstal a vyčistil si zuby, EN: He got up and brushed his teeth}
-- {CZ: "Byla v šoku,když jsem jí o tom řekla", EN: She was in shock when I told her about it.}
+- {CZ: "Byla v šoku,když jsem jí o tom řekla", EN: She was in shock when I told her about it}
+- {CZ: Ztratila klíče a někdo je našel a vrátil je, EN: She lost her keys and somebody found them and returned them}
 
 both:
 - {CZ: "Ještě jsem nenašla klíče, co jsem ztratila včera", EN: I haven't found the keys I lost yesterday}
@@ -165,9 +166,7 @@ questions:
 - {CZ: Jak dlouho tady jsou, EN: How long have they been there}
 - {CZ: Co se stalo, EN: What happened}
 - {CZ: Kde jste byli, EN: Where have you been}
-
-
- 
+- {CZ: Kdy jste to viděli, EN: When did you see}
 
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
@@ -188,5 +187,5 @@ templates:
 - ["[both:EN].","[both:CZ]."]
 - ["[questions:EN]?","[questions:CZ]?"]
 - ["[questions:CZ]?","[questions:EN]?"]
-- ["[twopasts:EN]?","[twopasts:CZ]?"]
-- ["[twopasts:CZ]?","[twopasts:EN]?"]
+- ["[twopasts:EN].","[twopasts:CZ]."]
+- ["[twopasts:CZ].","[twopasts:EN]."]
