@@ -2,6 +2,9 @@
 
 LOG=/var/www/lektorkavpraze-cz/log/github.log
 
+# github is unhappy when we don't read the payload
+cat - > /dev/null
+
 json_resp() {
     echo "Content-type: text/json"
     echo
