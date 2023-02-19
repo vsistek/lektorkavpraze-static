@@ -41,7 +41,7 @@ BRANCH="${REF##*/}"
 HOSTNAME=`hostname`
 echo "BRANCH=$BRANCH / HOSTNAME=$HOSTNAME" >> $LOG
 
-[ "$BRANCH" == "master" ] && [ "$HOSTNAME" == "skyholm" ]            && BUILDCMD="deploy"
+[ "$BRANCH" == "master" ] && [ "$HOSTNAME" == "laputa" ]            && BUILDCMD="deploy"
 [ "$BRANCH" == "dev" ]    && [ "$HOSTNAME" == "duthac.sistkovi.cz" ] && BUILDCMD="deploy-dev"
 
 [ "$BUILDCMD" == "none" ] && json_resp 0
