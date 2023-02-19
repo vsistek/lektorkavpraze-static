@@ -42,7 +42,6 @@ HOSTNAME=`hostname`
 echo "BRANCH=$BRANCH / HOSTNAME=$HOSTNAME" >> $LOG
 
 [ "$BRANCH" == "master" ] && [ "$HOSTNAME" == "laputa" ]            && BUILDCMD="deploy"
-[ "$BRANCH" == "dev" ]    && [ "$HOSTNAME" == "duthac.sistkovi.cz" ] && BUILDCMD="deploy-dev"
 
 [ "$BUILDCMD" == "none" ] && json_resp 0
 $REPO/src/util/$BUILDCMD.sh >> $LOG 2>&1
