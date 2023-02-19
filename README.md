@@ -11,8 +11,6 @@ There are some dynamic backend parts in python3 served through CGI shell scripts
 This repository is used on a Debian-based GNU/Linux instance (although it is written pretty portably).
 ```
 sudo apt-get install python3-markdown python3-yaml
-# for github webhook
-sudo apt-get install jq
 ```
 
 To make dynamic backend parts working, CGI execution has to be allowed for `.cgi` files in `htdocs/aplikace`.
