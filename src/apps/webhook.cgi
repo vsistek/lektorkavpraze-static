@@ -10,7 +10,6 @@ source "$DIR/webhook.conf"
 [ "$REPO" == "" ]        && fail "REPO undefined"
 [ "$EXPECTEDURL" == "" ] && fail "EXPECTEDURL undefined"
 [ "$LOG" == "" ]         && fail "LOG undefined"
-[ "$LOG" == "" ]         && fail "LOG undefined"
 
 json_resp() {
     echo "Content-type: text/json"
@@ -20,7 +19,6 @@ json_resp() {
     else
         echo "{\"result\":\"failure\","
     fi
-    echo " \"branch\":\"$BRANCH\","
     echo " \"hostname\":\"$HOSTNAME\""
     echo " \"buildcmd\":\"$BUILDCMD\""
     echo "}"
@@ -35,13 +33,10 @@ date >> $LOG
 REPOURL=`jq -r ".repository.clone_url" <<< $POSTJSON`
 echo "EXPECTEDURL=$EXPECTEDURL / REPOURL=$REPOURL" >> $LOG
 [ "$EXPECTEDURL" == "$REPOURL" ] || json_resp 1
-
-REF=$(jq -r ".ref" <<< "$POSTJSON")
-BRANCH="${REF##*/}"
 HOSTNAME=`hostname`
-echo "BRANCH=$BRANCH / HOSTNAME=$HOSTNAME" >> $LOG
+echo "HOSTNAME=$HOSTNAME" >> $LOG
 
-[ "$BRANCH" == "master" ] && [ "$HOSTNAME" == "laputa" ]            && BUILDCMD="deploy"
+[ "$HOSTNAME" == "laputa" ] && BUILDCMD="deploy"
 
 [ "$BUILDCMD" == "none" ] && json_resp 0
 $REPO/src/util/$BUILDCMD.sh >> $LOG 2>&1
