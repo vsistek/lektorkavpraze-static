@@ -20,25 +20,16 @@ json_resp() {
         echo "{\"result\":\"failure\","
     fi
     echo " \"hostname\":\"$HOSTNAME\""
-    echo " \"buildcmd\":\"$BUILDCMD\""
     echo "}"
     exit 0
 }
 
 POSTJSON=`cat -`
-BUILDCMD="none"
-
 date >> $LOG
 
 REPOURL=`jq -r ".repository.clone_url" <<< $POSTJSON`
 echo "EXPECTEDURL=$EXPECTEDURL / REPOURL=$REPOURL" >> $LOG
 [ "$EXPECTEDURL" == "$REPOURL" ] || json_resp 1
-HOSTNAME=`hostname`
-echo "HOSTNAME=$HOSTNAME" >> $LOG
-
-[ "$HOSTNAME" == "laputa" ] && BUILDCMD="deploy"
-
-[ "$BUILDCMD" == "none" ] && json_resp 0
-$REPO/src/util/$BUILDCMD.sh >> $LOG 2>&1
-
+[ `hostname` == "laputa" ] || json_resp 1
+$REPO/src/util/deploy.sh >> $LOG 2>&1
 json_resp 0
