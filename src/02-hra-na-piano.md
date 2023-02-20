@@ -21,4 +21,4 @@ Po zvládnutí základů je možné přidat do repertoáru i&nbsp;skladby či p�
 
 Cena jedné standardní lekce je **370 Kč/45min.**
 
-Cena pro dvojice je **220 Kč/45min. za osobu.**
+Cena pro dvojice je **230 Kč/45min. za osobu.**
