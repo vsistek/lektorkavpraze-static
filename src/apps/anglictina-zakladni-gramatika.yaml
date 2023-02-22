@@ -346,6 +346,8 @@ pcaf:
 - {CZ: Moje sestra píše email, EN: My sister is writing an email}
 - {CZ: Jeho rodiče se dívají na televizi, EN: His parents are watching TV}
 
+psph:
+- {CZ: Nevím o tom, EN: I don't know about it}
 
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
@@ -421,7 +423,7 @@ templates:
 - ["Does [persons:EN] work [worknext:EN]?","pracuje [persons:CZ] [worknext:CZ]?"]
 - ["[phrases:CZ].","[phrases:EN]."]
 - ["[pcaf:CZ].","[pcaf:EN]."]
-
+- ["[psph:CZ].","[psph:EN]."]
 
 
 
