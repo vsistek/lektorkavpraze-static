@@ -5,7 +5,7 @@
 
 # &#9881; Aplikace
 
-Nabízím online nástroje pro výuku:
+Online nástroje pro výuku:
 
 ### Matematika
 
