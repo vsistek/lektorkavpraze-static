@@ -1,11 +1,14 @@
 questions:
   - {CZ: Můžete mi říci, EN: Can you tell me}
   - {CZ: Víte, EN: Do you know}
+  - {CZ: Mohl/a byste mi říct, EN: Could you tell me}
+
 
 answers:
   - {CZ: Řekněte mi, EN: Tell me}
   - {CZ: Vím, EN: I know}
   - {CZ: Nevím, EN: I don't know}
+  - {CZ: Ona ví, EN: She knows}
 
 
 object clauses:
@@ -19,7 +22,8 @@ object clauses:
   - {CZ: kde je nejbližší restaurace, EN: where the nearest restaurant is}
   - {CZ: jestli to ona má, EN: if she has it}
   - {CZ: jestli přijde v čas, EN: if she will come in time}
-
+  - {CZ: kam jdou, EN: where they are going}
+  - {CZ: co se děje, EN: what is happening}
 
 templates:
  - ["[questions:CZ], [object clauses:CZ]?", "[questions:EN] [object clauses:EN]?"]
