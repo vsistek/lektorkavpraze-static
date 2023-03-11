@@ -348,6 +348,20 @@ pcaf:
 
 psph:
 - {CZ: Nevím o tom, EN: I don't know about it}
+- {CZ: Chodíme do posilovny dvakrát týdně, EN: We go to the gym twice a week}
+- {CZ: Jí hodně zeleniny, EN: She eats a lot of vegetables}
+
+
+pastirphrases:
+- {CZ: Moje sestra o tom věděla, EN: My sister knew about it}
+- {CZ: Vypila sklenici vody, EN: She drank a glass of water}
+- {CZ: Moje dcera jela v pondělí do práce autem, EN: My daughter drove to work on Monday}
+- {CZ: Včera jedla k večeři sushi, EN: She ate sushi for dinner yesterday}
+- {CZ: Dal mi dárek k narozeninám, EN: He gave me a present for my birthday}
+- {CZ: V sobotu jsme šli na pláž, EN: We went to the beach on Saturday}
+- {CZ: Viděl ten film se svými přáteli, EN: He saw this movie with his friends}
+- {CZ: Napsali dopis prarodičům, EN: They wrote a letter to their grandparents}
+
 
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
@@ -424,6 +438,7 @@ templates:
 - ["[phrases:CZ].","[phrases:EN]."]
 - ["[pcaf:CZ].","[pcaf:EN]."]
 - ["[psph:CZ].","[psph:EN]."]
+- ["[pastirphrases:CZ].","[pastirphrases:EN]."]
 
 
 
