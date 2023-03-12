@@ -362,6 +362,12 @@ pastirphrases:
 - {CZ: Viděl ten film se svými přáteli, EN: He saw this movie with his friends}
 - {CZ: Napsali dopis prarodičům, EN: They wrote a letter to their grandparents}
 
+fewlittle:
+- {CZ: Málo lidí vstává o víkendy brzy, EN:  Few people wake up early at/on weekends}
+- {CZ: Pár přátel mi vždy pomůže, EN:  A few friends always help me}
+- {CZ: Na dokončení projektu je málo času, EN: There is little time to finish the project}
+- {CZ: Potřebuju trochu cukru do kafe, EN: I need a little sugar for my coffee}
+
 
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
@@ -439,6 +445,6 @@ templates:
 - ["[pcaf:CZ].","[pcaf:EN]."]
 - ["[psph:CZ].","[psph:EN]."]
 - ["[pastirphrases:CZ].","[pastirphrases:EN]."]
-
+- ["[fewlittle:CZ].","[fewlittle:EN]."]
 
 
