@@ -363,11 +363,13 @@ pastirphrases:
 - {CZ: Napsali dopis prarodičům, EN: They wrote a letter to their grandparents}
 
 fewlittle:
-- {CZ: Málo lidí vstává o víkendy brzy, EN:  Few people wake up early at/on weekends}
+- {CZ: Málo lidí vstává o víkendu brzy, EN: Few people wake up early at/on weekends}
 - {CZ: Pár přátel mi vždy pomůže, EN:  A few friends always help me}
 - {CZ: Na dokončení projektu je málo času, EN: There is little time to finish the project}
 - {CZ: Potřebuju trochu cukru do kafe, EN: I need a little sugar for my coffee}
 
+pastq:
+- {CZ: Kam jsi včera jel/a autem, EN: Where did you drive to yesterday}
 
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
@@ -446,5 +448,6 @@ templates:
 - ["[psph:CZ].","[psph:EN]."]
 - ["[pastirphrases:CZ].","[pastirphrases:EN]."]
 - ["[fewlittle:CZ].","[fewlittle:EN]."]
+- ["[pastq:EN]?","[pastq:CZ]?"]
 
 
