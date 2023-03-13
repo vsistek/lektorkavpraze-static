@@ -370,6 +370,11 @@ fewlittle:
 
 pastq:
 - {CZ: Kam jsi včera jel/a autem, EN: Where did you drive to yesterday}
+- {CZ: Spala minulou noc, EN: Did she sleep last night}
+- {CZ: Co viděl ráno v muzeu, EN: What did he see at the museum in the morning}
+- {CZ: Komu si poslal/a ten email, EN: Who did you write the email to}
+- {CZ: Kde tvůj/váš syn předtím pracoval, EN: Where did your son work before}
+
 
 templates:
 - ["[be:CZ] [benext:CZ].","[be:EN] [benext:EN]."]
