@@ -10,7 +10,7 @@
 České věty přeložte do angličtiny a naopak. 
 
 *Slova v závorce upřesňují, zda se jedná o tykání (informal) či tykání (formal)
-a nejsou součástí překladu jako takového.*
+a nejsou součástí překladu jako takového.
 ******************************************************************************
 
 Malý moment...
