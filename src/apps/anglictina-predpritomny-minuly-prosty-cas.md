@@ -7,6 +7,7 @@
 
 **Aplikace na procvičení předpřítomného času prostého a minulého času prostého**
 ********************************************************************************
+České věty přeložte do angličtiny a naopak.
 
 Malý moment...
 {: #task }
