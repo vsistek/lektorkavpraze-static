@@ -7,10 +7,10 @@
 
 **Aplikace na procvičení základů anglické gramatiky**
 
-České věty přeložte do angličtiny a naopak. Následně si můžete překlad zkontrolovat. 
+České věty přeložte do angličtiny a naopak. 
 
-Slova v závorce upřesňují, zda se jedná o tykání (informal) či tykání (formal)
-a nejsou součástí překladu jako takového.
+*Slova v závorce upřesňují, zda se jedná o tykání (informal) či tykání (formal)
+a nejsou součástí překladu jako takového.*
 ******************************************************************************
 
 Malý moment...
