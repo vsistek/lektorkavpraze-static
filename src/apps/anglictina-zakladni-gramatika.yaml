@@ -362,6 +362,16 @@ pastirphrases:
 - {CZ: Viděl ten film se svými přáteli, EN: He saw this movie with his friends}
 - {CZ: Napsali dopis prarodičům, EN: They wrote a letter to their grandparents}
 
+pastirq:
+- {CZ: Moje sestra o tom nevěděla, EN: "My sister didn't know about it"}
+- {CZ: Nevypila sklenici vody, EN: "She didn't drink a glass of water"}
+- {CZ: Moje dcera nejela v pondělí do práce autem, EN: "My daughter didn't drive to work on Monday"}
+- {CZ: Včera nejedla k večeři sushi, EN: "She didn't eat sushi for dinner yesterday"}
+- {CZ: Nedal mi dárek k narozeninám, EN: "He didn't give me a present for my birthday"}
+- {CZ: V sobotu jsme nešli na pláž, EN: "We didn't go to the beach on Saturday"}
+- {CZ: Ten film neviděl se svými přáteli, EN: "He didn't see this movie with his friends"}
+- {CZ: Nenapsali dopis prarodičům, EN: "They didn't write a letter to their grandparents"}
+
 fewlittle:
 - {CZ: Málo lidí vstává o víkendu brzy, EN: Few people wake up early at/on weekends}
 - {CZ: Pár přátel mi vždy pomůže, EN:  A few friends always help me}
@@ -454,5 +464,5 @@ templates:
 - ["[pastirphrases:CZ].","[pastirphrases:EN]."]
 - ["[fewlittle:CZ].","[fewlittle:EN]."]
 - ["[pastq:EN]?","[pastq:CZ]?"]
-
+- ["[pastirq:EN].","[pastirq:CZ]."]
 
