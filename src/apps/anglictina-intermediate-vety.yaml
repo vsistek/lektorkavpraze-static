@@ -1,7 +1,16 @@
 present:
 - {CZ: Těším se na dovolenou příští měsíc, EN: I am looking forward to my vacation next month}
 - {CZ: "Obvykle jezdím travmají, ale dneska jedu na kole" , EN: "I usually go by tram, but today I go by bike"}
-- {CZ:  Právě dočetl nejnovější knihu od svého oblíbeného autora , EN: He has just finished reading the latest novel by his favorite author}
+
+pperfect:
+- {CZ: Právě dočetl nejnovější knihu od svého oblíbeného autora , EN: He has just finished reading the latest novel by his favorite author}
+- {CZ: "Společnost nedávno zavedla nová pravidla,aby snížila svoji uhlíkovou stopu", EN: The company has recently introduced new rules to reduce its carbon footprint}
+
+pastperfect:  
+- {CZ: "Když dorazila na letiště, letadlo už odletělo, takže musela čekat na další dostupný let", EN: "By the time she arrived at the airport, the flight had already departed, so she had to wait for the next available flight"}
 
 templates:
 - ["[present:CZ].","[present:EN]."]
+- ["[pperfect:CZ].","[pperfect:EN]."]
+- ["[pastperfect:CZ].","[pastperfect:EN]."]
+
