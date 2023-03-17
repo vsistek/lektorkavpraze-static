@@ -1,5 +1,6 @@
 a:
 - {CZ:b, EN:c}
+- {CZ:d, EN:e}
 
 templates:
 - ["[a:CZ].","[a:EN]."]
