@@ -1,5 +1,5 @@
-secondc:
-- {CZ:"Kdybych byl/a tebou, nedělal/a bych to", EN: "If I were you, I wouldn't do it"}
+a:
+- {CZ:b, EN:c}
 
 templates:
-- ["[secondc:CZ].","[secondc:EN]."]
+- ["[a:CZ].","[a:EN]."]
