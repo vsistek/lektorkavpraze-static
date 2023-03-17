@@ -1,0 +1,5 @@
+secondc:
+- {CZ:"Kdybych byl/a tebou, nedělal/a bych to", EN: "If I were you, I wouldn't do it"}
+
+templates:
+- ["[secondc:CZ].","[secondc:EN]."]
