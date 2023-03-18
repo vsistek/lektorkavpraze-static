@@ -9,7 +9,7 @@
 
 ![ilustrační foto](/images/anglictina.jpg){: #illustration }
 
-Individuální výuce angličtiny se věnuji více než 10 let.&nbsp;Vycházím z toho, že je nezbytné věnovat stejnou pozornost všem aspektům jazyka.
+Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toho,&nbsp;že je nezbytné věnovat stejnou pozornost všem aspektům jazyka.
 
 V rámci studia na FHS UK jsem obdržela certifikát na úrovni C1 zaměřený na akademickou angličtinu. Studovala jsem na zahraniční univerzitě v&nbsp;angličtině, pracovala v&nbsp;Irsku a&nbsp;ve Velké Británii.
 
