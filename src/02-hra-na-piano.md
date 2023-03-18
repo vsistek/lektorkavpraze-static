@@ -7,7 +7,7 @@
 
 **Splňte si svůj sen a&nbsp;naučte se hrát na piano.** 
 
-**Základem mého přístupu k výuce je velký důraz na radost ze hry.** To ovšem neznamená, že podceňuji technickou stránku a&nbsp;potřebu domácího cvičení. Důležité ovšem je, aby studenty hra bavila&nbsp;a nebyla pro ně stresující.
+**Základem mého přístupu k výuce je velký důraz na radost ze hry.** To ovšem neznamená, že podceňuji technickou stránku a&nbsp;potřebu domácího cvičení.&nbsp;Důležité ovšem je, aby studenty hra bavila a nebyla pro ně stresující.
 
 ![ilustrační foto](/images/hra-na-piano.jpg){: #illustration }
 
