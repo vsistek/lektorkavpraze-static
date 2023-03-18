@@ -16,8 +16,12 @@ conditionals:
 - {CZ: "Kdyby jsme vyrazili dřív, nezmeškali bychom vlak", EN: "If we had left earlier, we wouldn't have missed the train"}
 - {CZ: "Kdyby vzala tu práci, tak by teď vydělávala víc peněz", EN: "If she had taken the job, she would be earning more money now."}
 
+passive:
+- {CZ: Dům se právě uklízí, EN:The house is being cleaned right now.}
+
 templates:
 - ["[present:CZ].","[present:EN]."]
 - ["[pperfect:CZ].","[pperfect:EN]."]
 - ["[pastperfect:CZ].","[pastperfect:EN]."]
 - ["[conditionals:CZ].","[conditionals:EN]."]
+- ["[passive:CZ].","[passive:EN]."]
