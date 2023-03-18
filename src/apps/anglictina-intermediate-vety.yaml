@@ -12,7 +12,7 @@ pastperfect:
 conditionals:
 - {CZ: "Když bude pršet, zůstanu doma", EN: "If it rains, I will stay inside"}
 - {CZ: "Kdybych byl/a tebou, vzal/a bych si den volna", EN: "If I were you, I would take a day off"}
-- {CZ: "Když ji uvidím, řeknu jí tu novinku, EN: I will tell her the news if I see her}
+- {CZ: "Když ji uvidím, řeknu jí tu novinku", EN: I will tell her the news if I see her}
 - {CZ: "Kdyby jsme vyrazili dřív, nezmeškali bychom vlak", EN: "If we had left earlier, we wouldn't have missed the train"}
 - {CZ: "Kdyby vzala tu práci, tak by teď vydělávala víc peněz", EN: "If she had taken the job, she would be earning more money now."}
 
