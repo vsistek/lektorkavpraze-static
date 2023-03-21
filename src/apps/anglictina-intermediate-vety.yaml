@@ -17,7 +17,9 @@ conditionals:
 - {CZ: "Kdyby vzala tu práci, tak by teď vydělávala víc peněz", EN: "If she had taken the job, she would be earning more money now"}
 
 passive:
-- {CZ: Dům se právě uklízí, EN:The house is being cleaned right now}
+- {CZ: Dům se právě uklízí, EN: The house is being cleaned right now}
+- {CZ: Rozhodnutí uzavřít továrnu bylo učiněno před mnoha lety, EN: The decision to close the factory was made years ago}
+- {CZ: Silnice už se opravuje měsíce, EN: The road has been being repaired for months}
 
 pmodals:
 - {CZ: Měl/a jsem se na tu zkoušku učit víc, EN: I should have studied more for the exam}
