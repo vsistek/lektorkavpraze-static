@@ -14,10 +14,15 @@ conditionals:
 - {CZ: "Kdybych byl/a tebou, vzal/a bych si den volna", EN: "If I were you, I would take a day off"}
 - {CZ: "Když ji uvidím, řeknu jí tu novinku", EN: I will tell her the news if I see her}
 - {CZ: "Kdyby jsme vyrazili dřív, nezmeškali bychom vlak", EN: "If we had left earlier, we wouldn't have missed the train"}
-- {CZ: "Kdyby vzala tu práci, tak by teď vydělávala víc peněz", EN: "If she had taken the job, she would be earning more money now."}
+- {CZ: "Kdyby vzala tu práci, tak by teď vydělávala víc peněz", EN: "If she had taken the job, she would be earning more money now"}
 
 passive:
-- {CZ: Dům se právě uklízí, EN:The house is being cleaned right now.}
+- {CZ: Dům se právě uklízí, EN:The house is being cleaned right now}
+
+pmodals:
+- {CZ: Měl/a jsem se na tu zkoušku učit víc, EN: I should have studied more for the exam}
+- {CZ: "Mohla se přidat k týmu, ale rozhodla se, že se nepřidá", EN: "She could have joined the team, but she decided not to"}
+- {CZ: "Mohli jít na koncert, ale nevím to jistě" EN: "They might have gone to the concert, but I'm not sure"}
 
 templates:
 - ["[present:CZ].","[present:EN]."]
@@ -25,3 +30,4 @@ templates:
 - ["[pastperfect:CZ].","[pastperfect:EN]."]
 - ["[conditionals:CZ].","[conditionals:EN]."]
 - ["[passive:CZ].","[passive:EN]."]
+- ["[pmodals:CZ].","[pmodals:EN]."]
