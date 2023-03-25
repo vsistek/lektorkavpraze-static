@@ -8,7 +8,7 @@ pperfect:
 
 pastperfect:  
 - {CZ: "Když dorazila na letiště, letadlo už odletělo, takže musela čekat na další dostupný let", EN: "By the time she arrived at the airport, the flight had already departed, so she had to wait for the next available flight"}
-- {CZ:" V době, když jsme dorazili na oslavu, zatímco v pozadí hrála hudba", EN: "By the time I arrived at the party, everyone had already eaten dinner and was chatting in the living room while music was playing in the background"}
+- {CZ:" V době, když jsme dorazili na oslavu, už všichni dojedli a bavili se spolu v obýváku, zatímco v pozadí hrála hudba", EN: "By the time I arrived at the party, everyone had already eaten dinner and was chatting in the living room while music was playing in the background"}
 
 conditionals:
 - {CZ: "Když bude pršet, zůstanu doma", EN: "If it rains, I will stay inside"}
@@ -29,8 +29,8 @@ pmodals:
 
 either:
 - {CZ: "Buď můžeš jít s námi večer na oslavu, nebozůstat doma a dívat se na film. Je to na tobě" , EN: "You can either come with us to the party tonight or stay home and watch a movie, it's up to you"}
-- {CZ: "Ani červené tričko, ani to modré mi nepasovalo, tak jsem se rozhodl/a jít do jiného obchodu" , EN: "Neither the red shirt nor the blue one fit me properly, so I decided to try a different store."}
-- {CZ: "Můj pokoj je jak prostorný, tak praticky umístěný poblíž veřejné dopravy ", EN: "My new apartment is both spacious and conveniently located near public transportation."}
+- {CZ: "Ani červené tričko, ani to modré mi nepasovalo, tak jsem se rozhodl/a jít do jiného obchodu" , EN: "Neither the red shirt nor the blue one fit me properly, so I decided to try a different store"}
+- {CZ: "Můj pokoj je jak prostorný, tak praticky umístěný poblíž veřejné dopravy ", EN: "My new apartment is both spacious and conveniently located near public transportation"}
 
 soquestions:
 - {CZ: Kdo volal Johnovi, EN: Who phoned John}
