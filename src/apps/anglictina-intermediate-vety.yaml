@@ -37,7 +37,7 @@ soquestions:
 - {CZ: Kolik lidí navštívilo koncert, EN: How many people attended the concert}
 - {CZ: Co koupil Jeremy v Irsku, EN:  What did Jeremy buy in Ireland}
 - {CZ: Které auto dorazilo první, EN:	Which car arrived first}
-- {CZ: Kdo chodí do postele brzy, EN: Who goes to bed early?}
+- {CZ: Kdo chodí do postele brzy, EN: Who goes to bed early}
 
 
 templates:
@@ -48,4 +48,4 @@ templates:
 - ["[passive:CZ].","[passive:EN]."]
 - ["[pmodals:CZ].","[pmodals:EN]."]
 - ["[either:CZ].","[either:EN]."]
-- ["[soquestions:CZ].","[soquestions:EN]."]
+- ["[soquestions:CZ]?","[soquestions:EN]?"]
