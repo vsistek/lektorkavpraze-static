@@ -29,6 +29,9 @@ pmodals:
 
 either:
 - {CZ: "Můj pokoj je jak prostorný, tak praticky umístěný poblíž veřejné dopravy", EN: "My new apartment is both spacious and conveniently located near public transportation"}
+- {CZ: "Buď můžeš jít s námi večer na oslavu, nebo zůstat doma a dívat se na film, je to na tobě", EN: "You can either come with us to the party tonight or stay home and watch a movie, it's up to you"}
+- {CZ: "Ani červené tričko, ani to modré mi nepasovalo, tak jsem se rozhodl/a jít do jiného obchodu", EN: "Neither the red shirt nor the blue one fit me properly, so I decided to try a different store"}
+
 
 soquestions:
 - {CZ: Kdo volal Johnovi, EN: Who phoned John}
