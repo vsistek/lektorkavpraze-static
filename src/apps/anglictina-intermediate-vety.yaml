@@ -8,6 +8,8 @@ pperfect:
 
 pastperfect:  
 - {CZ: "Když dorazila na letiště, letadlo už odletělo, takže musela čekat na další dostupný let", EN: "By the time she arrived at the airport, the flight had already departed, so she had to wait for the next available flight"}
+- {CZ: "Buď můžeš jít s námi večer na oslavu, nebo zůstat doma a dívat se na film, je to na tobě", EN: "You can either come with us to the party tonight or stay home and watch a movie, it's up to you"}
+- {CZ: "Ani červené tričko, ani to modré mi nepasovalo, tak jsem se rozhodl/a jít do jiného obchodu", EN: "Neither the red shirt nor the blue one fit me properly, so I decided to try a different store"}
 
 conditionals:
 - {CZ: "Když bude pršet, zůstanu doma", EN: "If it rains, I will stay inside"}
