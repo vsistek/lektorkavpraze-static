@@ -30,12 +30,12 @@ pmodals:
 either:
 - {CZ: "Buď můžeš jít s námi večer na oslavu, nebozůstat doma a dívat se na film. Je to na tobě" , EN: "You can either come with us to the party tonight or stay home and watch a movie, it's up to you"}
 - {CZ: "Ani červené tričko, ani to modré mi nepasovalo, tak jsem se rozhodl/a jít do jiného obchodu" , EN: "Neither the red shirt nor the blue one fit me properly, so I decided to try a different store"}
-- {CZ: "Můj pokoj je jak prostorný, tak praticky umístěný poblíž veřejné dopravy ", EN: "My new apartment is both spacious and conveniently located near public transportation"}
+- {CZ: "Můj pokoj je jak prostorný, tak praticky umístěný poblíž veřejné dopravy", EN: "My new apartment is both spacious and conveniently located near public transportation"}
 
 soquestions:
 - {CZ: Kdo volal Johnovi, EN: Who phoned John}
 - {CZ: Kolik lidí navštívilo koncert, EN: How many people attended the concert}
-- {CZ: Co koupil Jeremy v Irsku, EN:  What did Jeremy buy in Ireland}
+- {CZ: Co koupil Jeremy v Irsku, EN: What did Jeremy buy in Ireland}
 - {CZ: Které auto dorazilo první, EN:	Which car arrived first}
 - {CZ: Kdo chodí do postele brzy, EN: Who goes to bed early}
 
