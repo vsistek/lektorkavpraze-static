@@ -40,6 +40,14 @@ soquestions:
 - {CZ: Které auto dorazilo první, EN: Which car arrived first}
 - {CZ: Kdo chodí do postele brzy, EN: Who goes to bed early}
 
+consentences:
+- {CZ: "Přestože silně pršelo, rozhodla se jít běhat do parku", EN: "Although it was raining heavily, she decided to go for a run in the park"}
+- {CZ: Navzdory hustému provozu se jim povedle dorazit na meeting včas, EN: " Despite/In spite of the heavy traffic, they managed to arrive on time for the meeting."}
+- {CZ: "Jakkoli moc se snažil, nedokázal tu hádanku vyřešit", EN: However hard he tried, he couldn't solve the puzzle}
+- {CZ: " Sněžilo, my jsme však šli do zoo", EN: "It was snowing. However, we went to the zoo"}
+
+pursentences:
+- {CZ: "Vstala btzy, aby mohla dokončit práci před uzávěrkou", EN: She woke up early so that she could finish her work before the deadline}
 
 templates:
 - ["[present:CZ].","[present:EN]."]
@@ -50,3 +58,5 @@ templates:
 - ["[pmodals:CZ].","[pmodals:EN]."]
 - ["[either:CZ].","[either:EN]."]
 - ["[soquestions:CZ]?","[soquestions:EN]?"]
+- ["[consentences:CZ].","[consentences:EN]."]
+- ["[pursentences:CZ].","[pursentences:EN]."]
