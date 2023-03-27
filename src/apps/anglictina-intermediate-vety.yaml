@@ -47,7 +47,10 @@ consentences:
 - {CZ: " Sněžilo, my jsme však šli do zoo", EN: "It was snowing. However, we went to the zoo"}
 
 pursentences:
-- {CZ: "Vstala btzy, aby mohla dokončit práci před uzávěrkou", EN: She woke up early so that she could finish her work before the deadline}
+- {CZ: "Vstala brzy, aby mohla dokončit práci před uzávěrkou", EN: She woke up early so that she could finish her work before the deadline}
+
+relclauses:
+- {CZ: "Řekněte mi něco, co není ve Vašem životopise", EN: Tell me semothing that is not on your resume/CV}
 
 templates:
 - ["[present:CZ].","[present:EN]."]
@@ -60,3 +63,4 @@ templates:
 - ["[soquestions:CZ]?","[soquestions:EN]?"]
 - ["[consentences:CZ].","[consentences:EN]."]
 - ["[pursentences:CZ].","[pursentences:EN]."]
+- ["[relclauses:CZ].","[relclauses:EN]."]
