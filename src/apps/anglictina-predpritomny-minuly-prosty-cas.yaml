@@ -144,6 +144,16 @@ perfectalone:
 - {CZ: Odešla, EN: She has left}
 - {CZ: Robert o tom ještě neslyšel, EN: Robert hasn't heard about it yet}
 - {CZ: On o tom slyšel předtím, EN: he has heard about it before}
+- {CZ: "Matka začala cvičit jógu a získala více energie", EN: "Mother started doing yoga and has gained more energy"}
+- {CZ: "Otec postavil nový krb a v místnosti udělal útulno", EN: "Father built a new fireplace and has made the room cozy"}
+- {CZ: "Pes dostal nový obojek a několikrát utekl z dvora", EN: "The dog got a new collar and has escaped from the yard a few times"}
+- {CZ: "Kočka přišla k nám domů a nachytala spoustu myší", EN: "The cat came to our home and has caught many mice"}
+- {CZ: "Naše rodina získala nové auto a ušetřila hodně času", EN: "Our family got a new car and has saved a lot of time"}
+- {CZ: "Studenti dostali nové učebnice a jejich výkon se zlepšil", EN: "The students got new textbooks and their performance has improved"}
+- {CZ: "Učitelé zavedli nový výukový přístup a naučili se více", EN: "The teachers introduced a new teaching approach and have learned more"}
+- {CZ: "Počítač dostal nový software a úkoly zpracovával rychleji", EN: "The computer received new software and has processed tasks more quickly"}
+- {CZ: "Školní knihovna získala nové knihy a poptávka po čtení se zvýšila", EN: "The school library acquired new books and the demand for reading has increased"}
+- {CZ: "Firma zavedla nový systém práce z domova a pracovní flexibilita se zlepšila", EN: "The company implemented a new remote work system and work flexibility has improved"}
 
 twopasts:
 - {CZ: "Když jsem byla mladší,hrála jsem tenis", EN: I played tennis when I was younger}
