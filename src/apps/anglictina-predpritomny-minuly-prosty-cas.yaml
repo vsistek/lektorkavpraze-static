@@ -192,6 +192,11 @@ questions:
 - {CZ: Co se stalo, EN: What happened}
 - {CZ: Kde jste byli, EN: Where have you been}
 - {CZ: Kdy jste to viděli, EN: When did you see}
+- {CZ: "Stala se nehoda", EN: "Has there been an accident"}
+- {CZ: "Lidé necestovali na Venuši", EN: "Have people not traveled to Venus"}
+- {CZ: "Alex studovala dva cizí jazyky", EN: "Has Alex studied two foreign languages"}
+- {CZ: "Naučila se mluvit španělsky", EN: "Has she learned to speak Spanish"}
+- {CZ: "Odešla do knihovny", EN: "Has she gone to the library"}
 
 templates:
 - ["[beperfect1a:CZ] [perfectnext1:CZ].","[beperfect1a:EN] [perfectnext1:EN]."]
