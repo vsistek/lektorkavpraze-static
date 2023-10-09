@@ -13,7 +13,7 @@ Doučování dětí základních a&nbsp;středních škol se věnuji již více 
 
 Doučuji **matematiku, češtinu, angličtinu** a&nbsp;dle dohody i&nbsp;ostatní předměty.
 
-.**Výuka může probíhat i online** s pomocí interaktivní tabule.
+**Výuka může probíhat i online** s pomocí interaktivní tabule.
 
 Cena jedné individuální lekce je **350 Kč/45min.**
 
