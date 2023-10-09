@@ -13,7 +13,7 @@ Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toh
 
 V rámci studia na FHS UK jsem absolvovala zkouška "Ověření jazykové kompetence z angličtiny", která potvrzuje znalost angličtiny na úrovni absolventů evropských univerzit**.
 
-Studovala jsem též na **zahraniční univerzitě** v&nbsp;angličtině, pracovala v&nbsp;**Irsku** a&nbsp;ve **Velké Británii**.
+Studovala jsem též na **zahraniční univerzitě** v&nbsp;angličtině, pracovala jsem v&nbsp;**Irsku** a&nbsp;ve **Velké Británii**.
 
 Cena jedné standardní individuální lekce je **360 Kč/45min.**
 
