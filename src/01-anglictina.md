@@ -9,11 +9,13 @@
 
 ![ilustrační foto](/images/anglictina.jpg){: #illustration }
 
-Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toho,&nbsp;že je nezbytné věnovat stejnou pozornost všem aspektům jazyka.
+Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toho,&nbsp;že je nezbytné věnovat stejnou pozornost všem aspektům jazyka a že lekce by měla studenty bavit.
 
-V rámci studia na FHS UK jsem obdržela certifikát na úrovni C1 zaměřený na akademickou angličtinu. Studovala jsem na zahraniční univerzitě v&nbsp;angličtině, pracovala v&nbsp;Irsku a&nbsp;ve Velké Británii.
+V rámci studia na FHS UK jsem absolvovala zkouška "Ověření jazykové kompetence z angličtiny", která potvrzuje znalost angličtiny na úrovni absolventů evropských univerzit). Studovala jsem na zahraniční univerzitě v&nbsp;angličtině, pracovala v&nbsp;Irsku a&nbsp;ve Velké Británii.
 
 Cena jedné standardní individuální lekce je **360 Kč/45min.**
+
+**Výuka je možná i online.**
 
 Cena výuky pro dvojice je **220 Kč/45min za osobu**.
 
