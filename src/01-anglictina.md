@@ -9,9 +9,9 @@
 
 ![ilustrační foto](/images/anglictina.jpg){: #illustration }
 
-Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toho,&nbsp;že je nezbytné věnovat stejnou pozornost všem aspektům jazyka a že lekce by měla studenty bavit.
+Individuální výuce angličtiny se věnuji více než 10 let. Vycházím z toho,&nbsp;že je nezbytné věnovat stejnou pozornost všem aspektům jazyka a že **lekce by měla studenty bavit**.
 
-V rámci studia na FHS UK jsem absolvovala zkouška "Ověření jazykové kompetence z angličtiny", která potvrzuje znalost angličtiny na úrovni absolventů evropských univerzit). Studovala jsem na zahraniční univerzitě v&nbsp;angličtině, pracovala v&nbsp;Irsku a&nbsp;ve Velké Británii.
+V rámci studia na FHS UK jsem absolvovala zkouška "Ověření jazykové kompetence z angličtiny", která potvrzuje znalost angličtiny na úrovni absolventů evropských univerzit. Studovala jsem na zahraniční univerzitě v&nbsp;angličtině, pracovala v&nbsp;Irsku a&nbsp;ve Velké Británii.
 
 Cena jedné standardní individuální lekce je **360 Kč/45min.**
 
