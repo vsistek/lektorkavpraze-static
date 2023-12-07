@@ -15,8 +15,7 @@ Doučuji **matematiku, češtinu, angličtinu** a&nbsp;dle dohody i&nbsp;ostatn�
 
 **Výuka může probíhat i online** s pomocí interaktivní tabule.
 
-Cena jedné individuální lekce je **350 Kč/45min.**
-
+Cena jedné individuální lekce je **370 Kč/45min.**
 Cena výuky pro dvojice je **220 Kč/45min. za osobu**.
 
 Cena pro skupiny je stanovena dohodou.
