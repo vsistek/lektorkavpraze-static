@@ -2,6 +2,9 @@ present:
 - {CZ: Těším se na dovolenou příští měsíc, EN: I am looking forward to my vacation next month}
 - {CZ: "Obvykle jezdím tramvají, ale dneska jedu na kole", EN: "I usually go by tram, but today I go by bike"}
 
+past:
+- {CZ: "Když jsem vařil/a večeři, zazvonil telefon a rychle jsem ho vzal/a", EN: "While I was cooking dinner, the phone rang, and I quickly answered it"}
+
 pperfect:
 - {CZ: Právě dočetl nejnovější knihu od svého oblíbeného autora, EN: He has just finished reading the latest novel by his favorite author}
 - {CZ: "Společnost nedávno zavedla nová pravidla, aby snížila svoji uhlíkovou stopu", EN: The company has recently introduced new rules to reduce its carbon footprint}
@@ -54,6 +57,7 @@ relclauses:
 
 templates:
 - ["[present:CZ].","[present:EN]."]
+- ["[past:CZ].","[past:EN]."]
 - ["[pperfect:CZ].","[pperfect:EN]."]
 - ["[pastperfect:CZ].","[pastperfect:EN]."]
 - ["[conditionals:CZ].","[conditionals:EN]."]
