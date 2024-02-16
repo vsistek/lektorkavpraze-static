@@ -25,6 +25,10 @@ a.active {
         box-shadow: #434343;
 }
 
+#contact a {
+	color: #000000;
+}
+
 #menu {
         background-color: rgba(0,0,0,0.75);
 }
