@@ -143,6 +143,10 @@ a.active {
 	box-shadow: 2px 4px 0 0 #bcbcbc;
 }
 
+#contact a {
+	color: #ffffff;
+}
+
 .appsmenu {
         font-size: 22px;
 	list-style-type: none;
