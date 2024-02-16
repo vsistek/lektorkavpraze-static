@@ -4,21 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* Styly pro ikony */
-    #contact .icon {
-      font-size: 1.2em; /* Velikost ikon */
-      margin-right: 5px; /* Mezera mezi ikonami a textem */
-    }
-
     /* Styly pro červené telefonní číslo */
     #contact .phone {
       color: red; /* Nastavení červené barvy */
     }
 
-    /* Styly pro proklikávací email */
+    /* Styly pro bílý email s ikonou */
     #contact .email {
-      color: blue; /* Nastavení modré barvy */
+      color: white; /* Nastavení bílé barvy */
       text-decoration: none; /* Odstranění podtržení */
+    }
+
+    /* Styly pro ikonu telefonu */
+    .phone-icon {
+      font-size: 1em; /* Velikost ikony */
+      margin-right: 5px; /* Mezera mezi ikonou a textem */
     }
   </style>
 </head>
@@ -30,11 +30,11 @@
        143 00 Praha 4 - Modřany
     </p>
     <p>
-      <span class="icon">&#x1F4F1;</span> <!-- Symbol telefonu -->
+      <span class="phone-icon">&#9742;</span> <!-- Symbol telefonu -->
       <a href="tel:+420724559267" class="phone">+420 724 559 267</a>
     </p>
     <p>
-      <span class="icon">&#x2709;</span> <!-- Symbol obálky -->
+      <span class="phone-icon">&#9993;</span> <!-- Symbol obálky -->
       <a href="mailto:monika.sistkova@gmail.com" class="email">monika.sistkova@gmail.com</a>
     </p>
   </div>
