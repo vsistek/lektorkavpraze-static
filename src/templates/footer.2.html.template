@@ -6,7 +6,9 @@
   <style>
     /* Styly pro červené telefonní číslo */
     #contact .phone {
-      color: red; /* Nastavení červené barvy */
+      color: white; /* Nastavení bílé barvy */
+      font-weight: normal; /* Nastavení normálního stylu */
+      text-decoration: none; /* Odstranění podtržení */
     }
 
     /* Styly pro bílý email */
