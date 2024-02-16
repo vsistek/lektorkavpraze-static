@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Styly pro červené telefonní číslo */
-    #contact .phone {
-      color: white; /* Nastavení bílé barvy */
-      font-weight: normal; /* Nastavení normálního stylu */
-      text-decoration: none; /* Odstranění podtržení */
-    }
-
-    /* Styly pro bílý email */
-    #contact .email {
-      color: white; /* Nastavení bílé barvy */
-      text-decoration: none; /* Odstranění podtržení */
-      font-size: 0.9em; /* Velikost písma */
-      max-width: 200px; /* Maximální šířka, aby se vešlo */
-      overflow: hidden; /* Přetečení skryté */
-      white-space: nowrap; /* Nezlomit řádek */
-      text-overflow: ellipsis; /* Zobrazení "..." při přetečení */
-    }
-  </style>
-</head>
-<body>
   <div id="contact">
     <b>Kontakt</b><br>
     <p>Mgr. Monika Šístková<br/>
@@ -31,10 +5,10 @@
        143 00 Praha 4 - Modřany
     </p>
     <p>
-      <a href="tel:+420724559267" class="phone">+420 724 559 267</a>
+      <a href="tel:+420724559267">+420 724 559 267</a>
     </p>
     <p>
-      <a href="mailto:monika.sistkova@gmail.com" class="email">monika.sistkova@gmail.com</a>
+      <a href="mailto:monika.sistkova@gmail.com">monika.sistkova@gmail.com</a>
     </p>
   </div>
 </body>
