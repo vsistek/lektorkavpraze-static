@@ -15,7 +15,7 @@
     #contact .email {
       color: white; /* Nastavení bílé barvy */
       text-decoration: none; /* Odstranění podtržení */
-      font-size: 1em; /* Velikost písma */
+      font-size: 0.9em; /* Velikost písma */
       max-width: 200px; /* Maximální šířka, aby se vešlo */
       overflow: hidden; /* Přetečení skryté */
       white-space: nowrap; /* Nezlomit řádek */
