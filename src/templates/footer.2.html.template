@@ -1,14 +1,24 @@
-html
-Copy code
 <!DOCTYPE html>
 <html lang="cs">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+    /* Styly pro ikony */
+    #contact .icon {
+      font-size: 1.2em; /* Velikost ikon */
+      margin-right: 5px; /* Mezera mezi ikonami a textem */
+    }
+
     /* Styly pro červené telefonní číslo */
     #contact .phone {
       color: red; /* Nastavení červené barvy */
+    }
+
+    /* Styly pro proklikávací email */
+    #contact .email {
+      color: blue; /* Nastavení modré barvy */
+      text-decoration: none; /* Odstranění podtržení */
     }
   </style>
 </head>
@@ -19,8 +29,14 @@ Copy code
        Zlochova 2193/1<br/>
        143 00 Praha 4 - Modřany
     </p>
-    <p>monika.sistkova@gmail.com</p>
-    <p><span class="phone">&#9742;</span> <a href="tel:+420724559267" class="phone">+420 724 559 267</a></p>
+    <p>
+      <span class="icon">&#x1F4F1;</span> <!-- Symbol telefonu -->
+      <a href="tel:+420724559267" class="phone">+420 724 559 267</a>
+    </p>
+    <p>
+      <span class="icon">&#x2709;</span> <!-- Symbol obálky -->
+      <a href="mailto:monika.sistkova@gmail.com" class="email">monika.sistkova@gmail.com</a>
+    </p>
   </div>
 </body>
 </html>
