@@ -13,11 +13,12 @@
     #contact .email {
       color: white; /* Nastavení bílé barvy */
       text-decoration: none; /* Odstranění podtržení */
+      font-size: 0.8em; /* Zmenšení písma */
     }
 
     /* Styly pro ikonu telefonu */
-    .phone-icon {
-      font-size: 0.8em; /* Velikost ikony */
+    .phone-icon, .email-icon {
+      font-size: 1em; /* Velikost ikon */
       margin-right: 5px; /* Mezera mezi ikonou a textem */
     }
   </style>
@@ -34,7 +35,7 @@
       <a href="tel:+420724559267" class="phone">+420 724 559 267</a>
     </p>
     <p>
-      <span class="phone-icon">&#9993;</span> <!-- Symbol obálky -->
+      <span class="email-icon">&#9993;</span> <!-- Symbol obálky -->
       <a href="mailto:monika.sistkova@gmail.com" class="email">monika.sistkova@gmail.com</a>
     </p>
   </div>
