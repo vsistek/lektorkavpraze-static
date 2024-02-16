@@ -17,7 +17,7 @@
 
     /* Styly pro ikonu telefonu */
     .phone-icon {
-      font-size: 1em; /* Velikost ikony */
+      font-size: 0.8em; /* Velikost ikony */
       margin-right: 5px; /* Mezera mezi ikonou a textem */
     }
   </style>
