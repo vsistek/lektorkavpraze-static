@@ -6,6 +6,9 @@ past:
 - {CZ: "Když jsem vařil/a večeři, zazvonil telefon a rychle jsem ho vzal/a", EN: "While I was cooking dinner, the phone rang, and I quickly answered it"}
 - {CZ: He found his lost keys in the living room yesterday, EN: He found his lost keys in the living room yesterday}
 
+future:
+- {CZ: "Budou stavět nový most přes řeku celý příští rok", EN: They will be building a new bridge over the river all next year}
+
 pperfect:
 - {CZ: Právě dočetl nejnovější knihu od svého oblíbeného autora, EN: He has just finished reading the latest novel by his favorite author}
 - {CZ: "Společnost nedávno zavedla nová pravidla, aby snížila svoji uhlíkovou stopu", EN: The company has recently introduced new rules to reduce its carbon footprint}
@@ -26,6 +29,8 @@ passive:
 - {CZ: Dům se právě uklízí, EN: The house is being cleaned right now}
 - {CZ: Rozhodnutí uzavřít továrnu bylo učiněno před mnoha lety, EN: The decision to close the factory was made years ago}
 - {CZ: Silnice už se opravuje měsíce, EN: The road has been being repaired for months}
+- {CZ: Návrh byl přijat jednomyslně, EN: The proposal was unanimously accepted}
+- {CZ: Tajemství bylo odhaleno, EN: The secret has been revealed}
 
 pmodals:
 - {CZ: "Měl/a jsem se na tu zkoušku učit víc", EN: I should have studied more for the exam}
@@ -52,6 +57,7 @@ consentences:
 
 pursentences:
 - {CZ: "Vstala brzy, aby mohla dokončit práci před uzávěrkou", EN: She woke up early so that she could finish her work before the deadline}
+- {CZ: "Zavolali jí, aby jí pogratulovali k významnému úspěchu", EN: They called her to congratulate her on her significant achievement}
 
 relclauses:
 - {CZ: "Řekněte mi něco, co není ve Vašem životopise", EN: Tell me semothing that is not on your resume/CV}
@@ -69,3 +75,4 @@ templates:
 - ["[consentences:CZ].","[consentences:EN]."]
 - ["[pursentences:CZ].","[pursentences:EN]."]
 - ["[relclauses:CZ].","[relclauses:EN]."]
+- ["[future:CZ].","[future:EN]."]
