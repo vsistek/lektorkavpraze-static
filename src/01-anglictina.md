@@ -15,7 +15,7 @@ V rámci studia na FHS UK jsem absolvovala zkoušku "Ověření jazykové kompet
 
 Studovala jsem též na **zahraniční univerzitě** v&nbsp;angličtině, pracovala jsem v&nbsp;**Irsku** a&nbsp;ve **Velké Británii**.
 
-Cena jedné standardní individuální lekce je **400 Kč/45min.**
+Cena jedné standardní individuální lekce je **400 Kč/45min**.
 
 **Výuka je možná i online.**
 
