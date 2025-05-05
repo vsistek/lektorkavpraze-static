@@ -17,7 +17,7 @@ Studovala jsem též na **zahraniční univerzitě** v&nbsp;angličtině, pracov
 
 Cena jedné standardní individuální lekce je **400 Kč/45min**.
 
-**Výuka je možná i online .**
+**Výuka je možná i online. Učíte se z domova, bez dojíždění – pohodlně, efektivně a osobně.**
 
 Cena výuky pro dvojice je **250 Kč/45min za osobu**.
 
