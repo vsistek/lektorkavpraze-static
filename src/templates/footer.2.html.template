@@ -1,12 +1,11 @@
   <div id="contact">
-    <p>Mgr. Monika Šístková<br/>
+    <b>Kontaktujte mě:</b><br>
+      <a href="tel:+420724559267">+420 724 559 267</a><br/>
+      <a href="mailto:monika.sistkova@gmail.com">monika.sistkova@gmail.com</a></p>
+    <p>
+     <p>Mgr. Monika Šístková<br/>
        Zlochova 2193/1<br/>
        143 00 Praha 4 - Modřany
-    </p>
-    <p>
-      <b>Kontaktujte mě:</b><br>
-      <a href="tel:+420724559267">+420 724 559 267</a><br/>
-      <a href="mailto:monika.sistkova@gmail.com">monika.sistkova@gmail.com</a>
     </p>
   </div>
 </body>
