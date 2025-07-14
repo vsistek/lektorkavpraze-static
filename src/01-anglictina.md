@@ -15,11 +15,11 @@ Na Fakultě humanitních studií Univerzity Karlovy jsem absolvovala jazykovou z
 
 Studovala jsem též na **zahraniční univerzitě** v&nbsp;angličtině, pracovala jsem v&nbsp;**Irsku** a&nbsp;ve **Velké Británii**.
 
-Cena jedné standardní individuální lekce je **400 Kč/45min**.
+Cena jedné standardní individuální lekce je **430 Kč/45min**.
 
 **Výuka je možná i online. Učíte se z domova, bez dojíždění – pohodlně a efektivně.**
 
-Cena výuky pro dvojice je **250 Kč/45min za osobu**.
+Cena výuky pro dvojice je **280 Kč/45min za osobu**.
 
 Cena pro skupiny je stanovena dohodou.
 
